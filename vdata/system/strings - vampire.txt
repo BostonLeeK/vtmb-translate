@@ -12,205 +12,205 @@ StringData
 
 	 	Gender
 		{
-	 		"Name0"	"Female"
-		 	"Name1"	"Male"
+	 		"Name0"	"Жiнка"
+		 	"Name1"	"Чоловiк"
 	 	}
 
 		Level
 		{
-			"Name0"	"Below Low"
-			"Name1"	"Low"
-		 	"Name2"	"Medium"
-		 	"Name3"	"High"
+			"Name0"	"Нижче низького"
+			"Name1"	"Низький"
+		 	"Name2"	"Середнiй"
+		 	"Name3"	"Високий"
 		}
 
 		HealthLevel
 		{
-			"Name0"	"Uninjured"
-			"Name1"	"Bruised"
-			"Name2"	"Hurt"
-			"Name3"	"Injured"
-			"Name4"	"Wounded"
-			"Name5"	"Mauled"
-			"Name6"	"Crippled"
-			"Name7"	"Incapacitated"
+			"Name0"	"Неушкоджений"
+			"Name1"	"Пошкоджений"
+			"Name2"	"Поранення"
+			"Name3"	"Поранений"
+			"Name4"	"Поранений"
+			"Name5"	"Розiрваний"
+			"Name6"	"Покалiчений"
+			"Name7"	"Недiєздатний"
 		}
 
 		HumanityLevel
 		{
-			"Name0"	"Horrific"
-			"Name1"	"Bestial"
-			"Name2"	"Cold"
-			"Name3"	"Unfeeling"
-			"Name4"	"Distant"
-			"Name5"	"Removed"
-			"Name6"	"Normal"
-			"Name7"	"Caring"
-			"Name8"	"Compassionate"
-			"Name9"	"Saintly"
+			"Name0"	"Жахливий"
+			"Name1"	"Тваринний"
+			"Name2"	"Холод"
+			"Name3"	"Безчутний"
+			"Name4"	"Вiддалений"
+			"Name5"	"Вилучено"
+			"Name6"	"Звичайний"
+			"Name7"	"Турбота"
+			"Name8"	"Милосердний"
+			"Name9"	"Святий"
 		}
 
 		AttributeLevel
 		{
-			"Name0"	"Unnaturally Poor"
-			"Name1"	"Poor"
-			"Name2"	"Average"
-			"Name3"	"Good"
-			"Name4"	"Exceptional"
-			"Name5"	"Outstanding"
+			"Name0"	"Надмiрно бiдний"
+			"Name1"	"Бiдний"
+			"Name2"	"Середнiй"
+			"Name3"	"Добре"
+			"Name4"	"Винятковий"
+			"Name5"	"Видатний"
 		}
 
 		AbilityLevel
 		{
-			"Name0"	"Unknown"
-			"Name1"	"Novice"
-			"Name2"	"Practiced"
-			"Name3"	"Competent"
-			"Name4"	"Expert"
-			"Name5"	"Master"
+			"Name0"	"Невiдомо"
+			"Name1"	"Новачок"
+			"Name2"	"Вправлений"
+			"Name3"	"Компетентний"
+			"Name4"	"Експерт"
+			"Name5"	"Майстер"
 		}
 
 		DisciplineLevel
 		{
-			"Name0"	"Hint of Awakening"
-			"Name1"	"Barely Awakened"
-			"Name2"	"Awakened"
-			"Name3"	"Level 3"
-			"Name4"	"Level 4"
-			"Name5"	"Mastery"
+			"Name0"	"Натяк на Пробудження"
+			"Name1"	"Ледь прокинувшись"
+			"Name2"	"Пробуджений"
+			"Name3"	"Рiвень 3."
+			"Name4"	"Рiвень 4"
+			"Name5"	"Майстернiсть"
 		}
 
 		WillpowerLevel
 		{
-			"Name0"	"Spineless"
-			"Name1"	"Weak"
-			"Name2"	"Unassertive"
-			"Name3"	"Diffident"
-			"Name4"	"Certain"
-			"Name5"	"Confident"
-			"Name6"	"Determined"
-			"Name7"	"Controlled"
-			"Name8"	"Iron-Willed"
-			"Name9"	"Unshakable"
+			"Name0"	"Безхребетний"
+			"Name1"	"Слабкий"
+			"Name2"	"Неасертивний"
+			"Name3"	"Неуверений"
+			"Name4"	"Певний"
+			"Name5"	"Впевнений"
+			"Name6"	"Визначений"
+			"Name7"	"Контрольований"
+			"Name8"	"Залiзна воля"
+			"Name9"	"Непохитний"
 		}
 
 		KineKindred
 		{
-			"Name0"	"Kine"
-			"Name1"	"Kindred"
+			"Name0"	"Кiн (Kine)"
+			"Name1"	"Вампiр"
 		}
 
 		KineKindredDescriptions
 		{
-			"Name0"	"A normal human being."
-			"Name1"	"One of the vampiric undead."
+			"Name0"	"Звичайна людина."
+			"Name1"	"Один iз вампiрських неживих."
 		}
 
 		CostStrings
 		{
-			"Name0"	"Cost"
-			"Name1"	"New"
-			"Name2"	"Raise"
-			"Name3"	"Current_Rating"
-			"Name4"	"Initial Cost"
-			"Name5" "Remaining Points"
-			"Name6" "Value"
+			"Name0"	"Вартiсть"
+			"Name1"	"Нове"
+			"Name2"	"Пiдвищення"
+			"Name3"	"Поточний_рейтинг"
+			"Name4"	"Початкова вартiсть"
+			"Name5" "Залишилося очок"
+			"Name6" "Значення"
 		}
 
 		ClanStrs
 		{
-			"Name0"	"None"
-			"Name1"	"Brujah"
-			"Name2"	"Gangrel"
-			"Name3"	"Malkavian"
-			"Name4"	"Nosferatu"
-			"Name5"	"Toreador"
-			"Name6"	"Tremere"
-			"Name7"	"Ventrue"
+			"Name0"	"Нiчого"
+			"Name1"	"Брухi."
+			"Name2"	"Гангрел"
+			"Name3"	"Малкавiан"
+			"Name4"	"Носферату"
+			"Name5"	"Тореадор"
+			"Name6"	"Тремер"
+			"Name7"	"Вентру"
 		}
 
 		AttributeGroup
 		{
-			"Name0"		"Physical"
-			"Name1"		"Social"
-			"Name2"		"Mental"
+			"Name0"		"Фiзичнi"
+			"Name1"		"Соцiальне"
+			"Name2"		"Ментальнi"
 		}
 
 		AbilityGroup
 		{
-			"Name0"		"Talents"
-			"Name1"		"Skills"
-			"Name2"		"Knowledges"
+			"Name0"		"Таланти"
+			"Name1"		"Навички"
+			"Name2"		"Знання"
 		}
 
 		FeatGroup
 		{
 // Old Headings:
-//				"Name0"		"Combat"
-//				"Name1"		"Physical"
-//				"Name2"		"Mental"
-//				"Name3"		"Social"
+//				"Name0"		"Бiй"
+//				"Name1"		"Фiзичнi"
+//				"Name2"		"Ментальнi"
+//				"Name3"		"Соцiальне"
 
 // New Headings: (6/15/04)
-			"Name0"		"Combat"
-			"Name1"		"Covert"
-			"Name2"		"Public"	// changed by wesp
-			"Name3"		"Soak"
+			"Name0"		"Бiй"
+			"Name1"		"Прихований"
+			"Name2"		"Громадськiсть"	// changed by wesp
+			"Name3"		"Вбирання"
 		}
 
 		NuminaGroup
 		{
-			"Name0"		"Numina"
+			"Name0"		"Нумiна"
 		}
 
 		MiscStrs
 		{
-			"Name0"		"None"
-			"Name1"		"Melee Weapons"
-			"Name2"		"Ranged Weapons"
-			"Name3"		"Bloodpack"
-			"Name4"		"Blue Bloodpack"
-			"Name5"		"Elder Bloodpack"
-			"Name6"		"Hotkeys"
+			"Name0"		"Нiчого"
+			"Name1"		"Ближнi зброї"
+			"Name2"		"Вогнепальна зброя"
+			"Name3"		"Кров'яний загiн"
+			"Name4"		"Синiй Кровний Стяг"
+			"Name5"		"Старший Кровний Союз"
+			"Name6"		"Гарячi клавiшi"
 		}
 
 		UIAppearanceStrs
 		{
-			"Name0"		"Head"
-			"Name1"		"Hair"
-			"Name2"		"Accessories"
-			"Name3"		"Color"
+			"Name0"		"Голова"
+			"Name1"		"Волосся"
+			"Name2"		"Аксесуари"
+			"Name3"		"Колiр"
 		}
 
 		UIMiscStrs	// Note: Some of these are buttons on the character editor
 		{
-			"Name0"		"Armor"
-			"Name1"		"Info"
-			"Name2"		"Appearance"
-			"Name3"		"Affiliation"
-			"Name4"		"Archetype"
-			"Name5"		"Cancel"
-			"Name6"		"Accept"
-			"Name7"		"Play"
-			"Name8"		"  You have %d Total XP to spend."
-			"Name9"		"  Kills = %d XP"
-			"Name10"		"  Dmg Inflicted = %3.2f XP"
-			"Name11"		"  TeamWin = %d XP"
-			"Name12"		"  TeamLoss = %d XP"
-			"Name13"		"  RoundGoals %d X %1.2f = %2.2f XP"
-			"Name14"		"  SubGoals %d X %1.2f = %2.2f XP"
-			"Name15"		"Next"
-			"Name16"		"Reset Stats"
-			"Name17"		"Points Remaining"
-			"Name18"		"You must spend all points to continue."
-			"Name19"		"UP/DN Arrow Keys Scroll"
-			"Name20"		"Auto-Level is Off"	// Turn on 'Auto-Levelling', changed by wesp
-			"Name21"		"Auto-Level is On"	// Turn off 'Auto-Levelling', changed by wesp
-			"Name22"		"Auto-Spend Points"	// Auto Spend Points
-			"Name23"		"Turns Off automatic spending of experience points."	// Auto-Level Points
-			"Name24"		"Turns On automatic spending of experience points."	// Auto-Level Points
-			"Name25"		"Automatically spends your starting character points."	// Auto Spend Points
-			"Name26"		"Undoes all of your current changes."	// Reset Stats
+			"Name0"		"Броня"
+			"Name1"		"Інформацiя"
+			"Name2"		"Зовнiшнiсть"
+			"Name3"		"Приналежнiсть"
+			"Name4"		"Архетип"
+			"Name5"		"Скасувати"
+			"Name6"		"Прийнято"
+			"Name7"		"Грати"
+			"Name8"		"У вас є %d загальних ОП, якi можна витратити."
+			"Name9"		"Вбивства = %d ОП"
+			"Name10"		"Шкода, завдана = %3.2f ОП"
+			"Name11"		"Командна перемога = %d ОП"
+			"Name12"		"Командна втрата = %d ОП"
+			"Name13"		"Кiлькiсть мет цього раунду %d X %1.2f = %2.2f ОП."
+			"Name14"		"Пiдцiлi %d X %1.2f = %2.2f ОП"
+			"Name15"		"Далi"
+			"Name16"		"Скинути статистику"
+			"Name17"		"Залишилося очок"
+			"Name18"		"Вам потрiбно витратити всi очки, щоб продовжити."
+			"Name19"		"Стрiлки ВГ/НЗ прокручують."
+			"Name20"		"Автоматичне рiвень вимкнено"	// Turn on 'Auto-Levelling', changed by wesp
+			"Name21"		"Автоматичне рiвнювання увiмкнено"	// Turn off 'Auto-Levelling', changed by wesp
+			"Name22"		"Автоматичне витрачання очок"	// Auto Spend Points
+			"Name23"		"Вимкнути автоматичне витрачання очок досвiду."	// Auto-Level Points
+			"Name24"		"Увiмкнути автоматичне витрачання очок досвiду."	// Auto-Level Points
+			"Name25"		"Автоматично витрачає вашi початковi бали персонажа."	// Auto Spend Points
+			"Name26"		"Скасовує всi вашi поточнi змiни."	// Reset Stats
 			"Name27"		"Exits without keeping your current changes."	// Cancel
 			"Name28"		"Exits without keeping your changes, returns to the Main Menu."	// Cancel
 			"Name29"		"Exits with your changes."	// Accept

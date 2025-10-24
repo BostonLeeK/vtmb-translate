@@ -15,7 +15,7 @@ StatData
 
 	Attributes
 	{
-		"Name"		"Attributes"
+		"Name"		"Атрибути"
 		"InternalName"	"Attributes"
 
 		Costs
@@ -26,7 +26,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Attribute Order"
+			"Name"		"Порядок атрибутiв"
 			"InternalName"	"Attrib_Order"
 			"HelpText"		""
 
@@ -42,7 +42,7 @@ StatData
 
 			Table
 			{
-				"Name"		"Attribute_Order_Lookups"
+				"Name"		"Пошуковi_запити_порядку_атрибутiв"
 				"InternalName"	"Attribute_Order_Lookups"
 
 				"Clamping"		"1"
@@ -81,7 +81,7 @@ StatData
 			// Attribute Point Pools
 			Table
 			{
-				"Name"		"Subpool_Attribute_Primary_Secondary_Tertiary"
+				"Name"		"Первинний_вторинний_третинний_атрибут_пiдпул"
 				"InternalName"	"Subpool_Attribute_Primary_Secondary_Tertiary"
 				"Clamping"		"1"
 
@@ -94,7 +94,7 @@ StatData
 			// Attribute Point Pools
 			Table
 			{
-				"Name"		"Subpool_Attribute_Primary_Secondary_Tertiary_Kine"
+				"Name"		"Пiдбасейн_Атрибут_Первинний_Вторинний_Терцiарний_Кiней"
 				"InternalName"	"Subpool_Attribute_Primary_Secondary_Tertiary_Kine"
 				"Clamping"		"1"
 
@@ -106,7 +106,7 @@ StatData
 
 //			Table
 //			{
-//				"Name"		"Subpool_Attribute_No_Order"
+//				"Name"		"Пiдпул_Атрибут_Без_Порядку"
 //				"InternalName"	"Subpool_Attribute_No_Order"
 //				"Clamping"		"1"
 //
@@ -118,7 +118,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Strength"
+			"Name"		"Сила"
 			"InternalName"	"Strength"
 			"HelpText"		"Strength is a measure of your character's physical prowess. It is crucial for both the Unarmed and Melee Combat feats."
 			"HelpText2"		""
@@ -135,7 +135,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Dexterity"
+			"Name"		"Ловкiсть"
 			"InternalName"	"Dexterity"
 			"HelpText"		"Determines the agility of your character. Dexterity will increase your Lockpicking and Sneaking feats."	// changed by wesp
 			"HelpText2"		""
@@ -152,7 +152,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Stamina"
+			"Name"		"Витривалiсть"
 			"InternalName"	"Stamina"
 			"HelpText"		"Your character's overall toughness. Prevents damage from bullets, police batons, and baseball bats. Increases soak Bashing."
 			"HelpText2"		""
@@ -169,7 +169,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Charisma"
+			"Name"		"Харизма"
 			"InternalName"	"Charisma"
 			"HelpText"		"Measures your character's ability to sway others through personality. Charisma is an important part of the Persuasion feat."
 			"HelpText2"		""
@@ -188,7 +188,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Manipulation"
+			"Name"		"Манiпуляцiя"
 			"InternalName"	"Manipulation"
 			"HelpText"		"Measures your character's ability to exploit people and events. Manipulation is necessary for the Haggle feat."
 			"HelpText2"		""
@@ -207,7 +207,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Appearance"
+			"Name"		"Зовнiшнiсть"
 			"InternalName"	"Appearance"
 			"HelpText"		"Indicates the physical attractiveness of your character. Appearance is the foundation of the Seduction feat."
 			"HelpText2"		""
@@ -225,7 +225,7 @@ StatData
 
 			Table
 			{
-				"Name"		"Appearance Reaction"
+				"Name"		"Реакцiя на зовнiшнiсть"
 				"InternalName"	"Appearance_Reaction"
 
 				"Clamping"		"1"
@@ -241,7 +241,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Perception"
+			"Name"		"Сприйняття"
 			"InternalName"	"Perception"
 			"HelpText"		"Measures your character's awareness of their surroundings. Perception is necessary for the Ranged Combat and Inspection feats."
 			"HelpText2"		""
@@ -258,7 +258,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Intelligence"
+			"Name"		"Розум"
 			"InternalName"	"Intelligence"
 			"HelpText"		"Indicates your character's ability to learn, think, and remember. Intelligence is essential for the Research and Intimidate feats."
 			"HelpText2"		""
@@ -277,7 +277,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Wits"
+			"Name"		"Гострiсть"
 			"InternalName"	"Wits"
 			"HelpText"		"Measures the sharpness of your character's mind, and ability to think on their feet. Wits improve the Combat Defense and Hacking feats."	// changed by wesp
 			"HelpText2"		""
@@ -294,7 +294,7 @@ StatData
 
 //		Stat
 //		{
-//			"Name"		"Character Template"
+//			"Name"		"Шаблон Персонажа"
 //			"InternalName"	"CharTemplate"
 //			"HelpText"		""
 //
@@ -311,7 +311,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Clan"
+			"Name"		"Клан"
 			"InternalName"	"Clan"
 			"HelpText"		""
 
@@ -329,7 +329,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Gender"
+			"Name"		"Стать."
 			"InternalName"	"Gender"
 			"HelpText"		""
 
@@ -346,7 +346,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"BloodPool"
+			"Name"		"Кров'яний басейн"
 			"InternalName"	"BloodPool"
 			"HelpText"		""
 
@@ -372,7 +372,7 @@ StatData
 		Stat
 		{
 			// This is the Maximum (generally meaning the "starting" bloodpool for a critter)
-			"Name"		"BloodPool Max"
+			"Name"		"Максимальний обсяг кровi"
 			"InternalName"	"BloodPool_Max"
 			"HelpText"		""
 
@@ -389,7 +389,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"FaithPoints"
+			"Name"		"Бали Вiри"
 			"InternalName"	"FaithPoints"
 			"HelpText"		""
 
@@ -405,7 +405,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Health"
+			"Name"		"Здоров'я"
 			"InternalName"	"Health"
 			"HelpText"		""
 
@@ -422,7 +422,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Health Aggravated Dmg"
+			"Name"		"Здоров'я Агравованi Пошкодження"
 			"InternalName"	"Health_Aggravated_Dmg"
 			"HelpText"		""
 
@@ -438,7 +438,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Max Health"
+			"Name"		"Максимальне Здоров'я"
 			"InternalName"	"Max_Health"
 			"HelpText"		""
 
@@ -454,7 +454,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Generation"
+			"Name"		"Поколiння"
 			"InternalName"	"Generation"
 			"HelpText"		""
 
@@ -469,7 +469,7 @@ StatData
 
 			Table
 			{
-				"Name"		"Max Trait Rating"
+				"Name"		"Максимальний рейтинг властивостi"
 				"InternalName"	"Generation_Max_Trait_Rating"
 
 				"Clamping"		"1"
@@ -492,7 +492,7 @@ StatData
 
 			Table
 			{
-				"Name"		"Blood Pool Max"
+				"Name"		"Максимальний обсяг кровi"
 				"InternalName"	"Generation_Blood_Pool_Max"
 
 				"Clamping"		"1"
@@ -515,7 +515,7 @@ StatData
 
 			Table
 			{
-				"Name"		"Blood Points/Turn"
+				"Name"		"Кров'янi Очки/Хiд"
 				"InternalName"	"Generation_Blood_Points_Turn"
 
 				"Clamping"		"1"
@@ -539,7 +539,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Armor Rating"
+			"Name"		"Рейтинг бронi"
 			"InternalName"	"Armor_Rating"
 			"HelpText"		""
 
@@ -557,7 +557,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Level"
+			"Name"		"Рiвень"
 			"InternalName"	"Level"
 			"HelpText"		""
 
@@ -576,7 +576,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Frenzy Check Modifier"
+			"Name"		"Модифiкатор перевiрки бiса"
 			"InternalName"	"Frenzy_Check_Mod"
 			"HelpText"		""
 
@@ -594,7 +594,7 @@ StatData
 
 //		Stat
 //		{
-//			"Name"		"Frenzy Duration Modifier"
+//			"Name"		"Модифiкатор тривалостi бiса"
 //			"InternalName"	"Frenzy_Duration_Mod"
 //			"HelpText"		""
 //
@@ -612,7 +612,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Soak Pool"
+			"Name"		"Пул поглинання"
 			"InternalName"	"Soak_Pool"
 			"HelpText"		""
 
@@ -630,7 +630,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Automatic Soak Successes"
+			"Name"		"Автоматичнi успiхи поглинання"
 			"InternalName"	"Automatic_Soak_Successes"
 			"HelpText"		""
 
@@ -648,7 +648,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Automatic Str Successes"
+			"Name"		"Автоматичнi успiхи при Силi Волi"
 			"InternalName"	"Automatic_Str_Successes"
 			"HelpText"		""
 
@@ -666,7 +666,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"HealthBuffer"
+			"Name"		"Запас здоров'я"
 			"InternalName"	"HealthBuffer"
 			"HelpText"		""
 
@@ -684,7 +684,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Encumbrance"
+			"Name"		"Обтяження"
 			"InternalName"	"Encumbrance"
 			"HelpText"		""
 
@@ -700,7 +700,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Humanity"
+			"Name"		"Людство"
 			"InternalName"	"Humanity"
 			"HelpText"	"Although monsters by nature, most vampires cling to Humanity to survive in the mortal world. Humanity is the ability to keep your predatory nature at bay, and your first line of defense against frenzy. If you cause the death of an innocent human you will lose Humanity. You will frenzy more often if your Humanity is low."
 
@@ -719,7 +719,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Masquerade"
+			"Name"		"Маскарад"
 			"InternalName"	"Masquerade"
 			"HelpText"		"The Masquerade is the code of secrecy that hides vampire existence from humankind. Violations of the Masquerade will lead to ambush attacks from human vampire hunters, and scorn, contempt or worse from your fellow Kindred. If you lose all Masquerade points, you will lose the game."
 
@@ -737,7 +737,7 @@ StatData
 
 //		Stat
 //		{
-//			"Name"		"Willpower"
+//			"Name"		"Воля"
 //			"InternalName"	"Willpower"
 //			"HelpText"		""
 //
@@ -754,7 +754,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Experience Modifier"
+			"Name"		"Модифiкатор досвiду"
 			"InternalName"	"Experience_Modifier"
 			"HelpText"		""
 
@@ -772,7 +772,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Starting Equipment"
+			"Name"		"Початкове Обладнання"
 			"InternalName"	"Starting_Equipment"
 			"HelpText"		""
 
@@ -789,7 +789,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Excluded Equipment"
+			"Name"		"Виключене Обладнання"
 			"InternalName"	"Excluded_Equipment"
 			"HelpText"		""
 
@@ -813,7 +813,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Healing Rate"
+			"Name"		"Темп вiдновлення здоров'я"
 			"InternalName"	"VampHeal_Type"
 			"HelpText"		"Template used for Auto-Leveling"
 
@@ -836,7 +836,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"AutoLevel Template"
+			"Name"		"Шаблон AutoLevel"
 			"InternalName"	"AutoLevel_Template"
 			"HelpText"		"Template used for Auto-Leveling"
 
@@ -852,7 +852,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Experience"
+			"Name"		"Досвiд"
 			"InternalName"	"Experience"
 			"HelpText"		""
 
@@ -881,7 +881,7 @@ StatData
 
 	Abilities
 	{
-		"Name"		"Abilities"
+		"Name"		"Здiбностi"
 		"InternalName"	"Abilities"
 
 		Costs
@@ -892,7 +892,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Ability Order"
+			"Name"		"Порядок вмiнь"
 			"InternalName"	"Ability_Order"
 			"HelpText"		""
 
@@ -908,7 +908,7 @@ StatData
 
 			Table
 			{
-				"Name"		"Ability_Order_Lookups"
+				"Name"		"Пошук_порядку_здiбностей"
 				"InternalName"	"Ability_Order_Lookups"
 
 				"Clamping"		"1"
@@ -947,7 +947,7 @@ StatData
 			// Ability Point Pools
 			Table
 			{
-				"Name"		"Subpool_Ability_Primary_Secondary_Tertiary"
+				"Name"		"Пiдпул_Здiбностi_Первиннi_Вториннi_Терцiарнi"
 				"InternalName"	"Subpool_Ability_Primary_Secondary_Tertiary"
 				"Clamping"		"1"
 
@@ -958,7 +958,7 @@ StatData
 
 			Table
 			{
-				"Name"		"Subpool_Ability_Primary_Secondary_Tertiary_Kine"
+				"Name"		"Пiдбасейн_Здiбностi_Первиннi_Вториннi_Терцiарнi_Кiне"
 				"InternalName"	"Subpool_Ability_Primary_Secondary_Tertiary_Kine"
 				"Clamping"		"1"
 
@@ -970,7 +970,7 @@ StatData
 
 //			Table
 //			{
-//				"Name"		"Subpool_Ability_No_Order"
+//				"Name"		"Пiдпул_Здiбностi_Без_Порядку"
 //				"InternalName"	"Subpool_Ability_No_Order"
 //				"Clamping"		"1"
 //
@@ -982,7 +982,7 @@ StatData
 
 //		Stat
 //		{
-//			"Name"		"Athletics"
+//			"Name"		"Атлетика"
 //			"InternalName"	"Athletics"
 //			"HelpText"		"How well one has conditioned their body to run faster, jump higher, swim harder or throw farther."
 //			"HelpText2"		"Improves range and accuracy of jumping and throwing."
@@ -995,7 +995,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Brawl"
+			"Name"		"Бiй."
 			"InternalName"	"Brawl"
 			"HelpText"		"The ability to fight bare-handed. Brawl is important for the Unarmed Combat feat, which also makes it easier to feed on the unwilling."
 			"HelpText2"		""
@@ -1010,7 +1010,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Dodge"
+			"Name"		"Ухилятися"
 			"InternalName"	"Dodge"
 			"HelpText"		"Determines your character's ability to avoid taking damage in all forms of combat. Dodge increases the Combat Defense feat."	// changed by wesp
 			"HelpText2"		""
@@ -1025,7 +1025,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Intimidation"
+			"Name"		"Інтимiдацiя"
 			"InternalName"	"Intimidation"
 			"HelpText"		"Measures your character's ability to instill fear, and force cooperation in others. Intimidation, naturally, increases your Intimidate feat."
 			"HelpText2"		""
@@ -1042,7 +1042,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Subterfuge"
+			"Name"		"Пiдступнiсть"
 			"InternalName"	"Subterfuge"
 			"HelpText"		"Measures your character's ability to conceal their motives, and deceive others. Subterfuge is needed for the feat of Seduction."
 			"HelpText2"		""
@@ -1058,7 +1058,7 @@ StatData
 
 //		Stat
 //		{
-//			"Name"		"Animal Ken"
+//			"Name"		"Знання тварин"
 //			"InternalName"	"Animal_Ken"
 //			"HelpText"		"Animals are instinctually repelled by the undead. This ability helps to soothe beasts, making them less apt to react negatively toward the vampire."
 //			"HelpText2"		"Animal Ken will make animals more tolerant of the vampire's presence."
@@ -1074,7 +1074,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Firearms"
+			"Name"		"Вогнепальна зброя"
 			"InternalName"	"Firearms"
 			"HelpText"		"Determines how well your character aims and causes damage with guns of all types. Firearms is an indispensable part of the Ranged Combat feat."
 			"HelpText2"		""
@@ -1089,7 +1089,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Melee"
+			"Name"		"Ближнiй бiй"
 			"InternalName"	"Melee"
 			"HelpText"		"Your character's ability to fight in close combat with hand-held weapons such as knives and swords. Melee increases your Melee Combat feat."
 			"HelpText2"		""
@@ -1104,7 +1104,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Security"
+			"Name"		"Безпека"
 			"InternalName"	"Security"
 			"HelpText"		"Displays your character's knowledge of how locks and security systems work. Security is needed for the Lockpicking feat."
 			"HelpText2"		""
@@ -1119,7 +1119,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Stealth"
+			"Name"		"Прихованiсть"
 			"InternalName"	"Stealth"
 			"HelpText"		"Measures your character's ability to move silently and avoid being detected.  Stealth is a crucial component of the Sneaking feat."
 			"HelpText2"		""
@@ -1134,7 +1134,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Computer"
+			"Name"		"Комп'ютер"
 			"InternalName"	"Computer"
 			"HelpText"		"Indicates your character's ability to operate computers and other devices. Computer knowledge is needed for the Hacking feat."
 			"HelpText2"		""
@@ -1149,7 +1149,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Finance"
+			"Name"		"Фiнанси"
 			"InternalName"	"Finance"
 			"HelpText"		"Your character's ability to evaluate the market value of items. Finance is needed for the Haggle feat."
 			"HelpText2"		""
@@ -1166,7 +1166,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Investigation"
+			"Name"		"Дослiдження"
 			"InternalName"	"Investigation"
 			"HelpText"		"Measures your character's ability to notice minute or hidden details. Investigation will increase your Inspection feat."
 			"HelpText2"		""
@@ -1181,7 +1181,7 @@ StatData
 
 		Stat
 		{
-			"Name"		"Scholarship"
+			"Name"		"Навчання"
 			"InternalName"	"Academics"
 			"HelpText"		"Your character's ability to gather information, debate, and learn new skills. Scholarship will increase your Research and Persuasion feats and is required to identify and activate rare artifacts."	// changed by wesp
 			"HelpText2"		""
@@ -1198,7 +1198,7 @@ StatData
 
 //		Stat
 //		{
-//			"Name"		"Occult"
+//			"Name"		"Окультне"
 //			"InternalName"	"Occult"
 //			"HelpText"		"Ability to recognize and research different magical items."
 //			"HelpText2"		"Occult knowledge is required to identify and activate rare artifacts."
@@ -1216,7 +1216,7 @@ StatData
 //	StatData
 	Disciplines
 	{
-		"Name"		"Disciplines"
+		"Name"		"Дисциплiни"
 		"InternalName"	"Disciplines"
 
 		Costs
@@ -1232,12 +1232,12 @@ StatData
 
 //		StatCategory
 //		{
-//			"Name"		"Disciplines"
+//			"Name"		"Дисциплiни"
 //			"InternalName"	"Disciplines"
 
 			Stat
 			{
-				"Name"		"Animalism"
+				"Name"		"Твариннiсть"
 				"InternalName"	"Animalism"
 				"HelpText"	"Embracing the Beast Within, the vampire can call on animal spirits to carry out their will. The effects of Animalism are obviously supernatural and carry the risk of violating the Masquerade if they are used in a Safe Area."
 				"HelpTextH1"	"Level 1: Nightwisp Ravens"
@@ -1270,7 +1270,7 @@ StatData
 
 				Table
 				{
-					"Name"          "Animalism_Targeting"
+					"Name"          "Анiмалiзм_Спрямування"
 					"InternalName"  "Animalism_Targeting"
 
 					"Clamping"      "1"
@@ -1284,7 +1284,7 @@ StatData
 
 				Table
 				{
-					"Name"          "Animalism_Targeting_Level"
+					"Name"          "Рiвень Анiмалiзму_Вибiр_Цiлi"
 					"InternalName"  "Animalism_Targeting_Level"
 
 					"Clamping"      "1"
@@ -1298,7 +1298,7 @@ StatData
 
 				Table
 				{
-					"Name"          "Animalism_Targeting_Cost"
+					"Name"          "Вартiсть_цiлi_за_допомогою_Тваринностi"
 					"InternalName"  "Animalism_Targeting_Cost"
 
 					"Clamping"      "1"
@@ -1313,7 +1313,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Auspex"
+				"Name"		"Ауспекс"
 				"InternalName"	"Auspex"
 				"HelpText"	"Enhances your mental faculties and allows you to perceive the auras of those around you as well as see better in darkness. All levels of Auspex cost 1 blood per activation. Auspex carries no risk of violating the Masquerade."	// changed by wesp
 				"HelpTextH1"	"Level 1:"
@@ -1349,7 +1349,7 @@ StatData
 
 				Table
 				{
-					"Name"          "Auspex Radius"
+					"Name"          "Радiус Ауспексу"
 					"InternalName"  "Auspex_Radius"
 
 					"Clamping"      "1"
@@ -1365,7 +1365,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Bloodheal"	// changed by wesp
+				"Name"		"Кровозцiлення"	// changed by wesp
 				"InternalName"	"Blood_Healing"
 				"HelpText"	"One of the vampire's greatest feats is the ability to reconstitute their broken body. By focusing the blood they can close buckshot wounds and regrow lost appendages."
 				"HelpTextH1"	"Level 1:"
@@ -1402,7 +1402,7 @@ StatData
 
 //			Stat
 //			{
-//				"Name"		"Kindred Dexterity"
+//				"Name"		"Додаткова Ловкiсть Кiндрiв"
 //				"InternalName"	"Blood_Buff_Dexterity"
 //				"HelpText"		"The vampire may push its body to the peak of human prowess for a short time, for a price in blood. Kindred Dexterity represents the vampire's innate ability to enhance this physical attribute."
 //				"HelpTextL1"	"Level1"
@@ -1431,7 +1431,7 @@ StatData
 
 //			Stat
 //			{
-//				"Name"		"Kindred Stamina"
+//				"Name"		"Витривалiсть Кiндрiв"
 //				"InternalName"	"Blood_Buff_Stamina"
 //				"HelpText"		"The vampire may push its body to the peak of human prowess for a short time, for a price in blood. Kindred Stamina represents the vampire's innate ability to enhance this physical attribute."
 //				"HelpTextL1"	"Level1"
@@ -1460,7 +1460,7 @@ StatData
 
 //			Stat
 //			{
-//				"Name"		"Kindred Strength"
+//				"Name"		"Сила Кiндр"
 //				"InternalName"	"Blood_Buff_Strength"
 //				"HelpText"		"The vampire may push its body to the peak of human prowess for a short time, for a price in blood. Kindred Strength represents the vampire's innate ability to enhance this physical attribute."
 //				"HelpTextL1"	"Level1"
@@ -1489,7 +1489,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Celerity"
+				"Name"		"Швидкiсть"
 				"InternalName"	"Celerity"
 				"HelpText"	"Vampiric preternatural speed. The world will seem to slow while you remain unaffected. All but the first level of Celerity are obvious supernatural acts, and using them in Safe Areas is considered a violation of the Masquerade."
 				"HelpTextH1"	"Level 1:"
@@ -1525,7 +1525,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Bloodbuff"	// changed by wesp
+				"Name"		"Кров'яний буст"	// changed by wesp
 				"InternalName"	"Corpus_Vampirus"
 				"HelpText"	"The vampire may push its body to the peak of human prowess for a short time, for a price in blood. Bloodbuff represents the vampire's innate ability to enhance the physical attributes."	// changed by wesp
 				"HelpTextH1"	"Level 1:"
@@ -1565,7 +1565,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Dementation"
+				"Name"		"Дементацiя"
 				"InternalName"	"Dementation"
 				"HelpText"	"The unique legacy of the Malkavian clan, Dementation channels madness and pours it into the minds of those around you. Dementation effects are covert actions; they cannot be traced back to you and carry no risk of violating the Masquerade."
 				"HelpTextH1"	"Level 1: Hysteria"
@@ -1598,7 +1598,7 @@ StatData
 
 				Table
 				{
-					"Name"          "Dem_Targeting"
+					"Name"          "Мета_Демона"
 					"InternalName"  "Dem_Targeting"
 
 					"Clamping"      "1"
@@ -1612,7 +1612,7 @@ StatData
 
 				Table
 				{
-					"Name"          "Dem_Targeting_Level"
+					"Name"          "Рiвень_цiльового_впливу"
 					"InternalName"  "Dem_Targeting_Level"
 
 					"Clamping"      "1"
@@ -1626,7 +1626,7 @@ StatData
 
 				Table
 				{
-					"Name"          "Dem_Targeting_Cost"
+					"Name"          "Вартiсть_цiлi_демона"
 					"InternalName"  "Dem_Targeting_Cost"
 
 					"Clamping"      "1"
@@ -1641,7 +1641,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Dominate"
+				"Name"		"Домiнування"
 				"InternalName"	"Dominate"
 				"HelpText"	"The superior strength of the vampiric mind allows your character to control the minds of weaker kine and even some Kindred. Dominate effects are covert actions; they cannot be traced back to you and carry no risk of violating the Masquerade."
 				"HelpTextH1"	"Level 1: Trance"
@@ -1674,7 +1674,7 @@ StatData
 
 				Table
 				{
-					"Name"          "Dom_Targeting"
+					"Name"          "Мiшень_дому"
 					"InternalName"  "Dom_Targeting"
 
 					"Clamping"      "1"
@@ -1702,7 +1702,7 @@ StatData
 
 				Table
 				{
-					"Name"          "Dom_Targeting_Level"
+					"Name"          "Рiвень_цiльового_дому"
 					"InternalName"  "Dom_Targeting_Level"
 
 					"Clamping"      "1"
@@ -1730,7 +1730,7 @@ StatData
 
 				Table
 				{
-					"Name"          "Dom_Targeting_Cost"
+					"Name"          "Вартiсть_цiлi_дому"
 					"InternalName"  "Dom_Targeting_Cost"
 
 					"Clamping"      "1"
@@ -1759,7 +1759,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Fortitude"
+				"Name"		"Стiйкiсть"
 				"InternalName"	"Fortitude"
 				"HelpText"	"Fortitude allows for amazing displays of preternatural constitution. Guarantees a certain amount of damage from every incoming attack will be ignored, regardless of the source, except for fire and heat. The use of Fortitude is not considered a violation of the Masquerade."	// changed by wesp
 				"HelpTextH1"	"Level 1:"
@@ -1798,7 +1798,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Obfuscate"
+				"Name"		"Затемнення"
 				"InternalName"	"Obfuscate"
 				"HelpText"	"Vampiric invisibility. You may only enable Obfuscate if no one can see you. If you remain motionless, the timer will not run and Obfuscate can be maintained indefinitely. You can stay invisible and perform stealth kills using the attack key."	// changed by wesp
 				"HelpTextH1"	"Level 1: Hide"
@@ -1837,7 +1837,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Potence"
+				"Name"		"Сила"
 				"InternalName"	"Potence"
 				"HelpText"	"Puts supernatural strength into brawl and melee attacks that simply cannot be defended against. All levels of Potence cost 1 blood per activation. Potence carries no risk of violating the Masquerade."	// changed by wesp
 				"HelpTextH1"	"Level 1:"
@@ -1873,7 +1873,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Presence"
+				"Name"		"Присутнiсть"
 				"InternalName"	"Presence"
 				"HelpText"	"The dread Presence of the vampire can strike mortal fear into the hearts of their opponents. Reduces enemies' effectiveness in combat. All levels of Presence cost 1 blood per activation. Presence carries no risk of violating the Masquerade."
 				"HelpTextH1"	"Level 1:"
@@ -1907,7 +1907,7 @@ StatData
 
 				Table
 				{
-					"Name"          "Effect Radius"
+					"Name"          "Радiус дiї"
 					"InternalName"  "Presence_Effect_Radius"
 
 					"Clamping"      "1"
@@ -1922,7 +1922,7 @@ StatData
 
 				Table
 				{
-					"Name"          "Combat Ranges"
+					"Name"          "Дiапазони бою"
 					"InternalName"  "Presence_Combat_Ranges"
 
 					"Clamping"      "1"
@@ -1933,7 +1933,7 @@ StatData
 
 				Table
 				{
-					"Name"          "Combat Benefit"
+					"Name"          "Користь у бою"
 					"InternalName"  "Presence_Combat_Benefit"
 
 					"Clamping"      "1"
@@ -1958,7 +1958,7 @@ StatData
 				//		Once you have an acceptable value, you can tune the other two to get a good screen shake too.
 				Table
 				{
-					"Name"          "Jitter Hand"
+					"Name"          "Тремтяча рука"
 					"InternalName"  "Presence_Jitter_Hand"
 
 					"Clamping"      "1"
@@ -1969,7 +1969,7 @@ StatData
 
 				Table
 				{
-					"Name"          "Jitter Scalar"
+					"Name"          "Коефiцiєнт Дрiбниць"
 					"InternalName"  "Presence_Jitter_Scalar"
 
 					"Clamping"      "1"
@@ -1980,7 +1980,7 @@ StatData
 
 				Table
 				{
-					"Name"          "Jitter Speed"
+					"Name"          "Швидкiсть Дрiбниць"
 					"InternalName"  "Presence_Jitter_Speed"
 
 					"Clamping"      "1"
@@ -1992,7 +1992,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Protean"
+				"Name"		"Протеан"
 				"InternalName"	"Protean"
 				"HelpText"	"By embracing the Beast within, the vampire gains bestial forms and abilities. These effects are readily apparent and supernatural in nature. Protean should therefore be used with discretion in Safe Areas, lest you risk violating the Masquerade."
 				"HelpTextH1"	"Level 1: Gleam of Red Eyes"
@@ -2027,7 +2027,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Thaumaturgy"
+				"Name"		"Тауматургiя"
 				"InternalName"	"Thaumaturgy"
 				"HelpText"	"Blood magic. Vampire practictioners of Thaumaturgy can bend blood to powerful and terrible ends. The effects are spectacular and obviously supernatural, and should not be used in Safe Areas, lest you risk violating the Masquerade."
 				"HelpTextH1"	"Level 1: Blood Strike"
@@ -2058,7 +2058,7 @@ StatData
 
 				Table
 				{
-					"Name"          "Thaum_Targeting"
+					"Name"          "Магiя_Мети"
 					"InternalName"  "Thaum_Targeting"
 
 					"Clamping"      "1"
@@ -2072,7 +2072,7 @@ StatData
 
 				Table
 				{
-					"Name"          "Thaum_Targeting_Level"
+					"Name"          "Рiвень_цiлi_тауму"
 					"InternalName"  "Thaum_Targeting_Level"
 
 					"Clamping"      "1"
@@ -2086,7 +2086,7 @@ StatData
 
 				Table
 				{
-					"Name"          "Thaum_Targeting_Cost"
+					"Name"          "Витрати на використання Тауматургiї"
 					"InternalName"  "Thaum_Targeting_Cost"
 
 					"Clamping"      "1"
@@ -2103,7 +2103,7 @@ StatData
 			// These are the human ones
 			Stat
 			{
-				"Name"		"Faith Shield"	// changed by wesp
+				"Name"		"Щит Вiри"	// changed by wesp
 				"InternalName"	"Shield_of_Faith"
 				"HelpText"	"The Faith Shield protects the hunter from any physical damage inflicted by the undead spawn of evil and it also raises the chance to withstand their disgusting mental attacks."	// added by wesp
 				"HelpTextH1"	"Level 1:"
@@ -2140,7 +2140,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Divine Vision"
+				"Name"		"Божественний Вiзiон"
 				"InternalName"	"Divine_Vision"
 				"HelpText"	"Divine Vision enables the crusader to see better in darkness and to perceive the auras of living & undead. Living's auras will appear white, and undead's will be red. All levels of Divine Vision cost one faith per activation."	// changed by wesp
 				"HelpTextH1"	"Level 1:"
@@ -2176,7 +2176,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Holy Light"
+				"Name"		"Святе Свiтло"
 				"InternalName"	"Holy_Light"
 				"HelpText"	"Evoking Holy Light brings the glory of God down on the undead heathens, thereby blinding them temporarily for easy killing."	// changed by wesp
 				"HelpTextH1"	"Level 1:"
@@ -2212,7 +2212,7 @@ StatData
 
 			Stat	// not selectable
 			{
-				"Name"		"Mind Shield"
+				"Name"		"Ментальний Щит"
 				"InternalName"	"Mind_Shield"
 				"HelpText"	""
 				"HelpTextH1"	"Level 1:"
@@ -2250,19 +2250,19 @@ StatData
 //	StatData
 	ActiveDisciplines
 	{
-		"Name"		"Active Disciplines"
+		"Name"		"Активнi Дисциплiни"
 		"InternalName"	"Active_Disciplines"
 
 //		StatCategory
 //		{
-//			"Name"		"Active Disciplines"
+//			"Name"		"Активнi Дисциплiни"
 //			"InternalName"	"Active_Disciplines"
 
 			//  "Action" is the Trait Effect to automatically add when activating this level of the Discipline (automatically removed when the Discipline de-activates).
 
 			Stat
 			{
-				"Name"		"Active Animalism"
+				"Name"		"Активний Анiмалiзм"
 				"InternalName"	"Active_Animalism"
 				"Min"			"0"
 				"Max"			"Animalism"
@@ -2303,7 +2303,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Active Auspex"
+				"Name"		"Активний Ауспекс"
 				"InternalName"	"Active_Auspex"
 				"Min"			"0"
 				"Max"			"Auspex"
@@ -2375,7 +2375,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Active Blood Healing"
+				"Name"		"Активне вiдновлення кровi"
 				"InternalName"	"Active_Blood_Healing"
 				"Min"			"0"
 				"Max"			"7"		// Currently allowing as much as you have health...
@@ -2448,7 +2448,7 @@ StatData
 
 //			Stat
 //			{
-//				"Name"		"Active Blood Buff Dexterity"
+//				"Name"		"Активний Кров'яний Буфер Ловкiсть"
 //				"InternalName"	"Active_Blood_Buff_Dexterity"
 //				"Min"			"0"
 ///////				"Max"			"Blood_Buff_Dexterity"
@@ -2572,7 +2572,7 @@ StatData
 
 //		Stat
 //			{
-//				"Name"		"Active Blood Buff Stamina"
+//				"Name"		"Активний Кров'яний Буст Витривалiсть"
 //				"InternalName"	"Active_Blood_Buff_Stamina"
 //				"Min"			"0"
 //				"Max"			"Blood_Buff_Stamina"
@@ -2700,7 +2700,7 @@ StatData
 
 //			Stat
 //			{
-//				"Name"		"Active Blood Buff Strength"
+//				"Name"		"Активна сила кровi пiдсилення"
 //				"InternalName"	"Active_Blood_Buff_Strength"
 //				"Min"			"0"
 ///////				"Max"			"Blood_Buff_Strength"
@@ -2828,7 +2828,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Active Celerity"
+				"Name"		"Активна Швидкiсть"
 				"InternalName"	"Active_Celerity"
 				"Min"			"0"
 				"Max"			"Celerity"
@@ -2911,7 +2911,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Active Blood Buff"
+				"Name"		"Активний Кров'яний Буст"
 				"InternalName"	"Active_Corpus_Vampirus"
 				"Min"			"0"
 				"Max"			"5"
@@ -3038,7 +3038,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Active Dementation"
+				"Name"		"Активна Дементацiя"
 				"InternalName"	"Active_Dementation"
 				"Min"			"0"
 				"Max"			"Dementation"
@@ -3086,7 +3086,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Active Dominate"
+				"Name"		"Активний Домiнат"
 				"InternalName"	"Active_Dominate"
 				"Min"			"0"
 				"Max"			"Dominate"
@@ -3127,7 +3127,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Active Fortitude"
+				"Name"		"Активна Стiйкiсть"
 				"InternalName"	"Active_Fortitude"
 				"Min"			"0"
 				"Max"			"Fortitude"
@@ -3267,7 +3267,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Active Obfuscate"
+				"Name"		"Активний Обфускат."
 				"InternalName"	"Active_Obfuscate"
 				"Min"			"0"
 				"Max"			"Obfuscate"
@@ -3343,7 +3343,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Active Potence"
+				"Name"		"Активна Потенцiя"
 				"InternalName"	"Active_Potence"
 				"Min"			"0"
 				"Max"			"Potence"
@@ -3663,7 +3663,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Active Presence"
+				"Name"		"Активна Присутнiсть"
 				"InternalName"	"Active_Presence"
 				"Min"			"0"
 				"Max"			"Presence"
@@ -3734,7 +3734,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Active Protean"
+				"Name"		"Активний Протеан"
 				"InternalName"	"Active_Protean"
 				"Min"			"0"
 				"Max"			"Protean"
@@ -3952,7 +3952,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Active Thaumaturgy"
+				"Name"		"Активна Тауматургiя"
 				"InternalName"	"Active_Thaumaturgy"
 				"Min"			"0"
 				"Max"			"Thaumaturgy"
@@ -3999,7 +3999,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Shield of Faith"	// changed by wesp
+				"Name"		"Щит Вiри"	// changed by wesp
 				"InternalName"	"Active_Shield_of_Faith"
 				"Min"			"0"
 				"Max"			"Shield_of_Faith"
@@ -4133,7 +4133,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Divine Vision"
+				"Name"		"Божественний Вiзiон"
 				"InternalName"	"Active_Divine_Vision"
 				"Min"			"0"
 				"Max"			"Divine_Vision"
@@ -4227,7 +4227,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Holy Light"
+				"Name"		"Святе Свiтло"
 				"InternalName"	"Active_Holy_Light"
 				"Min"			"0"
 				"Max"			"Holy_Light"
@@ -4317,7 +4317,7 @@ StatData
 
 			Stat
 			{
-				"Name"		"Mind Shield"	// changed by wesp
+				"Name"		"Ментальний Щит"	// changed by wesp
 				"InternalName"	"Active_Mind_Shield"
 				"Min"			"0"
 				"Max"			"Mind_Shield"

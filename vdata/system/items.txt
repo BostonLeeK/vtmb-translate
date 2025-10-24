@@ -7,7 +7,7 @@ ItemTypeData
 	// Inventory Sections (partly UI-based, but integral to critter data layout too)
 	InventorySections
 	{
-		"Name"		"Inventory Sections"
+		"Name"		"Роздiли iнвентарю"
 		"InternalName"	"Inventory_Sections"
 
 		// Note that currently, if inventory sections are added or deleted, 2 minor code changes must occur (shareddefs.h and c_baseplayer.h)
@@ -26,7 +26,7 @@ ItemTypeData
 
 //		InventorySection
 //		{
-//			"Name"		"Disciplines"
+//			"Name"		"Дисциплiни"
 //			"InternalName"	"Disciplines"
 //
 //			"IsDisplayed"	"1"
@@ -34,7 +34,7 @@ ItemTypeData
 
 // NCT		InventorySection
 //		{
-//			"Name"		"Weapon"
+//			"Name"		"Зброя"
 //			"InternalName"	"Weapon"
 //
 //			"IsDisplayed"	"1"
@@ -42,7 +42,7 @@ ItemTypeData
 
 		InventorySection
 		{
-			"Name"		"Weapon (Melee)"
+			"Name"		"Зброя (Ближнього бою)"
 			"InternalName"	"Weapon_Melee"
 
 			"IsDisplayed"	"1"
@@ -50,7 +50,7 @@ ItemTypeData
 
 		InventorySection
 		{
-			"Name"		"Weapon (Ranged)"
+			"Name"		"Зброя (Дистанцiйна)"
 			"InternalName"	"Weapon_Ranged"
 
 			"IsDisplayed"	"1"
@@ -58,7 +58,7 @@ ItemTypeData
 
 		InventorySection
 		{
-			"Name"		"Weapon (Thrown)"
+			"Name"		"Зброя (Метальна)"
 			"InternalName"	"Weapon_Thrown"
 
 			"IsDisplayed"	"1"
@@ -66,7 +66,7 @@ ItemTypeData
 
 		InventorySection
 		{
-			"Name"		"Armor"
+			"Name"		"Броня"
 			"InternalName"	"Armor"
 
 			"IsDisplayed"	"1"
@@ -74,7 +74,7 @@ ItemTypeData
 
 		InventorySection
 		{
-			"Name"		"General"
+			"Name"		"Генерал"
 			"InternalName"	"Generic"
 
 			"IsDisplayed"	"1"
@@ -82,7 +82,7 @@ ItemTypeData
 
 		InventorySection
 		{
-			"Name"		"Powerups"
+			"Name"		"Покращення"
 			"InternalName"	"Powerups"
 
 			"IsDisplayed"	"1"
@@ -90,7 +90,7 @@ ItemTypeData
 
 		InventorySection
 		{
-			"Name"		"Hidden"
+			"Name"		"Прихований"
 			"InternalName"	"Hidden"
 
 			"IsDisplayed"	"0"
@@ -98,7 +98,7 @@ ItemTypeData
 
 //		InventorySection
 //		{
-//			"Name"		"Maintenance"
+//			"Name"		"Обслуговування"
 //			"InternalName"	"Maintenance"
 //
 //			"IsDisplayed"	"1"
@@ -110,12 +110,12 @@ ItemTypeData
 	// edit the enum table in vamp_data.h!
 	ItemTypes
 	{
-		"Name"		"Item Types"
+		"Name"		"Типи предметiв"
 		"InternalName"	"Item_Types"
 
 		ItemType
 		{
-			"Name"			"Weapon_Melee"
+			"Name"			"Зброя_Ближнього_Бою"
 			"InternalName"		"Weapon_Melee"
 
 			"IsWielded"			"1"
@@ -127,7 +127,7 @@ ItemTypeData
 
 		ItemType
 		{
-			"Name"			"Weapon_Firearm"
+			"Name"			"Зброя_Вогнепальна"
 			"InternalName"		"Weapon_Firearm"
 
 			"IsWielded"			"1"
@@ -139,7 +139,7 @@ ItemTypeData
 
 		ItemType
 		{
-			"Name"			"Weapon_Thrown"
+			"Name"			"Зброя_Кидана"
 			"InternalName"		"Weapon_Thrown"
 
 			"IsWielded"			"1"
@@ -151,7 +151,7 @@ ItemTypeData
 
 		ItemType
 		{
-			"Name"			"Ammo"
+			"Name"			"Боєприпаси"
 			"InternalName"		"Ammo"
 
 			"IsWielded"			"0"
@@ -162,7 +162,7 @@ ItemTypeData
 
 		ItemType
 		{
-			"Name"			"Armor"
+			"Name"			"Броня"
 			"InternalName"		"Armor"
 
 			"IsWielded"			"0"
@@ -173,7 +173,7 @@ ItemTypeData
 
 		ItemType
 		{
-			"Name"			"Money"
+			"Name"			"Грошi"
 			"InternalName"		"Money"
 
 			"IsWielded"			"0"
@@ -184,7 +184,7 @@ ItemTypeData
 
 		ItemType
 		{
-			"Name"			"Jewelry"
+			"Name"			"1. Ювелiрнi вироби"
 			"InternalName"		"Jewelry"
 
 			"IsWielded"			"0"
@@ -195,7 +195,7 @@ ItemTypeData
 
 		ItemType
 		{
-			"Name"			"Generic"
+			"Name"			"Загальний"
 			"InternalName"		"Generic"
 
 			"IsWielded"			"0"
@@ -206,7 +206,7 @@ ItemTypeData
 
 		ItemType
 		{
-			"Name"			"Powerup"
+			"Name"			"Пiдсилення"
 			"InternalName"		"Powerup"
 
 			"IsWielded"			"0"
@@ -217,7 +217,7 @@ ItemTypeData
 
 		ItemType
 		{
-			"Name"			"Bloodpack"
+			"Name"			"Кров'яний загiн"
 			"InternalName"		"Bloodpack"
 
 			"IsWielded"			"0"
@@ -228,7 +228,7 @@ ItemTypeData
 
 		ItemType
 		{
-			"Name"			"Hidden"
+			"Name"			"Прихований"
 			"InternalName"		"Hidden"
 
 			"IsWielded"			"1"
@@ -242,7 +242,7 @@ ItemTypeData
 	// Botch Table Types
 	BotchTypes
 	{
-		"Name"		"Botch Types"
+		"Name"		"Типи фiаско"
 		"InternalName"	"Botch_Types"
 
 		BotchType
@@ -260,7 +260,7 @@ ItemTypeData
 
 		BotchType
 		{
-			"Name"		"Breaks"
+			"Name"		"Перерви"
 			"InternalName"	"Breaks"
 
 			"OwnerDamage"	""
@@ -273,7 +273,7 @@ ItemTypeData
 
 		BotchType
 		{
-			"Name"		"Misfire"
+			"Name"		"Промах"
 			"InternalName"	"Misfire"
 
 			"OwnerDamage"	""
@@ -286,7 +286,7 @@ ItemTypeData
 
 		BotchType
 		{
-			"Name"		"Cylinder Falls Open"
+			"Name"		"Цилiндр вiдкривається"
 			"InternalName"	"Cylinder_Falls_Open"
 
 			"OwnerDamage"	""
@@ -299,7 +299,7 @@ ItemTypeData
 
 		BotchType
 		{
-			"Name"		"Eject Magazine"
+			"Name"		"Викинути магазин"
 			"InternalName"	"Eject_Magazine"
 
 			"OwnerDamage"	""
@@ -312,7 +312,7 @@ ItemTypeData
 
 		BotchType
 		{
-			"Name"		"Slide Flies Off"
+			"Name"		"Слайд злiтає."
 			"InternalName"	"Slide_Flies_Off"
 
 			"OwnerDamage"	"1 Bashing"
@@ -325,7 +325,7 @@ ItemTypeData
 
 		BotchType
 		{
-			"Name"		"Bolt Flies Off"
+			"Name"		"Блискавка вiдлiтає"
 			"InternalName"	"Bolt_Flies_Off"
 
 			"OwnerDamage"	"2 Bashing"
@@ -338,7 +338,7 @@ ItemTypeData
 
 		BotchType
 		{
-			"Name"		"Chamber Explodes"
+			"Name"		"Камера вибухає"
 			"InternalName"	"Chamber_Explodes"
 
 			"OwnerDamage"	"1 Aggravated"
@@ -351,7 +351,7 @@ ItemTypeData
 
 		BotchType
 		{
-			"Name"		"String Breaks"
+			"Name"		"Розриви рядка"
 			"InternalName"	"String_Breaks"
 
 			"OwnerDamage"	""
@@ -364,7 +364,7 @@ ItemTypeData
 
 		BotchType
 		{
-			"Name"		"Brawl Self Injury"
+			"Name"		"Побиття Самозавдана Травма"
 			"InternalName"	"Brawl_Self_Injury"
 
 			"OwnerDamage"	"1 Bashing"
@@ -380,12 +380,12 @@ ItemTypeData
 	// Botch Tables
 	BotchTables
 	{
-		"Name"		"Botch Tables"
+		"Name"		"Таблицi Невдачi"
 		"InternalName"	"Botch_Tables"
 
 		BotchTable
 		{
-			"Name"		"Fists/Claws/Bite"
+			"Name"		"Кулаки/Кiгтi/Укус"
 			"InternalName"	"Fists_Claws_Bite"
 
 			"Botch1"		"None"
@@ -395,7 +395,7 @@ ItemTypeData
 
 		BotchTable
 		{
-			"Name"		"Melee Weapons"
+			"Name"		"Ближнi зброї"
 			"InternalName"	"Melee_Weapons"
 
 			"Botch1"		"None"
@@ -405,7 +405,7 @@ ItemTypeData
 
 		BotchTable
 		{
-			"Name"		"Revolvers"
+			"Name"		"Револьвери"
 			"InternalName"	"Revolvers"
 
 			"Botch1"		"None"
@@ -415,7 +415,7 @@ ItemTypeData
 
 		BotchTable
 		{
-			"Name"		"Pistols"
+			"Name"		"Пiстолети"
 			"InternalName"	"Pistols"
 
 			"Botch1"		"None"
@@ -425,7 +425,7 @@ ItemTypeData
 
 		BotchTable
 		{
-			"Name"		"Bolt Rifles"
+			"Name"		"Гвинтiвковi гвинтики"
 			"InternalName"	"Bolt_Rifles"
 
 			"Botch1"		"None"
@@ -435,7 +435,7 @@ ItemTypeData
 
 		BotchTable
 		{
-			"Name"		"Auto/Semi Rifles"
+			"Name"		"Автоматичнi/пiвавтоматичнi гвинтiвки"
 			"InternalName"	"Auto_Semi_Rifles"
 
 			"Botch1"		"None"
@@ -445,7 +445,7 @@ ItemTypeData
 
 		BotchTable
 		{
-			"Name"		"Shotguns"
+			"Name"		"Дробовики"
 			"InternalName"	"Shotguns"
 
 			"Botch1"		"None"
@@ -455,7 +455,7 @@ ItemTypeData
 
 		BotchTable
 		{
-			"Name"		"Crossbow"
+			"Name"		"Арбалет"
 			"InternalName"	"Crossbow"
 
 			"Botch1"		"None"
@@ -465,7 +465,7 @@ ItemTypeData
 
 		BotchTable
 		{
-			"Name"		"Lockpicks"
+			"Name"		"Замковi взломники"
 			"InternalName"	"Lockpicks"
 
 			"Botch1"		"None"
@@ -475,7 +475,7 @@ ItemTypeData
 
 		BotchTable
 		{
-			"Name"		"Brawl"
+			"Name"		"Бiй."
 			"InternalName"	"Brawl"
 
 			"Botch1"		"Brawl_Self_Injury"
@@ -487,7 +487,7 @@ ItemTypeData
 	// These tables list activation (attack/etc.) options
 	ActivationTypes
 	{
-		"Name"		"Activation Types"
+		"Name"		"Типи активацiї"
 		"InternalName"	"Activation_Types"
 
 		// Note that changing these requires associated code changes...
@@ -499,37 +499,37 @@ ItemTypeData
 
 		ActivationType
 		{
-			"Name"		"Attack"
+			"Name"		"Атака"
 			"InternalName"	"Attack"
 		}
 
 		ActivationType
 		{
-			"Name"		"Secondary Attack"
+			"Name"		"Другорядна атака"
 			"InternalName"	"Secondary_Attack"
 		}
 
 		ActivationType
 		{
-			"Name"		"Zoom Out (Loop)"
+			"Name"		"Збiльшити масштаб (цикл)"
 			"InternalName"	"Zoom_Out_Loop"
 		}
 
 		ActivationType
 		{
-			"Name"		"Toggle Primary Mode"
+			"Name"		"Перемкнути на Первинний Режим"
 			"InternalName"	"Toggle_Primary_Mode"
 		}
 
 		ActivationType
 		{
-			"Name"		"Use"
+			"Name"		"Використовуйте"
 			"InternalName"	"Use"
 		}
 
 		ActivationType
 		{
-			"Name"		"Throw"
+			"Name"		"Кидати"
 			"InternalName"	"Throw"
 		}
 	}
@@ -537,12 +537,12 @@ ItemTypeData
 	// These tables list starting equipment groups for a critter
 	StartingEquipTables
 	{
-		"Name"		"Starting Equipment Tables"
+		"Name"		"Таблицi початкового обладнання"
 		"InternalName"	"Starting_Equipment_Tables"
 
 		StartingEquip
 		{
-			"Name"		"Default"
+			"Name"		"За замовчуванням"
 			"InternalName"	"Default"
 
 			"Money"		"0"
@@ -555,7 +555,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"		"Player Kindred"
+			"Name"		"Гравець Кiндрен"
 			"InternalName"	"Player_Kindred"
 
 			"Money"		"0"
@@ -572,7 +572,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"		"Player Kindred Ventrue"
+			"Name"		"Гравець Кiндред Вентру"
 			"InternalName"	"Player_Kindred_Ventrue"
 
 			"Money"		"0"
@@ -589,7 +589,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"		"Player Chica"
+			"Name"		"Гравець Чiка"
 			"InternalName"	"Player_Chica"
 
 			"Money"		"0"
@@ -607,7 +607,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"		"Player Drifter"	// changed by wesp
+			"Name"		"Гравець Блукавець"	// changed by wesp
 			"InternalName"	"Player_Drifter"
 
 			"Money"		"0"
@@ -625,7 +625,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"		"Player Starving Artist"
+			"Name"		"Гравець Голодний Митець"
 			"InternalName"	"Player_Starving_Artist"
 
 			"Money"		"5"
@@ -642,7 +642,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"		"Player Black-Hearted"
+			"Name"		"Гравець Чорносердий"
 			"InternalName"	"Player_Black_Hearted"
 
 			"Money"		"0"
@@ -660,7 +660,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"			"Player Leopold"
+			"Name"			"Гравець Леопольд"
 			"InternalName"	"Player_Leopold"
 
 			"Money"			"500"
@@ -680,7 +680,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"			"Brujah"
+			"Name"			"Брухi."
 			"InternalName"	"Brujah"
 
 			"Money"			"500"
@@ -702,7 +702,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"			"Gangrel"
+			"Name"			"Гангрел"
 			"InternalName"	"Gangrel"
 
 			"Money"			"500"
@@ -724,7 +724,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"			"Malkavian"
+			"Name"			"Малкавiан"
 			"InternalName"	"Malkavian"
 
 			"Money"			"500"
@@ -746,7 +746,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"			"Nosferatu"
+			"Name"			"Носферату"
 			"InternalName"	"Nosferatu"
 
 			"Money"			"500"
@@ -768,7 +768,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"			"Toreador"
+			"Name"			"Тореадор"
 			"InternalName"	"Toreador"
 
 			"Money"			"500"
@@ -790,7 +790,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"			"Tremere"
+			"Name"			"Тремер"
 			"InternalName"	"Tremere"
 
 			"Money"			"500"
@@ -812,7 +812,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"			"Ventrue"
+			"Name"			"Вентруа"
 			"InternalName"	"Ventrue"
 
 			"Money"			"500"
@@ -833,7 +833,7 @@ ItemTypeData
 		}
 		StartingEquip
 		{
-			"Name"			"Condotierre"
+			"Name"			"Кондотьєр"
 			"InternalName"	"Condotierre"
 
 			"Money"			"500"
@@ -854,7 +854,7 @@ ItemTypeData
 		}
 		StartingEquip
 		{
-			"Name"			"Inquisitor"
+			"Name"			"Інквiзитор"
 			"InternalName"	"Inquisitor"
 
 			"Money"			"500"
@@ -876,7 +876,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"			"Mercenary"
+			"Name"			"Найманець"
 			"InternalName"	"Mercenary"
 
 			"Money"			"500"
@@ -900,7 +900,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"			"NPCGeneric"
+			"Name"			"NPCЗагальний"
 			"InternalName"	"NPCGeneric"
 
 			"Money"		"0"
@@ -911,7 +911,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"			"TzimisceCreation1"
+			"Name"			"ТзiмiсеСтворення1"
 			"InternalName"	"TzimisceCreation1"
 
 			"Money"		"0"
@@ -923,7 +923,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"			"TzimisceCreation2"
+			"Name"			"ТзiмiсеСтворення2"
 			"InternalName"	"TzimisceCreation2"
 
 			"Money"		"0"
@@ -936,7 +936,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"			"TzimisceCreation3"
+			"Name"			"ТзiмiсеСтворення3"
 			"InternalName"	"TzimisceCreation3"
 
 			"Money"		"0"
@@ -960,7 +960,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"		"Civilian"
+			"Name"		"Цивiльний"
 			"InternalName"	"Civilian"
 
 			"Money"		"0"
@@ -975,7 +975,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"		"Gargoyle"
+			"Name"		"Гаргойль"
 			"InternalName"	"Gargoyle"
 
 			"Money"		"0"
@@ -987,7 +987,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"		"Hengeyokai"
+			"Name"		"Генгейокай"
 			"InternalName"	"Hengeyokai"
 
 			"Money"		"0"
@@ -999,7 +999,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"		"ManBat"
+			"Name"		"ЛюдоКажан"
 			"InternalName"	"ManBat"
 
 			"Money"		"0"
@@ -1011,7 +1011,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"		"ManBatMinion"
+			"Name"		"Людино-Кажановий Пiдлеглий"
 			"InternalName"	"ManBatMinion"
 
 			"Money"		"0"
@@ -1023,7 +1023,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"		"MingXiao"
+			"Name"		"Мiн Сяо"
 			"InternalName"	"MingXiao"
 
 			"Money"		"0"
@@ -1036,7 +1036,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"		"MingXiaoTentacle"
+			"Name"		"Мiн Сяо Вiтрило"
 			"InternalName"	"MingXiaoTentacle"
 
 			"Money"		"0"
@@ -1048,7 +1048,7 @@ ItemTypeData
 
 		StartingEquip
 		{
-			"Name"		"Yukie"
+			"Name"		"Юкiє"
 			"InternalName"	"Yukie"
 
 			"Money"		"100"
@@ -1062,12 +1062,12 @@ ItemTypeData
 	// These tables list equipment that is *not* wieldable by a particular critter
 	ExcludedEquipTables
 	{
-		"Name"		"Excluded Equipment Tables"
+		"Name"		"Виключенi таблицi обладнання"
 		"InternalName"	"Excluded_Equipment_Tables"
 
 		ExcludedEquip
 		{
-			"Name"		"Default"
+			"Name"		"За замовчуванням"
 			"InternalName"	"Default"
 
 
@@ -1077,7 +1077,7 @@ ItemTypeData
 
 		ExcludedEquip
 		{
-			"Name"		"Toreador"
+			"Name"		"Тореадор"
 			"InternalName"	"Toreador"
 
 
@@ -1086,7 +1086,7 @@ ItemTypeData
 
 		ExcludedEquip
 		{
-			"Name"		"Clawed_Form"
+			"Name"		"Кiготь_форма"
 			"InternalName"	"Clawed_Form"
 
 
@@ -1096,7 +1096,7 @@ ItemTypeData
 
 		ExcludedEquip
 		{
-			"Name"		"Clawed_Form_Toreador"
+			"Name"		"Кiготь_Форма_Тореадор"
 			"InternalName"	"Clawed_Form_Toreador"
 
 
@@ -1107,7 +1107,7 @@ ItemTypeData
 
 		ExcludedEquip
 		{
-			"Name"		"Wolf_Form"
+			"Name"		"Форма Вовка"
 			"InternalName"	"Wolf_Form"
 
 
@@ -1117,7 +1117,7 @@ ItemTypeData
 
 		ExcludedEquip
 		{
-			"Name"		"TzimisceCreation1"
+			"Name"		"ТзiмiсеСтворення1"
 			"InternalName"	"TzimisceCreation1"
 
 
@@ -1126,7 +1126,7 @@ ItemTypeData
 
 		ExcludedEquip
 		{
-			"Name"		"TzimisceCreation2"
+			"Name"		"ТзiмiсеСтворення2"
 			"InternalName"	"TzimisceCreation2"
 
 
@@ -1135,7 +1135,7 @@ ItemTypeData
 
 		ExcludedEquip
 		{
-			"Name"		"TzimisceCreation3"
+			"Name"		"ТзiмiсеСтворення3"
 			"InternalName"	"TzimisceCreation3"
 
 
@@ -1145,7 +1145,7 @@ ItemTypeData
 
 		ExcludedEquip
 		{
-			"Name"		"Gargoyle"
+			"Name"		"Гаргойль"
 			"InternalName"	"Gargoyle"
 
 
@@ -1154,7 +1154,7 @@ ItemTypeData
 
 		ExcludedEquip
 		{
-			"Name"		"Hengeyokai"
+			"Name"		"Генгейокай"
 			"InternalName"	"Hengeyokai"
 
 
@@ -1163,7 +1163,7 @@ ItemTypeData
 
 		ExcludedEquip
 		{
-			"Name"		"ManBat"
+			"Name"		"ЛюдоКажан"
 			"InternalName"	"ManBat"
 
 
@@ -1172,7 +1172,7 @@ ItemTypeData
 
 		ExcludedEquip
 		{
-			"Name"		"ManBatMinion"
+			"Name"		"Людино-Кажановий Пiдлеглий"
 			"InternalName"	"ManBatMinion"
 
 
@@ -1207,12 +1207,12 @@ ItemTypeData
 	// These tables list starting equipment groups for a critter
 	MPEquipTables
 	{
-		"Name"		"MP Equipment Tables"
+		"Name"		"Таблицi обладнання МП"
 		"InternalName"	"MP_Equipment_Tables"
 
 		MPEquip
 		{
-			"Name"		"Default"
+			"Name"		"За замовчуванням"
 			"InternalName"	"Default"
 
 //			"Money"		"0"
@@ -1288,7 +1288,7 @@ ItemTypeData
 
 		MPEquip
 		{
-			"Name"		"Brujah"
+			"Name"		"Брухi."
 			"InternalName"	"Brujah"
 
 			Equip
@@ -1363,7 +1363,7 @@ ItemTypeData
 
 		MPEquip
 		{
-			"Name"		"Gangrel"
+			"Name"		"Гангрел"
 			"InternalName"	"Gangrel"
 
 			Equip
@@ -1438,7 +1438,7 @@ ItemTypeData
 
 		MPEquip
 		{
-			"Name"		"Malkavian"
+			"Name"		"Малкавiан"
 			"InternalName"	"Malkavian"
 
 			Equip
@@ -1513,7 +1513,7 @@ ItemTypeData
 
 		MPEquip
 		{
-			"Name"		"Nosferatu"
+			"Name"		"Носферату"
 			"InternalName"	"Nosferatu"
 
 			Equip
@@ -1588,7 +1588,7 @@ ItemTypeData
 
 		MPEquip
 		{
-			"Name"		"Toreador"
+			"Name"		"Тореадор"
 			"InternalName"	"Toreador"
 
 			Equip
@@ -1663,7 +1663,7 @@ ItemTypeData
 
 		MPEquip
 		{
-			"Name"		"Tremere"
+			"Name"		"Тремер"
 			"InternalName"	"Tremere"
 
 			Equip
@@ -1738,7 +1738,7 @@ ItemTypeData
 
 		MPEquip
 		{
-			"Name"		"Ventrue"
+			"Name"		"Вентруа"
 			"InternalName"	"Ventrue"
 
 			Equip
@@ -1813,7 +1813,7 @@ ItemTypeData
 
 		MPEquip
 		{
-			"Name"		"Leopold1"
+			"Name"		"Леопольд1"
 			"InternalName"	"Leopold1"
 
 			Equip
@@ -1894,7 +1894,7 @@ ItemTypeData
 
 		MPEquip
 		{
-			"Name"		"Leopold2"
+			"Name"		"Леопольд2"
 			"InternalName"	"Leopold2"
 
 			Equip
@@ -1974,7 +1974,7 @@ ItemTypeData
 
 		MPEquip
 		{
-			"Name"		"Leopold3"
+			"Name"		"Леопольд3"
 			"InternalName"	"Leopold3"
 
 			Equip

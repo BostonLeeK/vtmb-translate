@@ -1,0 +1,59 @@
+TerminalDefinition	// added by wesp
+{
+	"screen saver"		"Freedom for Vorlon ships!"		// Bounces around on the screen when the terminal is not being used
+	"brackets"		""			// these surround the command prompt (2 characters), changed by wesp
+
+	LogonScreen	// displayed when the user first logs on
+	{
+		// Any number of lines are acceptable
+		"line0"		"Scott Free"
+	}
+
+	// you can have up to 5 subdirs per terminal
+	// and up to 6 functions per sub dir
+	// there are 8 total outputs per terminal, (0...7)
+	// talk to Brock if you'd like this number increased. 
+
+	SubDir
+	{
+		"name"			"Journal"				// This is what is displayed as the name of this menu, and what the player must type to enter the menu (128 characters)
+		"password"		"Ankara"				// password required to run commands in this menu (16 characters)
+		"description"		"Library activities" 	// This is printed each time the user enters this menu (128 characters)
+
+		Function
+		{
+			"name"		"First"			// this is what the player must type in to trigger this function. (16 characters)
+			"description"	"First entry"		// this is a description of this function  (128 characters)
+			"runtext"	"Beckett asked me to do research about an ancient sarcophagus in the public library. Rather boring, until I noticed another Kindred moving from shadow to shadow. A Lasombra! What is the Sabbat doing in LA? I better watch him the next nights to be on the safe side..."
+		}
+		
+		Function
+		{
+			"name"		"Second"			// this is what the player must type in to trigger this function. (16 characters)
+			"description"	"Second entry"		// this is a description of this function  (128 characters)
+			"runtext"	"The Lasombra went into a downtown house with a red symbol tonight. The bouncer didn't let me in, so I waited outside until the new agent of the prince entered. Suddenly the bouncer ran out in panic and I followed him to Santa Monica where he visited a smoke shop to relax."
+		}
+
+		Function
+		{
+			"name"		"Third"			// this is what the player must type in to trigger this function. (16 characters)
+			"description"	"Third entry"		// this is a description of this function  (128 characters)
+			"runtext"	"Tonight the Lasombra visited the Santa Monica junkyard, probably to meet the night watchman working there. I was still observing the place when the agent of the prince arrived, again, and the Lasombra popped out of a shadow behind me! I hope I wasn't spotted by him."
+		}
+
+		Function
+		{
+			"name"		"Fourth"			// this is what the player must type in to trigger this function. (16 characters)
+			"description"	"Fourth entry"		// this is a description of this function  (128 characters)
+			"runtext"	"Nothing special happened tonight, so what is the Lasombra up to? Is he recruiting for the Sabbat? I'm pretty sure he failed with the junkyard guy, but I really don't know about the bouncer. Why is he always returning to the library? I'll contact Beckett for help..."
+		}
+
+		Function
+		{
+			"name"		"Fifth"			// this is what the player must type in to trigger this function. (16 characters)
+			"description"	"Fifth entry"		// this is a description of this function  (128 characters)
+			"runtext"	"I arranged a meeting with Beckett in the Santa Monica smoke shop as the bouncer is a regular there. We shall find out what he knows and afterwards I'll show Beckett the old emergency hatch of the library in the sewers. We will find the Lasombra lair and stop the Sabbat!"
+			"runscript"	"G.Library_Coffee = 2; librarySetQuest()"
+		}
+	}
+}

@@ -1,0 +1,39 @@
+TerminalDefinition	// added by wesp
+{
+	"screen saver"		"Shortcut"	// Bounces around on the screen when the terminal is not being used
+	"brackets"		""				// these surround the command prompt (2 characters)
+
+	LogonScreen	// displayed when the user first logs on
+	{
+		// Any number of lines are acceptable
+		"line0"		"Shortcut"
+	}
+
+	SubDir
+	{
+		"name"			"caine"
+		"password"		"lilith"
+		"description"		"Up the stairs, straight ahead!"
+		"difficulty"		"7"
+
+		Function
+		{
+			"name"		"Unlock shortcut"			// this is what the player must type in to trigger this function. (16 characters)
+			"description"	"Unlock shortcut"			// this is a description of this function  (128 characters)
+			"runtext"	"Shortcut unlocked."		// this text is printed when the player triggers this function.  (128 characters)
+			"trigger"	"0"				// fires entity output 0 when this command is run
+			"dependency"	"G.Shortcut_Unlocked == 0"
+			"runscript"	"G.Shortcut_Unlocked = 1"
+		}
+
+		Function
+		{
+			"name"		"Lock shortcut"
+			"description"	"Lock shortcut"		
+			"runtext"	"Shortcut locked."
+			"trigger"	"1"
+			"dependency"	"G.Shortcut_Unlocked == 1"
+			"runscript"	"G.Shortcut_Unlocked = 0"			
+		}
+	}
+}

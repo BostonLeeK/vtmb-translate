@@ -1,0 +1,30 @@
+{	1	}{	Hello brother, what are you doing down here all alone?	}{	Hello sister, what are you doing down here all alone?	}{	#	}{	npc.SetDisposition("Neutral", 1)	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	2	}{	I'm just exploring our base. A nice box you have there, brother.	}{	I'm just exploring our base. A nice box you have there, brother.	}{	11	}{	}{	G.Vendor_Talked = 1	}{	}{	}{	}{	}{	}{	}{	}
+{	3	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	4	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	5	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	6	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	7	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	8	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	9	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	10	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	11	}{	That's my personal collection of things which might help us in the war against evil. It took me quite some money to aquire, but there are items that I might be willing to sell, if you are interested.	}{	That's my personal collection of things which might help us in the war against evil. It took me quite some money to aquire, but there are items that I might be willing to sell, if you are interested.	}{	#	}{	npc.SetDisposition("Joy", 1)	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	12	}{	Sure, show me what you've got.	}{	Sure, show me what you've got.	}{	0	}{	}{	npc.StartBarter(0, 0)	}{	}{	}{	}{	}{	}{	}{	}
+{	13	}{	No, thanks. I already have everything I need.	}{	No, thanks. I already have everything I need.	}{	0	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	14	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	15	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	16	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	17	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	18	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	19	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	20	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	21	}{	So do you want to buy anything now?	}{	So do you want to buy anything now?	}{	#	}{	npc.SetDisposition("Neutral", 1)	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	22	}{	Maybe, let me take a look.	}{	Maybe, let me take a look.	}{	0	}{	}{	npc.StartBarter(0, 0)	}{	}{	}{	}{	}{	}{	}{	}
+{	23	}{	No, thanks.	}{	No, thanks.	}{	0	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	24	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	25	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	26	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	27	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	28	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	29	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}{	}
+{	30	}{	(Starting Condition)	}{	}{	21	}{	G.Vendor_Talked == 1	}{	}{	}{	}{	}{	}{	}{	}{	}

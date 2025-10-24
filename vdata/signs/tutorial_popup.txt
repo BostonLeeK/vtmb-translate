@@ -1,0 +1,28 @@
+SignData	// added by wesp
+{
+	BackgroundImage
+	{
+		"Name"		"interface/Pop_Ups/tutorial_popup"
+//		"Tiled"		"0"
+		"XPos"		""
+		"YPos"		""
+		"Wide"		"1024"
+		"Tall"		"512"
+	}
+
+	TextBlock
+	{
+		"Text"		"                       Warning!
+It seems as if an important Python script has not been compiled correctly on your system!
+You are probably playing inside a Linux Wine environment without running from Loader.exe.
+Find Loader.exe in the main game folder!"
+		"Font"		"ParagraphText"
+		"XPos"		"324"
+		"YPos"		"132"
+		"Wide"		"375"
+		"Tall"		"375"
+		"TextRGBA"		"[245, 245, 245, 200]"
+		"BackgroundRGBA"		"[0, 0, 0, 0]"
+	}
+
+}

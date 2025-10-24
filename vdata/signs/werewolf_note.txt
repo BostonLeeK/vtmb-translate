@@ -18,9 +18,9 @@ SignData	// added by wesp
 
 	TextBlock
 	{
-		"Text"		"David,
-a  guest  has  left  a  laptop  in  room  3.  The  password  is  lycans,  but  it  only  has  a  weird  poem  on  it.  See  if  you  can  determine  the  guest's  home  address.
-Christoph"
+		"Text"		"Девiд,
+гiсть залишив ноутбук у номерi 3. Пароль - лiканс, але там лише дивний вiрш. Спробуй визначити домашню адресу гостя.
+Крiстоф"
 		"Font"		"Vamp_Handwriting1"
 		"XPos"		"103"
 		"YPos"		"120"

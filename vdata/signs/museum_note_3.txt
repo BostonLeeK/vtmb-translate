@@ -18,7 +18,7 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"Damned  funny!  You  scared  the  crap  out  of  the  cleaning  crew.  Now  would  you  put  the  damned  raptor  back  in  its  exhibit?  Oh,  and  don't  leave  your  keys  lying  around  or  Marshall  will  fire  your  ass."
+		"Text"		"Прокляте жартiвливе! Ти налякав до смертi прибиральникiв. Тепер постави проклятого раптора назад у виставку. А ще не залишай свої ключi на видному мiсцi, або Маршал звiльнить тебе."
 		"Font"		"Vamp_Handwriting1"
 		"XPos"		"103"
 		"YPos"		"120"

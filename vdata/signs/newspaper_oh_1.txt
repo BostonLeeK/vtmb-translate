@@ -10,7 +10,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"OCEAN HOUSE FIRE!"
+		"Text"				"онфефю с асдхмйс нйеюмс!"
 		"Font"				"Headline"
 		"XPos"				"230"
 		"YPos"				"145"
@@ -23,7 +23,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"SOURCE OF INFERNO STILL A MYSTERY TO OFFICIALS"
+		"Text"				"дфепекн ╡мтепмн дня╡ гюкхью╙рэяъ рю╙лмхжеч дкъ нт╡ж╡юк╡б"
 		"Font"				"Newsprint"
 		"XPos"				"233"
 		"YPos"				"200"

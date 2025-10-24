@@ -18,7 +18,7 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"     L. SCHLEPPIN"
+		"Text"		"L. ькеоо╡м"
 		"Font"		"Headline"
 		"XPos"		"30"
 		"YPos"		"30"

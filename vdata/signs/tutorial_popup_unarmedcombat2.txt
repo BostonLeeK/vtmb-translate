@@ -12,10 +12,10 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"Your Unarmed Combat feat is a combination of Strength and Brawl. It directly affects your success in unarmed combat.
-There are different attacks depending on what direction you are moving when you initiate your attack. Try different combinations of moving and attacking in the upcoming battle.
-You can also block your enemy's attacks by pressing and holding the Mode key (default TAB).
-To put your fists away, press the Holster Weapon key (default H)."	// changed by wesp
+		"Text"		"Ваш навик Бой без зброї є комбiнацiєю Сили та Бiйцiвського мистецтва. Вiн безпосередньо впливає на ваш успiх у бою без зброї.
+Існують рiзнi атаки в залежностi вiд напрямку, в якому ви рухаєтеся пiд час початку атаки. Спробуйте рiзнi комбiнацiї руху та атаки у майбутньому бою.
+Ви також можете блокувати атаки ворога, натискаючи та утримуючи клавiшу Режиму (за замовчуванням - TAB).
+Щоб прибрати кулаки, натиснiть клавiшу Прибрати зброю (за замовчуванням - H)."	// changed by wesp
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"308"	//180, ws-fix
@@ -27,7 +27,7 @@ To put your fists away, press the Holster Weapon key (default H)."	// changed by
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

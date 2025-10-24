@@ -12,9 +12,9 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"There is a guard up ahead. Use Protean to kill him.
-You have level one Protean, known as Gleam of Red Eyes. Scroll the mouse wheel to select it, and use the Power key (default right-click) to activate the Discipline.
-You will immediately gain heat vision and a bonus to Wits. Equip your fists and kill the guard."	// changed by wesp
+		"Text"		"Є сторож попереду. Використайте Протеан, щоб вбити його.
+У вас є перший рiвень Протеану, вiдомий як Блиск червоних очей. Прокрутiть колесо мишi, щоб вибрати його, i використовуйте клавiшу Сили (за замовчуванням правий клiк), щоб активувати Дисциплiну.
+Ви одразу отримаєте теплове бачення та бонус до Розуму. Озбройтеся кулаками та вбийте сторожа."	// changed by wesp
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"310"	//182, ws-fix
@@ -26,7 +26,7 @@ You will immediately gain heat vision and a bonus to Wits. Equip your fists and 
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

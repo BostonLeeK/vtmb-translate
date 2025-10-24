@@ -18,8 +18,7 @@ SignData	// added by wesp
 
 	TextBlock
 	{
-		"Text"		"
-Due  to  unforeseen  though  fortunate  circumstances  the  business  of  Madam  Liotta  has  been  translocated  on  top  Santa  Monica  pier."
+		"Text"		"У зв'язку з непередбаченими, але щасливими обставинами бiзнес мадам Лiотти був перемiщений на верхнiй пiрс Санта-Монiки."
 		"Font"		"Vamp_Handwriting1"
 		"XPos"		"103"
 		"YPos"		"120"

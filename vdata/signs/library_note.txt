@@ -18,9 +18,9 @@ SignData	// added by wesp
 
 	TextBlock
 	{
-		"Text"		"Lee,
-someone  has  changed  the  gallery  back  storeroom  computer  password  to  \"awaken\"!  What  the  heck?
-David"
+		"Text"		"Лi,
+хтось змiнив пароль до комп'ютера у заднiй кiмнатi галереї на "awaken"! Що за чорт?
+Девiд"
 		"Font"		"Vamp_Handwriting1"
 		"XPos"		"103"
 		"YPos"		"120"

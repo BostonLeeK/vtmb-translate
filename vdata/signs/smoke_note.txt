@@ -18,7 +18,7 @@ SignData	// added by wesp
 
 	TextBlock
 	{
-		"Text"		"Beckett,  couldn't  wait  any  longer.  The  guy  left  early,  he  intends  to  meet  someone  at  the  end  of  the  pier.  Hope  to  see  you  there!  I  will  again  leave  a  note  in  case  I  have  to  go  before  you  arrive.  -Scott"
+		"Text"		"Бекетт, не мiг чекати довше. Цей хлопець вийшов рано, вiн має намiр зустрiтися з кимось на кiнцi пiра. Сподiваюсь побачити тебе там! Я залишу ще одну записку у випадку, якщо менi доведеться пiти до твого приходу. - Скотт"
 		"Font"		"Vamp_Handwriting1"
 		"XPos"		"33"
 		"YPos"		"33"

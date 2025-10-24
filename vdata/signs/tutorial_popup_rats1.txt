@@ -12,10 +12,10 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"Rats can be fed upon to gain a single blood point.
-You will find some rats at the other end of the alley, near the yellow windows.
-Killing rats has no impact on your Humanity score.
-Humans do not react well when they see live rats being sucked on."
+		"Text"		"1. Криси можна використовувати для отримання одного кров'яного пункту.
+2. Ви знайдете деяких крис на iншому кiнцi переулку, бiля жовтих вiкон.
+3. Вбивство крис не впливає на ваш рахунок Гуманностi.
+4. Люди не реагують добре, коли бачать, як насмоктують на живих крис."
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"310"	//182, ws-fix
@@ -27,7 +27,7 @@ Humans do not react well when they see live rats being sucked on."
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

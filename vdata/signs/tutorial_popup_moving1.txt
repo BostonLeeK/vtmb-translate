@@ -12,11 +12,11 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"Use the mouse to look around.
-Use W, A, S and D keys (default) to move. Use the walk key (default ALT) to walk and the toggle walk/run and toggle auto-move keys (default INS and DEL) to toggle walk/run and auto moving.
-Use the Toggle View key (default Z) to switch between first- and third-person. Use the Camera keys (default numpad) to move the camera in third-person.
-Use the Hotkey Menu key (defaul k) to assign actions to Hotkeys (default 1-0).
-< If the blood bar is blue restart game! >"	// changed by wesp
+		"Text"		"Використовуйте мишу, щоб оглядатися.
+Використовуйте клавiшi W, A, S та D (за замовчуванням) для руху. Використовуйте клавiшу ходьби (за замовчуванням ALT) для ходьби, клавiшi перемикання ходьби/бiгу та перемикання автоматичного руху (за замовчуванням INS та DEL) для перемикання ходьби/бiгу та автоматичного руху.
+Використовуйте клавiшу Перемикача виду (за замовчуванням Z) для перемикання мiж видом вiд першої та третьої особи. Використовуйте клавiшi камери (за замовчуванням цифрова клавiатура) для перемiщення камери в третiй особi.
+Використовуйте клавiшу Меню гарячих клавiш (за замовчуванням k) для призначення дiй гарячим клавiшам (за замовчуванням 1-0).
+< Якщо смуга кровi синя, перезапустiть гру! >"	// changed by wesp
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"310"	//182, ws-fix
 		"Wide"		"375"
@@ -30,7 +30,7 @@ Use the Hotkey Menu key (defaul k) to assign actions to Hotkeys (default 1-0).
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

@@ -12,9 +12,9 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"Nosferatu share a certain kinship with vermin. Rats do not flee the Nosferatu's approach.
-Unlike other vampire clans, who only gain one blood point from feeding upon rats, Nosferatu gain three.
-Killing rats has no impact on your Humanity score."
+		"Text"		"Носферату мають певну спорiдненiсть з гризунами. Кроти не втiкають вiд наближення Носферату.
+На вiдмiну вiд iнших кланiв вампiрiв, якi отримують лише один кров'яний пункт вiд годування кротами, Носферату отримують три.
+Вбивство кротiв не впливає на ваш рахунок Гуманностi."
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"310"	//182, ws-fix
@@ -26,7 +26,7 @@ Killing rats has no impact on your Humanity score."
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

@@ -10,7 +10,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"HALLOW'S EVE!"		// changed by wesp
+		"Text"				"м╡в ябърнцн цюккнс╡МС!"		// changed by wesp
 		"Font"				"Headline"
 		"XPos"				"230"
 		"YPos"				"145"
@@ -23,7 +23,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"VAMPIRES, GHOULS, GHOSTS PREPARE FOR SPOOKY CELEBRATION!"
+		"Text"				"бюло╡пх, цск╡, опхбхдх цнрсчрэяъ дн фюукхбн╞ ябърйнбн╞ б╡дгмюйх!"
 		"Font"				"Newsprint"
 		"XPos"				"233"
 		"YPos"				"200"

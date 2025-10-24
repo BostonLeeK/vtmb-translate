@@ -18,7 +18,7 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"     BUCKFINSTER"
+		"Text"		"BUCKFINSTER"
 		"Font"		"Headline"
 		"XPos"		"30"
 		"YPos"		"30"

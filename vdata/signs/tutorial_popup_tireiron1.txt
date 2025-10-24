@@ -26,9 +26,9 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"You have just picked up a tire iron.
-To equip this weapon press the Melee Weapons key (default F1) until the tire iron icon is highlighted in your melee weapon inventory list, and then click the left mouse button.
-Pressing the Attack key (default left-click) will initiate your attack."	// changed by wesp
+		"Text"		"Ви щойно пiдiбрали залiзний кийок.
+Щоб взяти цю зброю, натиснiть клавiшу ближнього бою (за замовчуванням F1), доки iконка залiзного кийка не буде видiлена у вашому списку зброї для ближнього бою, а потiм клацнiть лiву кнопку мишi.
+Натискання клавiшi атаки (за замовчуванням лiва кнопка мишi) запустить вашу атаку."	// changed by wesp
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"460"	//332, ws-fix
@@ -40,7 +40,7 @@ Pressing the Attack key (default left-click) will initiate your attack."	// chan
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

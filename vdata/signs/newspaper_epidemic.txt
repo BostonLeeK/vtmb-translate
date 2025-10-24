@@ -10,7 +10,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"EPIDEMIC IN LA!"		// changed by wesp
+		"Text"				"ео╡дел╡ъ б кю!"		// changed by wesp
 		"Font"				"Headline"
 		"XPos"				"230"
 		"YPos"				"145"
@@ -23,7 +23,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"OUTBREAK OF CONTAGIOUS DISEASES BAFFLES LA DOCTORS!"
+		"Text"				"бхасу гюубнпчбюмэ мю гюпюгм╡ убнпнах гахбю╙ г м╡ц кю днйрнп╡б!"
 		"Font"				"Newsprint"
 		"XPos"				"233"
 		"YPos"				"200"

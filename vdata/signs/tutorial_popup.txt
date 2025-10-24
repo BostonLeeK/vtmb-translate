@@ -12,10 +12,10 @@ SignData	// added by wesp
 
 	TextBlock
 	{
-		"Text"		"                       Warning!
-It seems as if an important Python script has not been compiled correctly on your system!
-You are probably playing inside a Linux Wine environment without running from Loader.exe.
-Find Loader.exe in the main game folder!"
+		"Text"		"                       ”вага!
+«даЇтьс€, що важливий сценарiй Python не був скомпiльований правильно на вашiй системi!
+…мовiрно, ви граЇте в середовищi Linux Wine без запуску з Loader.exe.
+«найдiть Loader.exe в основнiй папцi гри!"
 		"Font"		"ParagraphText"
 		"XPos"		"324"
 		"YPos"		"132"

@@ -18,8 +18,7 @@ SignData	// added by wesp
 
 	TextBlock
 	{
-		"Text"		"
-Something  like  daylight  deep  underground  and  during  the  night...?  You  are  not  fooling  Kent  Alan  Ryan,  doctor!  Let's  test  this  illusion,  shall  we?"
+		"Text"		"Чи щось схоже на денне свiтло глибоко пiд землею i пiд час ночi...? Ти не обдурюєш Кента Алана Райана, докторе! Давай перевiримо цю iлюзiю, чи не так?"
 		"Font"		"Vamp_Handwriting1"
 		"XPos"		"103"
 		"YPos"		"120"

@@ -10,7 +10,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"FATAL INFERNO!"		// changed by wesp
+		"Text"				"тюрюкэме оейкн!"		// changed by wesp
 		"Font"				"Headline"
 		"XPos"				"230"
 		"YPos"				"145"
@@ -23,7 +23,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"MYSTERIOUS FIRE INCINERATES HISTORIC LOS ANGELES HOME!"
+		"Text"				"лхяреп╡имхи бнцнмэ гмхыс╙ ╡ярнпхвмхи асдхмнй с кня-юмдфекея╡!"
 		"Font"				"Newsprint"
 		"XPos"				"233"
 		"YPos"				"200"

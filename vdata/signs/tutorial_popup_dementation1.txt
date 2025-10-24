@@ -26,9 +26,9 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"Dementation is the vampiric power causing visions and madness in others.
-Dementation is a targeted Discipline. The effect and its length varies with each level.
-Use of Dementation is not a Masquerade violation."
+		"Text"		"Дементацiя - це вампiрська сила, що викликає вiзiї та безумство в iнших.
+Дементацiя - це цiльова Дисциплiна. Ефект i тривалiсть його дiї варiюються на кожному рiвнi.
+Використання Дементацiї не порушує Маскарад."
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"460"	//332, ws-fix
@@ -40,7 +40,7 @@ Use of Dementation is not a Masquerade violation."
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

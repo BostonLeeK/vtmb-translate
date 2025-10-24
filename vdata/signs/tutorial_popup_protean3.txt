@@ -12,9 +12,9 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"There is a guard up ahead. Use Protean to kill him.
-You have level two Protean, known as Feral Claws. Scroll the mouse wheel to select Feral Claws, and use the Power key (default right-click) to activate the Discipline.
-You will immediately gain deadly claws that deal aggravated damage. Equip your fists and kill the guard."	// changed by wesp
+		"Text"		"Там сторож попереду. Використай Протеан, щоб вбити його.
+У вас є рiвень два Протеану, вiдомий як Дикий кiготь. Прокрутiть колесо мишi, щоб вибрати Дикий кiготь, i використайте клавiшу Сили (за замовчуванням правий клiк), щоб активувати Дисциплiну.
+Ви одразу отримаєте смертоноснi кiгтi, якi завдають ураження, що не може бути вилiкуване. Озбройте свої кулаки та вбийте сторожа."	// changed by wesp
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"310"	//182, ws-fix
@@ -26,7 +26,7 @@ You will immediately gain deadly claws that deal aggravated damage. Equip your f
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

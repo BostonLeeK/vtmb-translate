@@ -12,8 +12,8 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"If your health bar begins to turn yellow, it means you have sustained aggravated damage.
-Certain hazards, like fire and supernatural attacks, cause aggravated damage. This takes much longer to heal than regular damage."
+		"Text"		"Якщо ваша смуга здоров'я починає ставати жовтою, це означає, що ви отримали важкi пошкодження.
+Деякi небезпеки, такi як вогонь та надприроднi атаки, завдають важких пошкоджень. Це потребує набагато бiльше часу для вiдновлення, нiж звичайнi пошкодження."
 		"Font"		"ParagraphText"
 		"XPos"		"324"
 		"YPos"		"182"
@@ -25,7 +25,7 @@ Certain hazards, like fire and supernatural attacks, cause aggravated damage. Th
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"410"
 		"YPos"		"578"	//572
 		"Wide"		"215"

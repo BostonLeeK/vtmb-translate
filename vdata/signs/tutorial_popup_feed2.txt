@@ -12,10 +12,10 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"Once you have begun feeding on your victim, you will see this bar appear.
-This represents your victim's blood pool. 
-You should stop feeding before emptying his blood pool and killing him.
-Press Feed (default F) again to stop feeding."
+		"Text"		"Як тiльки ви почнете кормитися жертвою, ви побачите, що з'явиться ця смуга.
+Це представляє кров'яний резерв вашої жертви.
+Вам слiд припинити кормлення до того, як вичерпається її кров'яний резерв i вона загине.
+Натиснiть ще раз кнопку Кормити (за замовчуванням F), щоб припинити кормлення."
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"310"	//182, ws-fix
@@ -27,7 +27,7 @@ Press Feed (default F) again to stop feeding."
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

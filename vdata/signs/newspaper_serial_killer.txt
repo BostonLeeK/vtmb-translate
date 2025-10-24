@@ -10,7 +10,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"CARNIVAL OF DEATH"
+		"Text"				"йюпмюбюк ялепр╡"
 		"Font"				"Headline"
 		"XPos"				"230"
 		"YPos"				"145"
@@ -23,7 +23,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"GRUESOME REMAINS FOUND ON THE PIER! POLICE BAFFLED!"
+		"Text"				"фюукхб╡ гюкхьйх гмюидем╡ мю лнкс! онк╡ж╡ъ гахрю г оюмрек╡йс!"
 		"Font"				"Newsprint"
 		"XPos"				"233"
 		"YPos"				"200"

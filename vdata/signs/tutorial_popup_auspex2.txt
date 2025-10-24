@@ -13,9 +13,9 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"There is a guard up ahead. Use Auspex to see his aura through the machinery. 
-Scroll the mouse wheel to select Auspex, and use the Power key (default right-click) to activate it. Remember, Auspex is a passive Discipline. Make sure to pay attention to the Discipline timer on the bottom-right of your screen.
-Once you see the guard, equip the tire iron, move forward, and kill him."	// changed by wesp
+		"Text"		"Є сторож попереду. Використайте Ауспекс, щоб побачити його ауру через механiзми.
+Прокрутiть колесо мишi, щоб вибрати Ауспекс, i використовуйте клавiшу Сили (за замовчуванням правий клiк), щоб активувати її. Пам'ятайте, що Ауспекс є пасивною Дисциплiною. Обов'язково звернiть увагу на таймер Дисциплiни внизу справа на вашому екранi.
+Як тiльки ви побачите сторожа, взявши з собою залiзний лом, рушайте вперед i вбийте його."	// changed by wesp
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"310"	//182, ws-fix
@@ -27,7 +27,7 @@ Once you see the guard, equip the tire iron, move forward, and kill him."	// cha
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

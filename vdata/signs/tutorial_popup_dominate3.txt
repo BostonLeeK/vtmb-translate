@@ -13,9 +13,9 @@ SignData
 	TextBlock
 	{
 		// RM: This popup is no longer used.
-		"Text"		"There are two guards up ahead. Use Dominate to incapacitate them and then kill them.
-You have level two Dominate, known as Brainwipe. Scroll the mouse wheel to select Brainwipe, move nearer to the guards, and use the Power key (default right-click) to activate the discipline.
-Brainwipe is an area-of-effect discipline. Both guards, being fairly close together, will become mesmerized. Equip your tire iron and kill them."	// changed by wesp
+		"Text"		"1. Перед вами два сторожа. Використайте Домiнування, щоб паралiзувати їх, а потiм вбити.
+2. У вас є рiвень два Домiнування, вiдомий як Видалення мозку. Прокрутiть колесо мишi, щоб вибрати Видалення мозку, пiдiйдiть ближче до сторожiв та використайте клавiшу Повноваження (за замовчуванням правий клiк), щоб активувати дисциплiну.
+3. Видалення мозку - це дисциплiна з областю дiї. Обидва сторожа, якi знаходяться досить близько один до одного, будуть зачарованi. Озбройтеся в кийок i вбийте їх."	// changed by wesp
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"310"	//182, ws-fix
@@ -27,7 +27,7 @@ Brainwipe is an area-of-effect discipline. Both guards, being fairly close toget
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

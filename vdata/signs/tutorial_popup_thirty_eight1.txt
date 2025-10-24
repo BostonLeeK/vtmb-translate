@@ -27,8 +27,8 @@ SignData
 	TextBlock
 	{
 		"Alignment"			"center"
-		"Text"		"You have been given a .38 revolver.
-To equip it press the Ranged Weapons key (default F2) until the revolver icon is highlighted, and then left-click. To fire, press the Attack key (default left-click). Some weapons (but not the .38) have an alternate firing mode, such as automatic fire. Press the Mode key (default TAB) to toggle it."	// changed by wesp
+		"Text"		"Вам було видано револьвер калiбру .38.
+Щоб взяти його до рук, натиснiть клавiшу Вогнепальнi Зброї (за замовчуванням F2), доки iконка револьвера не буде видiлена, а потiм натиснiть лiву кнопку мишi. Для стрiльби натиснiть клавiшу Атаки (за замовчуванням лiва кнопка мишi). Деякi зброї (але не .38) мають альтернативний режим стрiльби, такий як автоматична стрiльба. Натиснiть клавiшу Режиму (за замовчуванням TAB), щоб перемкнути його."	// changed by wesp
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"460"	//332, ws-fix
@@ -41,7 +41,7 @@ To equip it press the Ranged Weapons key (default F2) until the revolver icon is
 	TextBlock
 	{
 		"Alignment"			"center"
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

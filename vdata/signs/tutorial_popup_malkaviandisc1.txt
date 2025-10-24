@@ -55,10 +55,10 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"Malkavians have three unique Disciplines.
-Auspex: Second sight that allows you to see the auras of others.
-Dementation: The mystical ability to cause visions and madness.
-Obfuscate: Vampiric invisibility."
+		"Text"		"Малкавiани мають три унiкальнi Дисциплiни.
+1. Ауспекс: Друге зорове сприйняття, яке дозволяє бачити аури iнших.
+2. Дементацiя: Мiстична здатнiсть викликати вiзiї та безумство.
+3. Обфускацiя: Вампiрська невидимiсть."
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"460"	//332, ws-fix
@@ -70,7 +70,7 @@ Obfuscate: Vampiric invisibility."
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

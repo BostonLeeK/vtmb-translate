@@ -12,9 +12,9 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"There is a guard up ahead. Use Animalism to incapacitate him and pass by.
-You have level one Animalism, known as Nightwisp Ravens. Scroll the mouse wheel to select Nightwisp Ravens, place your cursor over the guard, and use the Power key (default right-click) to activate the Discipline.
-The guard will be distracted by a flock of mystical ravens. You can then walk past him into the next room."	// changed by wesp
+		"Text"		"Є сторож попереду. Використайте Анiмалiзм, щоб вiдключити його i пройти повз.
+У вас є перший рiвень Анiмалiзму, вiдомий як Нiчнi Ворони. Прокрутiть колесо мишi, щоб вибрати Нiчнi Ворони, поставте курсор на сторожа i використайте клавiшу Сили (за замовчуванням правий клiк), щоб активувати Дисциплiну.
+Сторож буде вiдволiканий стаєм мiстичних ворон. Пiсля цього ви зможете пройти повз нього в наступну кiмнату."	// changed by wesp
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"310"	//182, ws-fix
@@ -26,7 +26,7 @@ The guard will be distracted by a flock of mystical ravens. You can then walk pa
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

@@ -18,11 +18,11 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"Dancers  -  Log  all  Champagne  Room  transactions  CR.
-INCLUDE  TIPS.
+		"Text"		"Танцiвницi - реєструйте всi транзакцiї Кiмнати Шампанського Клубу (КШК).
+ВКЛЮЧАЮЧИ ЧАЙОК.
 
-Report  peepshow  revenue  under  PS.
-PW:  sinner"
+Звiт про доходи вiд пiп-шоу пiд PS.
+Пароль: грiшник"
 		"Font"		"Vamp_Handwriting1"
 		"XPos"		"103"
 		"YPos"		"120"

@@ -8,9 +8,9 @@ HistoryDataTables
 		Text
 		{
 			"Name"				"None"
-			"Description"			"You don't remember anything from before you were embraced.
-			No stat changes."
-			"ShortDescription"		"No stat changes."
+			"Description"			"Ви не пам'ятаєте нiчого з часiв до того, як вас обняли.
+			Немає змiн у статах."
+			"ShortDescription"		"Немає змiн у статистицi."
 			"ShortPenaltyDescription"	""
 		}
 
@@ -26,10 +26,10 @@ HistoryDataTables
 	{
 		Text
 		{
-			"Name"				"Homosexual"
-			"Description"			"You always found your own gender much more attractive than the other sex, although many people still have issues dealing with this. Maybe vampiric society is different...
-			No stat changes."
-			"ShortDescription"		"No stat changes."
+			"Name"				"Гомосексуальний"
+			"Description"			"Ви завжди вважали свою власну стать привабливiшою, нiж iншу, хоча багато людей все ще мають проблеми з цим. Можливо, вампiрське суспiльство iнше...
+			Без змiн у статах."
+			"ShortDescription"		"Немає змiн у статистицi."
 			"ShortPenaltyDescription"	""
 		}
 
@@ -45,10 +45,10 @@ HistoryDataTables
 	{
 		Text
 		{
-			"Name"				"Environmental Activist"
-			"Description"			"You were a member of Greenpeace in life, always fighting to protect the environment, riding with the whales and climbing nuclear reactors. Knowing about cause and effect was important then.
-			Swap the priority order of your Abilities to Knowledges, Talents, Skills."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Екологiчний активiст"
+			"Description"			"Ти був членом Greenpeace у життi, завжди боровся за охорону навколишнього середовища, плавав з китами та карабкався на ядернi реактори. Знання про причину та наслiдок були важливi тодi.
+			Змiни прiоритет порядку твоїх Здiбностей на Знання, Таланти, Навички."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -64,10 +64,10 @@ HistoryDataTables
 	{
 		Text
 		{
-			"Name"				"Old Timer"
-			"Description"			"You are the old fashioned type and don't care about all this new technology. Thus it costs you more to raise your Computer knowledge, but you start with a bonus in Scholarship."	// added by wesp
-			"ShortDescription"		"Advantage: +1 to Scholarship."
-			"ShortPenaltyDescription"	"Penalty: Raising Computer costs more."
+			"Name"				"Старий лiтун"
+			"Description"			"Ви є старомоднiм типом i не цiкавитеся усiєю цiєю новою технологiєю. Тому вам дорожче пiдвищувати свої знання в галузi Комп'ютерiв, але ви починаєте з бонусом у Навчаннi."	// added by wesp
+			"ShortDescription"		"Перевага: +1 до Науки."
+			"ShortPenaltyDescription"	"Штраф: Пiдвищення Комп'ютера коштує бiльше."
 		}
 
 		General
@@ -84,10 +84,12 @@ HistoryDataTables
 	{
 		Text
 		{
-			"Name"				"Juvenile Hall Disciplinarian"
-			"Description"			"Already as a teen you loved to demonstrate your influence and power over others. 
-Swap the priority order of your Attributes to Physical, Mental, Social."	// added by wesp
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Дисциплiнар <Juvenile Hall>"
+			"Description"			"Ще як пiдлiток ти любив демонструвати свiй вплив та силу над iншими.
+1. Фiзичнi
+2. Ментальнi
+3. Соцiальнi"	// added by wesp
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -102,10 +104,10 @@ Swap the priority order of your Attributes to Physical, Mental, Social."	// adde
 	{
 		Text
 		{
-			"Name"				"Video Game Publisher"
-			"Description"			"You relish a sad pleasure in ruining promising game developing studios with impossible deadlines.
-Swap the priority order of your Attributes to Mental, Social, Physical."	// added by wesp
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Видавець вiдеоiгор"
+			"Description"			"Ви насолоджуєтеся сумною радiстю, руйнуючи перспективнi студiї розробки iгор неможливими термiнами.
+Змiнiть порядок прiоритету ваших Атрибутiв на Ментальнi, Соцiальнi, Фiзичнi."	// added by wesp
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -124,10 +126,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Union Boss"
-			"Description"			"You're a blue-collar success story, a self-made man of the people. The respect of your workers and the gratification of a job well done was all you ever wanted in return. So the kickbacks and extortion money were all icing.
-			Swap the priority order of your Attributes to Physical, Social, Mental."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Голова Союзу"
+			"Description"			"Ти - успiшна iсторiя робiтничого класу, саморобний чоловiк народу. Повага твоїх працiвникiв та задоволення вiд виконаної роботи - це все, що ти коли-небудь хотiв отримати взамiн. Так що хабарi та вимагання грошей були просто вершковим шаром.
+			Змiнiть прiоритетний порядок ваших Атрибутiв на Фiзичний, Соцiальний, Ментальний."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -143,10 +145,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Teamster"
-			"Description"			"You believe in collective bargaining to get justice for working families. And if that fails, there's collective wrench beatings.
-			Swap the priority order of your Attributes to Physical, Social, Mental."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Вантажник"
+			"Description"			"Ви вiрите в колективне ведення переговорiв для забезпечення справедливостi для працюючих сiмей. І якщо це не вдасться, завжди є колективнi побиття гайками.
+			Змiнiть порядок прiоритету ваших Атрибутiв на Фiзичнi, Соцiальнi, Ментальнi."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -161,10 +163,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Cut-Rate Party Clown"
-			"Description"			"It was just supposed to be until you put things back together after Evelyn left you. Here it is 3 years and 3,246 scotches later. Somehow you've kept this gig going without one repeat customer. Truly, America is the greatest nation on earth.
-			Swap the priority order of your Attributes to Physical, Mental, Social."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Дешевий вечiрнiй клоун"
+			"Description"			"Це мало бути тiльки до того, як ти вiдновишся пiсля того, як Евелiн покинула тебе. Ось вже 3 роки i 3 246 скотчiв пiзнiше. Якимось чином ти продовжував це дiло без одного повторного клiєнта. Справдi, Америка - найвеличнiша нацiя на Землi.
+			Змiнiть прiоритетний порядок ваших Атрибутiв на Фiзичнi, Ментальнi, Соцiальнi."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -180,10 +182,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Ex-Gymnast-Stripper"	// changed by wesp
-			"Description"			"Your entire childhood was spent either in school or at practice. Daddy was too busy to tell you there's no such thing as a professional gymnast. And mommy... well, mommy was busy looking for a new daddy.
-			Swap the priority order of your Attributes to Physical, Mental, Social."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Екс-гiмнастка-стрiптизерка"	// changed by wesp
+			"Description"			"Ваше дитинство пройшло або в школi, або на тренуваннях. Тато був занадто зайнятий, щоб сказати вам, що професiйний гiмнаст - це неiснуюча рiч. А мама... ну, мама шукала нового тата.
+			Змiнiть прiоритетний порядок ваших Атрибутiв на Фiзичнi, Ментальнi, Соцiальнi."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -199,10 +201,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"True Brujah"
-			"Description"			"Many blame the stereotype of the rebellious Brujah on Troile, the hot-blooded Methuselah whose progeny comprise the bulwark of modern Clan Brujah. You share no blood with Troile. As such, you are predisposed to learned idealism instead of belligerent iconoclasm.
-			Swap the priority order of your Attributes to Mental, Physical, Social."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Справжнiй Брухiянин"
+			"Description"			"Багато винуватять стереотип бунтiвного Бруджа на Троїля, палкокровного Метузалема, чиї нащадки складають опору сучасного Клану Бруджа. Ви не маєте спiльної кровi з Троїлем. Тому ви схильнi до вивченого iдеалiзму замiсть бойового iконоклазму.
+			Змiнiть прiоритетний порядок ваших Атрибутiв на Ментальнi, Фiзичнi, Соцiальнi."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -217,10 +219,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Pagan"
-			"Description"			"Your beliefs center on the Gnostic pantheon, and your kinship with nature is strong. After you were Embraced, you were naturally more in tune with the Beast within and that affinity is now apparent.
-			Swap the priority order of your Attributes to Mental, Physical, Social."	// changed by wesp
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Язичник"
+			"Description"			"Вашi переконання зосередженi на гностичному пантеонi, i ваше спорiднення з природою є сильним. Пiсля того, як вас Об'ємлювали, ви природно стали бiльш узгодженими зi Звiром всерединi, i ця спiввiдноснiсть тепер очевидна.
+			Змiнiть прiоритетний порядок ваших Атрибутiв на Ментальнi, Фiзичнi, Соцiальнi."	// changed by wesp
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -236,10 +238,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Pagan Priestess"
-			"Description"			"You believe your Embrace into Clan Gangrel was destiny. You were priestess to a pagan sect in life, and nature is the center of your mind, body, and soul. After you were Embraced, you were naturally more in tune with the Beast within.
-			Swap the priority order of your Attributes to Mental, Physical, Social."	// changed by wesp
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Язичниця-жриця"
+			"Description"			"Ви вважаєте, що ваше Обiйняття Кланом Гангрел було долею. Ви були жрицею поганої секти в життi, i природа є центром вашого розуму, тiла та душi. Пiсля того, як вас Обiйняли, ви природно стали бiльш угодованi зi Звiром всерединi.
+			Змiнiть прiоритетний порядок ваших Атрибутiв на Ментальнi, Фiзичнi, Соцiальнi."	// changed by wesp
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -255,10 +257,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Degenerate Gambler"
-			"Description"			"You knew you shoulda laid the chalk. You were down. Down big. But you had to press it on a parlay with the over and caught bad beat on the hook. On the friggin' hook. So much for Vegas. You figured you'd slum it around LA till you could build a roll to get back in. And that's when you met her....
-			Swap the priority order of your Attributes to Mental, Physical, Social."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Дегенеративний гральник"
+			"Description"			"Ти знав, що мав би покласти крейду. Ти був у мiнусi. Великому мiнусi. Але ти мусив натиснути на парлей з овером i отримав погану карту на хук. На ганчiрку. Так що про Вегас можна забути. Ти вирiшив, що будеш шастати по Лос-Анджелесу, поки не зможеш зiбрати банкролл, щоб повернутися. І ось коли ти зустрiв її....
+			Змiнiть порядок прiоритету ваших Атрибутiв на Ментальнi, Фiзичнi, Соцiальнi."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -274,10 +276,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Women's Prison Guard"
-			"Description"			"You were a black-hearted, violence-loving badass when you were alive, and you're still an evil maniac in unlife. You had always hoped it would be more like skinemax. If only.
-			Swap the priority order of your Attributes to Mental, Physical, Social"	// changed by wesp
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Охоронець жiночого в'язницi"
+			"Description"			"Ти був чорносердечним, насильственним бадасом, коли був живим, i ти все ще злий манiяк у нежиттi. Ти завжди сподiвався, що все буде бiльше схоже на skinemax. Якби тiльки.
+			Змiнiть прiоритетний порядок ваших Атрибутiв на Ментальнi, Фiзичнi, Соцiальнi."	// changed by wesp
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -293,10 +295,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Industry Lobbyist"
-			"Description"			"You have a big ego. You represented industry and pressed their agenda in the halls of power. Which industry? Which one's paying?
-			Swap the priority order of your Attributes to Mental, Social, Physical."	// changed by wesp
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Лобiст промисловостi"
+			"Description"			"У вас велике его. Ви представляли промисловiсть i просували їхню програму в коридорах влади. Яка промисловiсть? Хто платить?
+			Змiнiть прiоритетний порядок ваших Атрибутiв на Ментальнi, Соцiальнi, Фiзичнi."	// changed by wesp
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -311,10 +313,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Country Club Lothario"
-			"Description"			"We're living in the age of soccer moms. And don't you know it. Yeah, hubby might be pulling down 7 figures, but you got an empty day-planner and a grin that drops panties like putts on a par 3.
-			Swap the priority order of your Attributes to Social, Physical, Mental."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Клубний Лотарiо"
+			"Description"			"Ми живемо в епоху футбольних мам. І ти це знаєш. Так, чоловiк може заробляти сiм цифр, але у тебе порожнiй планер дня i посмiшка, яка збиває з нiг як пати на парi 3.
+			Змiнiть порядок прiоритету ваших Атрибутiв на Соцiальнi, Фiзичнi, Ментальнi."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -330,10 +332,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Southern Debutante"
-			"Description"			"You were very privileged and gained excellent education. Mother would be so proud if she knew you were accepted into the *best* vampire clan around!
-			Swap the priority order of your Attributes to Social, Physical, Mental."	// changed by wesp
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Пiвденна дебютантка"
+			"Description"			"Ви були дуже привiлегованi та отримали вiдмiнну освiту. Мати була б така горда, якби знала, що вас прийняли до *найкращого* клану вампiрiв навколо!
+			Змiнiть прiоритетний порядок ваших Атрибутiв на Соцiальнi, Фiзичнi, Ментальнi."	// changed by wesp
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -349,10 +351,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Infomercial Huckster"
-			"Description"			"I made millions from my tiny one-bedroom apartment, placing tiny classified ads, buying and selling, and with 1-900 lines. And so can you!
-			Swap the priority order of your Attributes to Social, Physical, Mental."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Інформацiйний рекламний шахраї."
+			"Description"			"Я заробив мiльйони зi своєї маленької однокiмнатної квартири, розмiщуючи маленькi оголошення, купуючи й продавши, i використовуючи 1-900 лiнiї. І ви можете це зробити!
+			Змiнiть прiоритетний порядок ваших Атрибутiв на Соцiальнi, Фiзичнi, Ментальнi."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -368,10 +370,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Medicine Saleswoman"	// changed by wesp
-			"Description"			"Some uptight types might say Fluoxetine for kids is over the line. Obviously, they have no idea what kind of profit margin those things pack. And have they spent time around kids? Please - they should put that stuff in baby formula.
-			Swap the priority order of your Attributes to Social, Physical, Mental."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Продавчиня медикаментiв"	// changed by wesp
+			"Description"			"Деякi зануди можуть сказати, що Флуоксетин для дiтей - це перебiр. Очевидно, вони не уявляють, який прибутковий рiвень мають цi речi. А чи вони проводили час поруч з дiтьми? Будь ласка, вони повиннi додати це до дитячої сумiшi.
+			Змiнiть прiоритетний порядок ваших Атрибутiв на Соцiальнi, Фiзичнi, Ментальнi."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -387,10 +389,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Voyeur Website Model"
-			"Description"			"Maybe you weren't the prettiest girl in school, but you could still make dirty old men sit up and beg. And pay for it. Hey, it beats Taco Hell.
-			Swap the priority order of your Attributes to Social, Physical, Mental."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Модель веб-сайту вiдстеження"
+			"Description"			"Можливо, ти не була найкрасивiшою дiвчиною в школi, але ти все одно могла змусити старих розпусникiв вiдчути себе живими. І заплатити за це. Ну що, це краще, нiж Тако-пекло.
+			Змiнiть прiоритетний порядок ваших Атрибутiв на Соцiальнi, Фiзичнi, Ментальнi."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -406,10 +408,9 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Nutty Weatherman"	// changed by wesp
-			"Description"			"Your inane banter and masterful use of the awkward segue was the toast of Bumblefuck, Illinois. So you took it to the big leagues and, wouldn't ya know it? First skank you pick up at an airport bar goes and kills you.
-			Swap the priority order of your Attributes to Social, Mental, Physical."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Вiдчайдушний Метеоролог"	// changed by wesp
+			"Description"			"Змiнiть прiоритетний порядок ваших Атрибутiв на Соцiальнi, Ментальнi, Фiзичнi."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -425,10 +426,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Gossip Columnist"
-			"Description"			"Item! You're dead! Who would ever have thought that any of it could be real? You loved dark fantasies and considered yourself occult-savvy.
-			Swap the priority order of your Attributes to Social, Mental, Physical."	// changed by wesp
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Колумнiст чуток"
+			"Description"			"Пункт! Ти мертвий! Хто б мiг подумати, що все це може бути реальним? Ти любив темнi фантазiї i вважав себе знавцем оккультизму.
+			Змiнiть прiоритетний порядок ваших Атрибутiв на Соцiальнi, Ментальнi, Фiзичнi."	// changed by wesp
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -445,10 +446,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Mortician"
-			"Description"			"The irony isn't lost on you now. All those nights in the echoing silence with the husks of former humanity. You always thought it was your fate you were staring into. Then one night it happened. Finally. One of them - a hell of a fine specimen, you were thinking - woke up.
-			Swap the priority order of your Abilities to Skills, Knowledges, Talents."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Поховальник"
+			"Description"			"Іронiя тепер не втрачається вам. Усi тi ночi в ехомовному мовчаннi з оболонками колишньої людськостi. Ви завжди думали, що дивитесь на свою долю. І ось однiєї ночi це сталося. Нарештi. Один з них - чудовий екземпляр, ви думали - прокинувся.
+			Змiнiть прiоритетний порядок ваших Здiбностей на Навички, Знання, Таланти."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -463,10 +464,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Corporate Schmo"
-			"Description"			"There's no room in your cubicle to hang your Business degree. You were reprimanded for having a wrinkled shirt. And you laughed when your buddy decided to major in Rhetoric. Now he's a sitcom writer and wears Birkenstocks to work. He always said \"business casual is the dress of defeat\". Maybe you could go back and get your MBA....
+			"Name"				"Корпоративний Шмо"
+			"Description"			"У вашiй кабiнцi немає мiсця для пiдвiшування вашого диплому з бiзнесу. Вас покарали за морщинисту сорочку. І ви посмiялися, коли ваш друг вирiшив вчитися на риторицi. Тепер вiн письменник ситкому i приходить на роботу у бiркенштоках. Вiн завжди казав \"business casual is the dress of defeat\". Maybe you could go back and get your MBA....
 			Swap the priority order of your Abilities to Skills, Knowledges, Talents."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -481,10 +482,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Special Forces"
-			"Description"			"Yeah, you were Special Forces. Black ops and all that. Which branch? You could say... but you'd have to kill everyone within earshot. No, seriously.
-			Swap the priority order of your Abilities to Skills, Talents, Knowledges."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Спецiальнi сили"
+			"Description"			"Так, ви були вiйськовослужбовцем спецпiдроздiлу. Секретнi операцiї та все таке. В якому пiдроздiлi? Ви можете сказати... але вам доведеться вбити всiх, хто чує вас. Нi, серйозно.
+			Змiнiть прiоритетний порядок ваших Здiбностей на Навички, Таланти, Знання."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -500,10 +501,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Con Artist"
-			"Description"			"Only one thing counts in this life and that is to get them to sign on the line that is dotted.
-			Swap the priority order of your Abilities to Skills, Talents, Knowledges."	// changed by wesp
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Шахрай"
+			"Description"			"Лише одне має значення у цьому життi, i це отримати їх пiдпис на лiнiї, яка є на крапцi.
+			Змiнiть прiоритетний порядок ваших Здiбностей на Навички, Таланти, Знання."	// changed by wesp
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -519,10 +520,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"War Profiteer"
-			"Description"			"Er, Defense Contractor. Someone has to make sure the troops get hot meals and video teleconferencing from home. And if, while you're over there, you can help the natives get their economy running by landing some bloated, no-bid oil services contracts from your buddies in government, great! It's win-win! So one of your truck drivers gets beheaded on the Internet; who doesn't realize that risk when they sign up for the job?
-			Swap the priority order of your Abilities to Knowledges, Skills, Talents."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Вiйськовий спекулянт"
+			"Description"			"Отже, Оборонний пiдприємець. Хтось повинен переконатися, що вiйськовi отримують гарячi страви та вiдеоконференцiї з дому. І якщо, будучи там, ви можете допомогти мiсцевим жителям розвинути їхню економiку, укладаючи договори на надмiрно завищенi цiни на нафтовi послуги без торгiв з вашими друзями у владi, то це чудово! Це виграш-виграш! Так що якщо один з ваших водiїв вантажiвки буде обiрваний в Інтернетi, хто не усвiдомлює цього ризику, коли пiдписується на роботу?
+			Змiнiть порядок прiоритету ваших Здiбностей на Знання, Навички, Таланти."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -537,10 +538,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Eco-Terrorist Hacker"
-			"Description"			"You were an expert computer hacker dedicated to preserving the environment. Sticking it to the man, one denial-of-service at a time. Your sire was attracted to your dedication and respect for nature. Over the years, you've learned much and your abilities are prioritized differently with Knowledges being of the utmost importance.
-			Swap the priority order of your Abilities to Knowledges, Skills, Talents."	// changed by wesp
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Еко-терорист-хакер"
+			"Description"			"1. Ви були експертом у взломi комп'ютерiв, присвяченим збереженню навколишнього середовища. Ви вдаряли по системi, один за одним вiдмовляючи в обслуговуваннi. Ваш вихователь був приваблений вашою пристрастю та повагою до природи. Протягом рокiв ви навчилися багато, i вашi здiбностi прiоритизованi по-iншому, де Знання стають найважливiшими.
+2. Помiняйте порядок прiоритету ваших Здiбностей на Знання, Навички, Таланти."	// changed by wesp
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -556,10 +557,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Twenty-Something"	// changed by wesp
-			"Description"			"It's about people, you know. Out here, on the streets, in the clubs.... That's where it's going on. That's where it's coming together. Not in some boardroom. And the people don't wear ties. The next generation of leaders isn't coming from the suburbs. What? You want to go there? Why? It's going off here... open bar? Well, okay....
-			Swap the priority order of your Abilities to Knowledges, Talents, Skills."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Двадцятирiчний"	// changed by wesp
+			"Description"			"Це про людей, ти знаєш. Тут, на вулицях, у клубах.... Ось де це вiдбувається. Ось де це об'єднується. Не в якiйсь конференц-залi. І люди не носять краваток. Наступне поколiння лiдерiв не виростає в передмiстях. Що? Ти хочеш пiти туди? Чому? Тут все вiдбувається... вiдкритий бар? Ну, добре.... 
+			Змiнiть порядок прiоритету ваших Здiбностей на Знання, Таланти, Навички."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -575,10 +576,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Rehab Counselor"
-			"Description"			"You always had an open ear for other people's problems, even if you had to listen to some scumbags sitting in prison.
-			Swap the priority order of your Abilities to Skills, Knowledges, Talents."	// added by wesp
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Консультант з реабiлiтацiї"
+			"Description"			"Ти завжди був вiдкритим для проблем iнших людей, навiть якщо доводилося слухати деяких негiдникiв, що сидять у в'язницi.
+			Змiнiть прiоритетний порядок ваших Здiбностей на Навички, Знання, Таланти."	// added by wesp
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -593,10 +594,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Pedagogue"
-			"Description"			"I always said he'd come to no good in the end, your honor. If they'd let me have my way, I could've flayed him into shape.
-			Swap the priority order of your Abilities to Knowledges, Talents, Skills."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Вихователь"
+			"Description"			"Я завжди казав, що вiн не дiйде до добра в кiнцi, ваша честь. Якби вони дозволили менi поступитися своїм шляхом, я б мiг виховати його вiдповiдно. 
+			Змiнiть прiоритетний порядок ваших Здiбностей на Знання, Таланти, Навички."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -611,10 +612,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Agent"
-			"Description"			"Your representation was highly sought. And you were well compensated. You played every bit as hard as the boys cuz it takes brass balls to get it done in this town, and goddamn if you didn't have the biggest pair. You were a power player. A threat. And your competition couldn't handle getting shown up by a girl, so they sold you out to an undead predator. Pfft. Typical. This town is full of hate.
-			Swap the priority order of your Abilities to Talents, Knowledges, Skills."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Агент"
+			"Description"			"Ваше представництво було дуже важливим. І вас добре вiдшкодували. Ви грали на рiвнi з хлопцями, бо для цього мiста потрiбнi мiднi яйця, щоб все зробити, i, чорт взяв, у вас були найбiльшi. Ви були гравцем впливу. Загрозою. І вашi конкуренти не могли витримати того, що їх показали дурними дiвчатами, тому вони продали вас неживому хижаковi. Фух. Типово. Це мiсто повне ненавистi.
+			Змiнiть прiоритетний порядок ваших Здiбностей на Таланти, Знання, Навички."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -630,10 +631,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Fixer"
-			"Description"			"You had the streets wired. There was nothing you couldn't find. Drugs, guns, prostitutes of every shape, age, and color. One time you got Giraffe Ribeyes on 24 hours' notice. And apparently you've had more than a couple of vampire clients. Who knew? You left an impression and now here you are.
-			Swap the priority order of your Abilities to Talents, Knowledges, Skills."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Фiксер"
+			"Description"			"Ти мав вулицi пiд контролем. Нiчого не було неможливо знайти. Наркотики, зброя, проститутки кожної форми, вiку та кольору. Одного разу ти замовив стейки з жирафа за 24 години. І, схоже, у тебе було бiльше нiж кiлька вампiрських клiєнтiв. Хто б мiг знати? Ти залишив враження, i ось ти тут.
+			Змiнiть прiоритетний порядок ваших Здiбностей на Таланти, Знання, Навички."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -649,10 +650,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Purveyor of Vice"
-			"Description"			"Smoking, drinking, drugs, you did it all while you were still alive. Now in death only blood is left to turn you on.
-			Swap the priority order of your Abilities to Skills, Knowledges, Talents."	// added by wesp
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Постачальник Грiхiв"
+			"Description"			"Курiння, вживання алкоголю, наркотикiв - все це ти робив, коли був живим. Тепер у смертi лишилася тiльки кров, щоб тебе збудити.
+			Змiнiть прiоритетний порядок ваших Здiбностей на Навички, Знання, Таланти."	// added by wesp
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -668,10 +669,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Baglady"
-			"Description"			"Your life was a big mess which left you stranded on the streets with nothing but cheap booze. And now you look even worse!
-			Swap the priority order of your Abilities to Talents, Knowledges, Skills."	// added by wesp
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Вiдома як "Baglady""
+			"Description"			"Твоє життя було великим хаосом, що залишив тебе на вулицi лише з дешевим алкоголем. І тепер ти виглядаєш ще гiрше!
+			Змiни прiоритетний порядок твоїх Здiбностей на Таланти, Знання, Навички."	// added by wesp
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -687,10 +688,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Velvet Rope Doorman"
-			"Description"			"You hand-craft the scene with nothing more than a clipboard, a cheap headset, and a dispassionate contempt for humanity.
-			Swap the priority order of your Abilities to Talents, Skills, Knowledges."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Дверний вахтер з бар'єром з бархату"
+			"Description"			"Ви створюєте сцену лише з допомогою дошки, дешевих навушникiв та безiнтересної зневаги до людства.
+			Змiнiть прiоритетний порядок ваших Здiбностей на Таланти, Навички, Знання."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -706,10 +707,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Dive Bar Bouncer"
-			"Description"			"Nobody could pass you when you stood in a doorway and you had a lot of fun throwing people out. Now it will be even easier to hurt people.
-			Swap the priority order of your Abilities to Talents, Knowledges, Skills."	// added by wesp
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Охоронець пiдпiльного бару"
+			"Description"			"Нiхто не мiг пройти повз вас, коли ви стояли в дверях i з задоволенням викидали людей. Тепер буде ще легше шкодити людям.
+			Помiняйте прiоритет порядку ваших Здiбностей на Таланти, Знання, Навички."	// added by wesp
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -725,10 +726,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"				"Bar Singer Seductress"	// changed by wesp
-			"Description"			"Drunken overtures from traveling businessmen, room keys from toupeed conventioneers, a handful of restraining orders. This is the legacy of your career in entertainment.
-			Swap the priority order of your Abilities to Talents, Skills, Knowledges."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"				"Барна спiвачка спокусниця"	// changed by wesp
+			"Description"			"П'янi наближення вiд подорожуючих бiзнесменiв, ключi вiд номерiв вiд конференцiйних учасникiв з париками, кiлька розпоряджень про обмеження. Це спадок вашої кар'єри в розважальнiй галузi.
+			Змiнiть прiоритетний порядок ваших Здiбностей на Таланти, Навички, Знання."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 		General
@@ -745,11 +746,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Blunt Fangs"
-			"Description"	"Things were never easy for you. You fought for every scrap that was eventually stolen from you. You treasure everything you have, and savor every hard lesson learned, even while you suspect God hates you. This luck carried over to undeath. You have blunt fangs.
-			Every feeding yields two less blood points for you. But as an appreciative loser, you gain more experience from life's lessons. You get an experience bonus to every experience award of three or more."	// changed by wesp
-			"ShortDescription"		"Advantage: More experience gain."
-			"ShortPenaltyDescription"	"Penalty: Less blood from feeding."
+			"Name"		"Тупi Клiни"
+			"Description"	"Речi нiколи не були легкими для тебе. Ти боровся за кожен крихiтний шматок, який урештi вкрали у тебе. Ти цiнуєш все, що маєш, i насолоджуєшся кожним важким вченням, навiть коли пiдозрюєш, що Бог ненавидить тебе. Ця доля перейшла й у твоє неживе життя. У тебе тупi клiни.
+			Кожне жертвування приносить на два краплi кровi менше. Проте як вдячний програшник, ти отримуєш бiльше досвiду з життєвих урокiв. Ти отримуєш бонус досвiду до кожної нагороди досвiду у трьох або бiльше."	// changed by wesp
+			"ShortDescription"		"Перевага: Бiльше набуття досвiду."
+			"ShortPenaltyDescription"	"Штраф: Менше кровi пiд час живлення."
 		}
 		General
 		{
@@ -764,11 +765,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Ex-Cop"
-			"Description"			"You were a great cop - until a meth-head's knife glanced your spine and left you relegated to deskwork for the rest of your career.
-			You start with one point in Firearms, and one point in Intimidation, but you may never raise your Stamina above three."	// changed by wesp
-			"ShortDescription"		"Advantage: +1 to Firearms, +1 to Intimidation."
-			"ShortPenaltyDescription"	"Penalty: Stamina maximum of 3."
+			"Name"		"Екс-полiцейський"
+			"Description"			"Ти був вiдмiнним полiцейським - доки ножем наркомана не торкнувся твоєї хребта i не змусив тебе перейти на службу за столом на все подальше службове життя.
+1. Ти починаєш з одним балом у Вогнепальному Ремеслi та одним балом у Запугуваннi, але ти нiколи не можеш пiдвищити свою Витривалiсть вище трьох."	// changed by wesp
+			"ShortDescription"		"Перевага: +1 до Вогнепальної зброї, +1 до Запугування."
+			"ShortPenaltyDescription"	"Штраф: максимальний запас витривалостi 3."
 		}
 		General
 		{
@@ -782,11 +783,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Perv"
-			"Description"			"You love women. Good God Almighty, do you love women. You love their bits 'n you love their pieces. Mmmmmm yeah. They never really reciprocated your interest, but, well, fuck 'em. In undeath your suppressed appetites have reemerged.
-			You gain extra blood when feeding on a human of the opposite sex. Unfortunately, undeath has done little for your personality. Your Subterfuge cannot be raised above one."	// changed by wesp
-			"ShortDescription"		"Advantage: Extra blood from women."
-			"ShortPenaltyDescription"	"Penalty: Subterfuge maximum of 1."
+			"Name"		"Первий."
+			"Description"			"Ти любиш жiнок. Боже мiй, ти любиш жiнок. Ти любиш їхнi частинки та шматочки. Мммммм так. Вони нiколи справдi не вiддавали тобi взаємнi почуття, але, ну, нехай вони. У невмираннi твої пригнiченi апетити виринають знову.
+			Ти отримуєш додаткову кров, коли жереш людину протилежної статi. Незважаючи на це, невмирання мало що зробило для твоєї особистостi. Твiй Пiдступ не може бути пiднятий вище одиницi."	// changed by wesp
+			"ShortDescription"		"Перевага: Додаткова кров вiд жiнок."
+			"ShortPenaltyDescription"	"Штраф: Максимум 1 у Субтерфузi."
 		}
 		General
 		{
@@ -801,11 +802,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Slut"
-			"Description"			"So you're a little boy-crazy. And maybe you like to get guys' attention. And maybe you like to fool around. That don't mean people have the right to go talking about you and calling you names - they don't know you!
-			In undeath your now-stunted sexual appetite has reemerged in a curious way; you more readily digest the fluids of the opposite sex, and therefore gain extra blood when feeding on men. Unfortunately, having slept your way through life, you have a hard time learning its little lessons. You must spend more experience to raise your Mental Attributes."
-			"ShortDescription"		"Advantage: Extra blood from men."
-			"ShortPenaltyDescription"	"Penalty: Raising Mental costs more."
+			"Name"		"Розпустiлець"
+			"Description"			"Так, ти трохи залежна вiд хлопцiв. І можливо, ти любиш привертати їх увагу. І можливо, тобi подобається пожартувати. Але це не означає, що люди мають право говорити про тебе та обзивати тебе - вони не знають тебе!
+У некрозi твоє теперiшнє зменшене сексуальне бажання виявляється дивним чином; ти легше перетравлюєш рiдини протилежної статi, тому отримуєш додаткову кров, коли жереш чоловiкiв. Незважаючи на те, що ти проспала свiй шлях через життя, тобi важко вчитися його малих урокiв. Тобi доведеться витратити бiльше досвiду, щоб пiдвищити свої Ментальнi Атрибути."
+			"ShortDescription"		"Перевага: Додаткова кров вiд чоловiкiв."
+			"ShortPenaltyDescription"	"Штраф: Пiдвищення Ментальних витрат бiльше."
 		}
 		General
 		{
@@ -820,11 +821,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Dropped as a Baby"	// changed by wesp
-			"Description"			"If you're gonna be dumb, you gotta be tough. As a kid you took a lot of abuse for that funny slope in your skull... until you started fighting back.
-			You have an amazing resilience to punishment, and start with two extra points of Stamina. You are, however, a bit slow. It costs more experience for you to raise any of your Mental Attributes."
-			"ShortDescription"		"Advantage: +2 to Stamina."
-			"ShortPenaltyDescription"	"Penalty: Raising Mental costs more."
+			"Name"		"Вiдкинутий як немовля"	// changed by wesp
+			"Description"			"Якщо ти будеш дурнувати, ти повинен бути мiцним. Як дитина, ти зазнавав багато образ iз-за цiєї смiшної вигину у твоєй черепнiй коробцi... поки ти не почав протистояти.
+1. Ти маєш неймовiрну стiйкiсть до покарань i починаєш з двома додатковими балами Витривалостi. Однак ти трохи повiльний. Для тебе витрати бiльше досвiду, щоб пiдвищити будь-який з твоїх Ментальних Атрибутiв."
+			"ShortDescription"		"Перевага: +2 до Витривалостi."
+			"ShortPenaltyDescription"	"Штраф: Пiдвищення Ментальних витрат бiльше."
 		}
 		General
 		{
@@ -838,11 +839,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Glass Eye"
-			"Description"			"It's true what they said. You shot your eye out. It was hard growing up with a creepy glass eye, but as an adult you learned to put it to work for you. There's something about your unnerving stare that makes people do what you say.
-			You start with two points in Intimidation, but you can never raise your Perception above three."	// changed by wesp
-			"ShortDescription"		"Advantage: +2 to Intimidation."
-			"ShortPenaltyDescription"	"Penalty: Perception maximum of 3."
+			"Name"		"Скляне око"
+			"Description"			"Це правда, що вони сказали. Ти вистрiлив собi в око. Виростати з жахливим скляним оком було важко, але як доросла людина ти навчився використовувати його на користь собi. Щось у твоєму непокiрному поглядi змушує людей робити те, що ти кажеш.
+1. Ти починаєш з двома балами в Інтимiдацiї, але ти нiколи не можеш пiдняти свою Сприйнятливiсть вище трьох."	// changed by wesp
+			"ShortDescription"		"Перевага: +2 до Запугування."
+			"ShortPenaltyDescription"	"Штраф: Максимум сприйняття 3."
 		}
 		General
 		{
@@ -856,11 +857,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Long and Little Foot"	// changed by wesp
-			"Description"			"'Don't help me!' Your dual deformities make life difficult, but you're one of those hard-luck, triumph-in-the-face-of-adversity stories that people gobble up.
-			You can never raise your Dexterity above one, but you start with an extra point in Humanity, Charisma, and Wits."	// changed by wesp
-			"ShortDescription"		"Advantage: +1 to Humanity, Charisma and Wits."
-			"ShortPenaltyDescription"	"Penalty: Dexterity maximum of 1."
+			"Name"		"Довгоногий i Коротконогий"	// changed by wesp
+			"Description"			""Не допомагай менi!" Твої подвiйнi деформацiї ускладнюють життя, але ти один з тих, хто здобуває перемогу в обличчi протистояння. Люди просто пожирають такi iсторiї про нещастя.
+1. Ти нiколи не можеш пiдвищити свою Спритнiсть вище одиницi, але починаєш з додатковими пунктами у Гуманностi, Харизмi та Розумi."	// changed by wesp
+			"ShortDescription"		"Перевага: +1 до Гуманностi, Харизми та Гостроти розуму."
+			"ShortPenaltyDescription"	"Штраф: Максимум Ловкостi 1."
 		}
 		General
 		{
@@ -874,11 +875,12 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Lowborn"
-			"Description"			"Trash, rabble, scum - whatever you call it, you're the supernatural equivalent. You come from a long line of gutter-dwelling, bottom-feeding, undead riffraff. As such, you are predisposed to the dregs of humanity.
-			You get extra blood when feeding on bums and hookers. Your unwashed legacy doesn't leave you much in the way of education however - it costs you more experience points to raise your Knowledge Abilities."
-			"ShortDescription"		"Advantage: Extra blood from lowlife."
-			"ShortPenaltyDescription"	"Penalty: Raising Knowledge costs more."
+			"Name"		"Низькородний"
+			"Description"			"Смiття, плебс, пiдлота - як би ви їх не називали, ви є сверхприродним еквiвалентом. Ви походите з довгого ряду бездомних, дноїдiв, неживих пiдлостей. Таким чином, ви схильнi до найгiршої частини людства.
+1. Ви отримуєте додаткову кров, коли жерете бомжiв i шлюх.
+2. Ваша неумита спадщина не залишає вам багато в областi освiти, однак вам доводиться витрачати бiльше очок досвiду, щоб пiдвищити вашi Знання."
+			"ShortDescription"		"Перевага: Додаткова кров вiд жебракiв."
+			"ShortPenaltyDescription"	"Штраф: Збiльшення Знання коштує бiльше."
 		}
 		General
 		{
@@ -892,11 +894,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Runaway"
-			"Description"			"Your old man was a bastard. You can say that now. It took years just to be able to mention him. You're making progress, but you still avoid confrontation, and you don't know if you'll ever be comfortable with being touched.
-			You start with one point in Stealth, but it costs more experience to raise your Brawl Ability."
-			"ShortDescription"		"Advantage: +1 to Stealth."
-			"ShortPenaltyDescription"	"Penalty: Raising Brawl costs more."
+			"Name"		"Втiкач"
+			"Description"			"Твiй старий був пiдлець. Ти можеш сказати це зараз. Пройшло рокiв, щоб ти мiг згадати його. Ти робиш прогрес, але все ще уникнути конфронтацiї, i ти не знаєш, чи коли-небудь будеш комфортно реагувати на дотик.
+1. Ти починаєш з одним балом у Стелсi, але пiдвищення твоєї Бiйцiвської Здiбностi коштує бiльше досвiду."
+			"ShortDescription"		"Перевага: +1 до Приховування."
+			"ShortPenaltyDescription"	"Штраф: Пiдвищення Бiйки коштує бiльше."
 		}
 		General
 		{
@@ -910,11 +912,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Hard-Ass Chica"
-			"Description"			"You were born into a neighborhood just outside of downtown LA. It might as well have been the Third World. And you were just one girl kicking and biting her way to survival. In the middle of famine and marauding victimizers, gang life was life.
-			You start with one point in Firearms. Your life in the streets hasn't left you with the greatest patience for instruction. You must spend more experience in order to raise your Knowledge Abilities."	// changed by wesp
-			"ShortDescription"		"Advantage: +1 to Firearms."
-			"ShortPenaltyDescription"	"Penalty: Raising Knowledge costs more."
+			"Name"		"Твердолоба Чiка"
+			"Description"			"Ти народилася в кварталi, що знаходиться за межами центру Лос-Анджелеса. Це майже було б Третiм Свiтом. І ти була лише одна дiвчина, яка виживала, копаючись i кусаючись. Посеред голоду та мародерiв, бандитське життя було життям.
+1. Ти починаєш з одним балом у Вогнепальному Ремеслi. Твоє життя на вулицях не залишило тобi найбiльшого терпiння для iнструкцiй. Тобi потрiбно витратити бiльше досвiду, щоб пiдвищити свої Знання."	// changed by wesp
+			"ShortDescription"		"Перевага: +1 до Вогнепальної зброї."
+			"ShortPenaltyDescription"	"Штраф: Збiльшення Знання коштує бiльше."
 		}
 		General
 		{
@@ -929,11 +931,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Highway Drifter"
-			"Description"			"Between the small towns that dot the Midwest, there's a lot of open space, a lot of long shadows, and a lot of room to disappear. You know, you've done it. And you may have helped some other people do it too.
-			You start the game with one point in Melee, but it will cost you more experience to buy Humanity points and you are more likely to frenzy."	// changed by wesp
-			"ShortDescription"		"Advantage: +1 to Melee."
-			"ShortPenaltyDescription"	"Penalty: Raising Humanity costs more, more likely to frenzy."
+			"Name"		"Дорожнiй стрибунець"
+			"Description"			"Мiж малими мiстечками, що розкидалися по середньому заходi, є багато вiдкритого простору, багато довгих тiней i багато мiсця для зникнення. Ти знаєш це, ти це робив. І можливо, ти допомiг це зробити iншим людям.
+1. Ти починаєш гру з одним балом у Ближньому бою, але тобi знадобиться бiльше досвiду, щоб купувати бали Гуманностi, i ти схильнiший до бiснування."	// changed by wesp
+			"ShortDescription"		"Перевага: +1 до Ближнього Бою."
+			"ShortPenaltyDescription"	"Штраф: Пiдвищення Гуманностi коштує бiльше, iмовiрнiсть вибухує зростає."
 		}
 		General
 		{
@@ -948,11 +950,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Burnout"
-			"Description"			"Science has yet to prove the link between marijuana use and decreased mental capacity. You say you've always been a little slow, but that's just because you're so mellow.
-			You can never raise Wits above three, but are less prone to frenzy."	// changed by wesp
-			"ShortDescription"		"Advantage: Less likely to frenzy."
-			"ShortPenaltyDescription"	"Penalty: Wits maximum of 3."
+			"Name"		"Вигорання"
+			"Description"			"Наука ще не довела зв'язок мiж вживанням марихуани та зниженням розумових здiбностей. Ти кажеш, що завжди був трохи повiльним, але це лише через твою спокiйнiсть.
+			Ти нiколи не можеш пiдняти Розум вище трьох, але менше схильний до божевiлля."	// changed by wesp
+			"ShortDescription"		"Перевага: Менше ймовiрнiсть вибуху."
+			"ShortPenaltyDescription"	"Штраф: Мудрiсть максимум 3."
 		}
 		General
 		{
@@ -966,11 +968,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Cadaverous Flesh"
-			"Description"			"Each manifestation of vampirism is unique. Yours, it turns out, carries an unfortunate deficiency. Your body wants to rot. It's nothing that can't be overcome, but it is a constant drain on you.
-			Your body heals at a slower rate than normal, since it takes more energy to return your rotting flesh to peak condition. On the upside, your flesh is malleable. It costs you less experience to raise your Physical Attributes. Oh, and you can never raise Charisma above three because of the... peculiar odor."	// changed by wesp
-			"ShortDescription"		"Advantage: Raising Physical costs less."
-			"ShortPenaltyDescription"	"Penalty: Slow healing, Charisma maximum of 3."
+			"Name"		"Трупна плоть"
+			"Description"			"Кожне проявлення вампiризму унiкальне. Ваше, виявляється, має недолiк. Ваше тiло хоче гнити. Це не є неподоланним, але це постiйне виснаження для вас.
+Ваше тiло вiдновлюється повiльнiше, нiж зазвичай, оскiльки потрiбно бiльше енергiї, щоб повернути ваше гниле м'ясо до пiку. З iншого боку, ваше м'ясо м'яке. Вам потрiбно менше досвiду, щоб пiдвищити вашi Фiзичнi Атрибути. О, i ви нiколи не зможете пiдвищити Харизму вище трьох через... особливий запах."	// changed by wesp
+			"ShortDescription"		"Перевага: Пiдвищення Фiзичних характеристик коштує менше."
+			"ShortPenaltyDescription"	"Штраф: Повiльне зцiлення, максимум Харизми 3."
 		}
 		General
 		{
@@ -984,11 +986,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Eerie Presence"
-			"Description"			"Most vampires have no problem fitting in to mortal society. You don't know what it is, but you just can't pull it off. You're doing everything they're doing, but something about you seems to make humans uneasy. Sometimes, it seems like they can just sense you. You were a perfectly affable, intellectual human. So what gives?
-			It costs less experience to raise your Mental Attributes, but it costs you more experience to raise your Social Attributes and your Stealth Ability."
-			"ShortDescription"		"Advantage: Raising Mental costs less."
-			"ShortPenaltyDescription"	"Penalty: Raising Social and Stealth costs more."
+			"Name"		"Загадкова Присутнiсть"
+			"Description"			"Бiльшiсть вампiрiв не мають проблем з адаптацiєю до суспiльства смертних. Ви не знаєте, в чому справа, але вам просто не вдається це зробити. Ви робите все, що роблять вони, але щось у вас здається людей нервовими. Інодi здається, що вони просто вiдчувають вас. Ви були абсолютно привiтною, iнтелектуальною людиною. То що ж?
+			Пiдвищення ваших Ментальних Атрибутiв обходиться менше досвiду, але пiдвищення ваших Соцiальних Атрибутiв та вашої Вмiлостi Приховування обходиться вам бiльше досвiду."
+			"ShortDescription"		"Перевага: Пiдвищення Ментальних витрат менше коштує."
+			"ShortPenaltyDescription"	"Штраф: Пiдвищення вартостi соцiальних i хитрiвих дiй."
 		}
 		General
 		{
@@ -1002,11 +1004,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Deceptive Strength"
-			"Description"			"You used to be quite clumsy, but the Embrace gave you unnatural reserves of physical power.
-			You can never raise Dexterity and Perception above three, but when you use Bloodbuff it lasts longer."	// changed by wesp
-			"ShortDescription"		"Advantage: Bloodbuff duration 150%."
-			"ShortPenaltyDescription"	"Penalty: Dexterity and Perception maximum of 3."
+			"Name"		"Обманлива сила"
+			"Description"			"Ти колись був досить невпевненим, але Обiйняття дало тобi надприроднi резерви фiзичної сили.
+			Ти нiколи не можеш пiдвищити Ловкiсть та Спостережливiсть вище трьох, але коли ти використовуєш Кровобуф, воно триває довше."	// changed by wesp
+			"ShortDescription"		"Перевага: тривалiсть кровобуфу 150%."
+			"ShortPenaltyDescription"	"Штраф: максимум 3 за Ловкiсть та Сприйняття."
 		}
 		General
 		{
@@ -1020,11 +1022,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Rapacious Bloodlust"
-			"Description"			"The Embrace brought out a mean streak in you. You're constantly fighting the urge to kill, even as your power to do so grows.
-			You start with an extra point in Strength and Brawl, but you are more likely to frenzy. Your impatient demeanor makes stealth more difficult; it takes more experience to raise your Stealth Ability."
-			"ShortDescription"		"Advantage: +1 to Strength and Brawl."
-			"ShortPenaltyDescription"	"Penalty: More likely to frenzy, raising Stealth costs more."
+			"Name"		"Жадiбна кровожерливiсть"
+			"Description"			"Об'єм вам злу вам. Ви постiйно боретеся з бажанням вбивати, навiть коли ваша сила для цього зростає.
+			Ви починаєте з додатковим пунктом у Сили та Бiйцiвському мистецтвi, але ви бiльш схильнi до бiсну. Ваш нетерплячий характер ускладнює хованство; для пiдвищення вашої Здатностi до Хованства потрiбно бiльше досвiду."
+			"ShortDescription"		"Перевага: +1 до Сили та Бiйцiвського мистецтва."
+			"ShortPenaltyDescription"	"Штраф: Ймовiрнiсть впадання у бiсну збiльшується, пiдвищення вартостi Приховування."
 		}
 		General
 		{
@@ -1039,11 +1041,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Quickling"
-			"Description"			"The Embrace made you feel lighter than air, a sensation that has yet to leave you.
-			Celerity has a longer duration, but it costs you more experience to raise Potence."
-			"ShortDescription"		"Advantage: Celerity duration 125%."
-			"ShortPenaltyDescription"	"Penalty: Raising Potence costs more."
+			"Name"		"Швидкiсний"
+			"Description"			"Обiйма зробила вас легшими, нiж повiтря, вiдчуття, яке досi не покинуло вас.
+			Селерiтi має довший термiн дiї, але вам доводиться витрачати бiльше досвiду, щоб пiдвищити Потенцiю."
+			"ShortDescription"		"Перевага: Швидкiсть тривалiсть 125%."
+			"ShortPenaltyDescription"	"Штраф: Пiдвищення Потенсу коштує бiльше."
 		}
 		General
 		{
@@ -1057,11 +1059,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Anti-Paladin"
-			"Description"			"A bully in life, a tyrant in death. You were born into undeath with savage combat prowess and an inclination to use it. And when you do, it's a terrible sight to behold.
-			It costs you fewer experience points to raise Presence, and you start with a point in Melee. It costs you more to raise Celerity and Humanity, however."	// changed by wesp
-			"ShortDescription"		"Advantage: Raising Presence costs less, +1 to Melee."
-			"ShortPenaltyDescription"	"Penalty: Raising Celerity and Humanity costs more."
+			"Name"		"Антипаладин"
+			"Description"			"Жорстокий у життi, тиран у смертi. Ти народився у нежиттi з вiдчутним бойовим майстернiстю та схильнiстю використовувати її. І коли ти це робиш, це жахливе видовище.
+			Тобi потрiбно менше досвiдчення, щоб пiдвищити Присутнiсть, i ти починаєш з одним балом у Блискавцi. Однак тобi дорожче пiдвищувати Швидкiсть та Гуманнiсть."	// changed by wesp
+			"ShortDescription"		"Перевага: Пiдвищення Присутностi коштує менше, +1 до Ближнього Бою."
+			"ShortPenaltyDescription"	"Штраф: Пiдвищення Швидкостi та Гуманностi коштує бiльше."
 		}
 		General
 		{
@@ -1075,11 +1077,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Chupacabra"
-			"Description"			"Rumor has it you are descended from the legendary Chupacabra - the blood-frenzied devil that has haunted the Mexican countryside for generations. The veracity of this dubious distinction is impossible to discern, but your feral instincts are strong.
-			You are able to prolong the duration of Protean. Unfortunately your purported progenitor may have left you with a deficiency as well - you may never raise your Fortitude Discipline above three."	// changed by wesp
-			"ShortDescription"		"Protean duration 120%."	// changed by wesp
-			"ShortPenaltyDescription"	"Penalty: Fortitude maximum of 3."
+			"Name"		"Чупакабра"
+			"Description"			"Чутки говорять, що ви походите вiд легендарного Чупакабри - кровожерливого диявола, який лихоманить кров'ю та тероризує мексиканську сiльську мiсцевiсть вже поколiннями. Правдивiсть цього сумнiвного визначення неможливо визначити, але вашi дикий iнстинкти дуже сильнi.
+1. Ви здатнi продовжувати тривалiсть Протеану. Незважаючи на це, ваш вважаємий предок, можливо, залишив вас також з недолiком - ви нiколи не зможете пiдняти свою Дисциплiну Твердостi вище трьох."	// changed by wesp
+			"ShortDescription"		"Тривалiсть Протеану 120%."	// changed by wesp
+			"ShortPenaltyDescription"	"Штраф: максимум 3 за Витривалiсть."
 		}
 		General
 		{
@@ -1094,11 +1096,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Beastmistress"
-			"Description"			"Mortal creatures sense vampires as an abomination, outsiders to the natural order. Your presence, however, seems to pacify the animal spirit like a sickly sweet intoxicant.
-			Your Animalism effects last longer and are more powerful, but you have difficulty maintaining any Protean effect for long."
-			"ShortDescription"		"Advantage: Animalism duration 125%, Animalism damage 135%."
-			"ShortPenaltyDescription"	"Penalty: Protean duration 75%."
+			"Name"		"Майстриня звiрiв"
+			"Description"			"Смертнi створiння вiдчувають вампiрiв як поганящих, чужакiв до природного порядку. Ваша присутнiсть, однак, здається заспокоює дух тварини, як хворобливо солодкий наркотик.
+			Вашi ефекти Анiмалiзму тривають довше i є потужнiшими, але вам важко пiдтримувати будь-який ефект Протеану протягом тривалого часу."
+			"ShortDescription"		"Перевага: Твариннiсть тривалiсть 125%, Твариннiсть пошкодження 135%."
+			"ShortPenaltyDescription"	"Штраф: тривалiсть Протеану 75%."
 		}
 		General
 		{
@@ -1113,11 +1115,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Insectoid"
-			"Description"			"Maybe it's the vague compulsion to spin a web, or when you catch yourself trying to use your imaginary feelers, but something tells you your Gangrel blood is exceptional.
-			You are able to prolong the duration of Fortitude. Unfortunately your nature is even further from human than the average Gangrel. You can't raise Wits, Charisma, and Appearance above three."	// changed by wesp
-			"ShortDescription"		"Advantage: Fortitude duration 120%."	// changed by wesp
-			"ShortPenaltyDescription"	"Penalty: Wits, Charisma and Appearance maximum of 3."
+			"Name"		"Комахоподiбний"
+			"Description"			"Можливо, це невизначений пiдштовхувач створення павутини, або коли ви помiчаєте, що намагаєтеся використовувати свої уявнi вiбриси, але щось говорить вам, що ваша кров Гангрелiв виняткова.
+			Ви здатнi продовжити тривалiсть Фортитюду. На жаль, ваша природа ще далi вiд людської, нiж у середнього Гангреля. Ви не можете пiдвищувати Розум, Харизму та Зовнiшнiсть вище трьох."	// changed by wesp
+			"ShortDescription"		"Перевага: Витривалiсть тривалiсть 120%."	// changed by wesp
+			"ShortPenaltyDescription"	"Штраф: максимум 3 за Інтелект, Харизму та Зовнiшнiсть."
 		}
 		General
 		{
@@ -1131,11 +1133,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Anda Gangrel"
-			"Description"			"Descendant of nomadic vampire warriors, you were bred for extreme trials of endurance.
-			You start with extra points in Stamina and Fortitude. Anda blood is not of this land, however, and your spirit is not linked with the native fauna, so Animalism costs you more experience to raise."	// changed by wesp
-			"ShortDescription"		"Advantage: +1 to Stamina and Fortitude."
-			"ShortPenaltyDescription"	"Penalty: Animalism costs more."
+			"Name"		"Анда Гангрел"
+			"Description"			"Потомок кочових вампiрських воїнiв, ви були вирощенi для екстремальних випробувань витривалостi.
+			Ви починаєте з додатковими балами в Витривалостi та Витривалостi. Проте ваша кров Анди не з цiєї землi, i ваш дух не пов'язаний з мiсцевою фауною, тому Анiмалiзм вам обiйдеться дорожче в досвiдi, щоб пiдняти."	// changed by wesp
+			"ShortDescription"		"Перевага: +1 до Витривалостi та Витривалостi."
+			"ShortPenaltyDescription"	"Штраф: Анiмалiзм коштує бiльше."
 		}
 		General
 		{
@@ -1149,11 +1151,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Ninja"
-			"Description"			"You think you're a ninja. Kee-ai!
-			You start with a point in Brawl and a point in Melee, but Firearms can never be raised above zero, as guns are anathema to your Code of the Silent Killer. Ducks too. Ducks are anathema too."
-			"ShortDescription"		"Advantage: +1 to Brawl and Melee."
-			"ShortPenaltyDescription"	"Penalty: Firearms maximum of 0."
+			"Name"		"Нiндзя"
+			"Description"			"Ти думаєш, що ти нiндзя. Кi-ай!
+			Ти починаєш з одного балу в Бiйцiвському мистецтвi та одного балу в Ближньому бою, але Вогнепальна зброя нiколи не може бути пiднята вище нуля, оскiльки гвинтiвки є анатемою для твого Коду Тихого Вбивцi. А також качки. Качки також є анатемою."
+			"ShortDescription"		"Перевага: +1 до Бiйки та Меча."
+			"ShortPenaltyDescription"	"Штраф: максимум 0 вогнепальних."
 		}
 		General
 		{
@@ -1167,11 +1169,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Doomseer"
-			"Description"			"The paralyzing fear of eternal death has an iron grip on you. Doom is just around the corner, for you, for everyone, you just know it. And you lack faith in your vampiric abilities. What's the use anyway?
-			You don't trust Obfuscate to work and therefore cannot maintain the effect for very long - each level of Obfuscate has a shorter duration than normal. You are constantly on the lookout for danger however, and can maintain Auspex longer."	// changed by wesp
-			"ShortDescription"		"Advantage: Auspex duration 120%."	// changed by wesp
-			"ShortPenaltyDescription"	"Penalty: Obfuscate duration 80%."	// changed by wesp
+			"Name"		"Провидець Року"
+			"Description"			"Паралiзуючий страх перед вiчною смертю має залiзний хват на тобi. Розпач вже за кутом, для тебе, для всiх, ти просто знаєш це. І тобi не вистачає вiри в свої вампiрськi здiбностi. На що це взагалi?
+			Ти не довiряєш Обфускацiї, тому не можеш тримати ефект довго - кожний рiвень Обфускацiї має коротший термiн дiї, нiж зазвичай. Ти постiйно на сторожi вiд небезпеки, але можеш тримати Аспекс довше."	// changed by wesp
+			"ShortDescription"		"Перевага: Тривалiсть Ауспексу 120%."	// changed by wesp
+			"ShortPenaltyDescription"	"Штраф: Тривалiсть Обфускацiї скорочена на 80%."	// changed by wesp
 		}
 		General
 		{
@@ -1185,11 +1187,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Completely Batshit"
-			"Description"			"The curse of Clan Malkavian burns white-hot in your veins. You are a brimming cauldron of lunacy.
-			The effects of your Dementation are greater and last longer. It's difficult to wrap your wriggling brain around the concept of invisibility however, and you must spend more experience to raise your skill in Obfuscate."
-			"ShortDescription"		"Advantage: Dementation duration 200%, Dementation damage 140%."
-			"ShortPenaltyDescription"	"Penalty: Raising Obfuscate costs more."
+			"Name"		"Повнiстю Божевiльний"
+			"Description"			"Прокляття Клану Малкавiанiв палає бiлим полум'ям у ваших жилах. Ви - повний котел безумства.
+			Ефекти вашого Безумства сильнiшi i тривають довше. Однак важко зрозумiти концепцiю невидимостi вашому вертлявому мозку, тому вам доведеться витратити бiльше досвiду, щоб пiдвищити свою вправнiсть в Обфускацiї."
+			"ShortDescription"		"Перевага: тривалiсть Дементацiї 200%, пошкодження Дементацiї 140%."
+			"ShortPenaltyDescription"	"Штраф: Пiдвищення Обфускацiї коштує бiльше."
 		}
 		General
 		{
@@ -1203,11 +1205,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Boogeyman"
-			"Description"			"Humanity is a fascinating spectacle indeed. Everyone has wanted to be a fly on the wall at one time or another, but you were obsessed with the idea. As luck would have it, your Nosferatu progenitors all had a penchant for peeping as well.
-			You come from a long line of gifted perverts, and your Obfuscate effects last longer. This preoccupation has weakened your bloodline in other respects, though; your Potence can never be raised above three."	// changed by wesp
-			"ShortDescription"		"Advantage: Obfuscate duration 130%."	// changed by wesp
-			"ShortPenaltyDescription"	"Penalty: Potence maximum of 3."
+			"Name"		"Страшило"
+			"Description"			"Людство - справдi захоплююче зрiзання. Кожен хотiв би бути мухою на стiнi хоча б раз, але ви були замiшанi на цiй iдеї. Щастя в тому, що вашi пращури Носферату також мали слабкiсть до пiдглядання.
+Ви походите з довгого роду обдарованих первертiв, i вашi ефекти Обфускацiї тривають довше. Проте ця зайнятiсть ослабила ваш кровний рiд у iнших вiдносинах; ваша Потенцiя нiколи не може бути пiднята вище трьох."	// changed by wesp
+			"ShortDescription"		"Перевага: тривалiсть Обфускацiї збiльшена на 130%."	// changed by wesp
+			"ShortPenaltyDescription"	"Штраф: максимум 3 за Потенцiю."
 		}
 		General
 		{
@@ -1222,11 +1224,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Cleopatra"
-			"Description"			"There are fates worse than death. You know this. In life, you were an object of desire. Men wanted you, women wanted to be like you. You have been transformed into a cruel mockery of your former self. As someone acutely aware of how easy life is for the beautiful people, you have unique insight into the psychology of human and vampire alike.
-			You start with one point in Stealth. Your intense desire to do nothing more than hide (forever) has given your Obfuscate powers a longer duration. You were never much of an animal-lover, however, and it will cost you more experience to raise your Animalism Discipline."	// changed by wesp
-			"ShortDescription"		"Advantage: +1 to Stealth, Obfuscate duration 120%."
-			"ShortPenaltyDescription"	"Penalty: Raising Animalism costs more."
+			"Name"		"Клеопатра"
+			"Description"			"Є долi гiршi за смерть. Ти це знаєш. У життi ти був об'єктом бажання. Чоловiки хотiли тебе, жiнки хотiли бути як ти. Тебе перетворено на жорстоку насмiшку колишнього себе. Як людина, яка добре розумiє, наскiльки легке життя для красивих людей, у тебе є унiкальний погляд на психологiю як людини, так i вампiра.
+1. Ти починаєш з одним балом у Втiканнi. Твоє прагнення приховуватися (назавжди) надало твоїм силам Обфускацiї довший термiн дiї. Однак ти нiколи не був великим любителем тварин, i тобi доведеться витратити бiльше досвiду, щоб пiдвищити свою Дисциплiну Тварин."	// changed by wesp
+			"ShortDescription"		"Перевага: +1 до Приховування, тривалiсть Обфускацiї 120%."
+			"ShortPenaltyDescription"	"Штраф: Пiдвищення Анiмалiзму коштує бiльше."
 		}
 
 		General
@@ -1242,11 +1244,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Leatherface"
-			"Description"			"Your rebirth as a hideous beast was a dream come true. The power is intoxicating. And now you're going to make them pay - all of them.
-			You start with one point in Melee, and an extra point in Potence. You never felt much empathy for other living things, however, so now it will cost you more experience to buy Humanity points, and you are more likely to frenzy."	// changed by wesp
-			"ShortDescription"		"Advantage: +1 to Melee and Potence."
-			"ShortPenaltyDescription"	"Penalty: Raising Humanity costs more, more likely to frenzy."
+			"Name"		"Шкiряний Обличчя"
+			"Description"			"Ваше вiдродження як вiдразного звiра було справжнiм сном, що збувся. Сила вас сп'янює. І тепер ви збираєтеся змусити їх заплатити - всiх.
+			Ви починаєте з одним балом у Ближньому бою та додатковим балом у Потенцiї. Однак ви нiколи не вiдчували багато спiвчуття до iнших живих iстот, тому тепер вам доведеться витрачати бiльше досвiду на покупку балiв Гуманностi, i ви частiше будете сходити з розуму."	// changed by wesp
+			"ShortDescription"		"Перевага: +1 до Ближнього бою та Потенцiї."
+			"ShortPenaltyDescription"	"Штраф: Пiдвищення Гуманностi коштує бiльше, iмовiрнiсть вибухує зростає."
 		}
 		General
 		{
@@ -1261,11 +1263,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Shepherd of Vermin"
-			"Description"			"Like a creature of urban legend you commune with pestilent scavengers and share their filthy domains.
-			Your Animalism effects are more powerful and long-lasting. Your diseased blood has trouble sustaining Potence; all Potence durations are decreased."
-			"ShortDescription"		"Advantage: Animalism duration 150%, Animalism damage 135%."
-			"ShortPenaltyDescription"	"Penalty: Potence duration 75%."
+			"Name"		"Пастир гризунiв"
+			"Description"			"Як створiння мiської легенди ви спiлкуєтеся з заразними падальниками та дiлитеся їхнiми брудними притулками.
+			Вашi ефекти Animalism бiльш потужнi та тривалi. Ваша заражена кров має проблеми з пiдтриманням Potence; всi тривалостi Potence скороченi."
+			"ShortDescription"		"Перевага: Твариннiсть тривалiсть 150%, Твариннiсть пошкодження 135%."
+			"ShortPenaltyDescription"	"Штраф: тривалiсть Потенцiї 75%."
 		}
 		General
 		{
@@ -1279,11 +1281,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Decadent Enchantress"
-			"Description"			"Beautiful, bored, and sociopathic. You amuse yourself by testing the limits of your suitors' devotions, and you delight at the ruin they willfully suffer for your affections.
-			You start with one extra point in Appearance and one in Subterfuge, but your Celerity has a shorter duration."
-			"ShortDescription"		"Advantage: +1 to Appearance and Subterfuge."
-			"ShortPenaltyDescription"	"Penalty: Celerity duration 80%."
+			"Name"		"Декадентська чарiвниця"
+			"Description"			"Прекрасна, нудьгуєш та соцiопатична. Ти розважаєш себе, випробовуючи межi вiдданостi своїх шанувальникiв, i радiєш руйнуванню, яке вони добровiльно зазнають заради твоєї любовi.
+			Ти починаєш з одним додатковим балом у Виглядi та одним у Пiдступностi, але твоя Швидкiсть має коротший термiн дiї."
+			"ShortDescription"		"Перевага: +1 до Зовнiшностi та Пiдступностi."
+			"ShortPenaltyDescription"	"Штраф: тривалiсть Швидкостi 80%."
 		}
 		General
 		{
@@ -1298,11 +1300,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Beautiful Monster"
-			"Description"			"You are ruled by your passions. And some of them ain't pretty. People find you absolutely mesmerizing. But you were always too self-absorbed to bother with normal human repartee.
-			Your Presence effects last longer than other Toreador, but you can never raise Wits above three and are more likely to frenzy when things aren't going your way."	// changed by wesp
-			"ShortDescription"		"Advantage: Presence duration 120%."	// changed by wesp
-			"ShortPenaltyDescription"	"Penalty: Wits maximum of 3, more likely to frenzy."
+			"Name"		"Прекрасний Монстр"
+			"Description"			"Ви керуєтеся своїми страстями. І деякi з них не дуже привабливi. Люди вважають вас абсолютно захоплюючим. Але ви завжди були занадто самовпевненими, щоб турбуватися про звичайну людську бесiду.
+			Вашi ефекти Присутностi тривають довше, нiж у iнших Тореадорiв, але ви нiколи не можете пiдняти Інтелект вище трьох i частiше впадаєте в бiсну, коли речi йдуть не так, як ви хочете."	// changed by wesp
+			"ShortDescription"		"Перевага: тривалiсть Присутностi 120%."	// changed by wesp
+			"ShortPenaltyDescription"	"Штраф: Максимум розуму 3, бiльш ймовiрно впасти у бiсну."
 		}
 		General
 		{
@@ -1317,11 +1319,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Uncanny Awareness"
-			"Description"			"You swear to God you can see the future. Not years from now, or even next week, but moment-to-moment you always see what's coming. You are so acutely aware of your surroundings that you've been known to dodge bullets without looking. This ability is further manifested as a superior form of Auspex.
-			You receive greater benefits from Auspex and can maintain its effects longer. Unfortunately, the sheer volume of information makes you more deliberate than most; it costs you more experience to raise your Celerity Discipline."
-			"ShortDescription"		"Advantage: Auspex duration 120%."	// changed by wesp
-			"ShortPenaltyDescription"	"Penalty: Raising Celerity costs more."
+			"Name"		"Надприродна Свiдомiсть"
+			"Description"			"Ти клянешся перед Богом, що можеш бачити майбутнє. Не через роки, або навiть наступного тижня, але момент за моментом ти завжди бачиш, що надходить. Ти настiльки чутливий до навколишнього середовища, що вiдомо, як ти уникав куль, не дивлячись. Ця здатнiсть подальше проявляється як вища форма Auspex.
+Отримуєш бiльше переваг вiд Auspex i можеш пiдтримувати його ефекти довше. Незважаючи на це, великий обсяг iнформацiї робить тебе бiльш обережним, нiж бiльшiсть; це коштує тобi бiльше досвiду, щоб пiдвищити свою дисциплiну Celerity."
+			"ShortDescription"		"Перевага: Тривалiсть Ауспексу 120%."	// changed by wesp
+			"ShortPenaltyDescription"	"Штраф: Пiдвищення Швидкостi коштує бiльше."
 		}
 		General
 		{
@@ -1335,11 +1337,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Faelike"
-			"Description"			"You are a creature of delicate beauty and ephemeral grace. You seem more likely to have sprung from the pages of Spenser or Keats than Shelley or Stoker.
-			Your Presence and Celerity have a greater duration, but you are a truly delicate being - it costs more experience to raise your Stamina, Strength, Firearms, and Intimidation."
-			"ShortDescription"		"Advantage: Presence and Celerity duration 120%."	// changed by wesp
-			"ShortPenaltyDescription"	"Penalty: Raising Stamina, Strength, Firearms, and Intimidation costs more."
+			"Name"		"Фейлайк"
+			"Description"			"Ви - створiння витонченої краси та ефемерної грацiї. Здається, що ви бiльше схожi на творiння Спенсера або Кiтса, нiж Шеллi чи Стокера.
+Ваша Присутнiсть та Швидкiсть мають бiльший тривалiсть, але ви - справдi вразливе iстота - пiдвищення вашої Витривалостi, Сили, Вогнепальної зброї та Запугування вимагає бiльше досвiду."
+			"ShortDescription"		"Перевага: тривалiсть Присутностi та Швидкостi збiльшена на 120%."	// changed by wesp
+			"ShortPenaltyDescription"	"Штраф: пiдвищення Витривалостi, Сили, Вогнепальної зброї та Запугування коштує бiльше."
 		}
 		General
 		{
@@ -1353,11 +1355,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Eldritch Prodigy"
-			"Description"			"You have a natural gift for the dark arts of Thaumaturgy, and can use it to greater effect than most Tremere. Thaumaturgy is your all-consuming passion, to the exclusion of nearly every other pursuit.
-			You start with one extra point in Thaumaturgy, however you suffer a one point penalty to any experience award of three or more."	// changed by wesp
-			"ShortDescription"		"Advantage: +1 to Thaumaturgy."
-			"ShortPenaltyDescription"	"Penalty: Less experience gained."
+			"Name"		"Елдрiчний Продiженець"
+			"Description"			"Ви маєте природний дар до темних мистецтв Тауматургiї i можете використовувати його ефективнiше, нiж бiльшiсть Тремерiв. Тауматургiя - ваша всеосяжна пристрасть, виключаючи майже будь-яке iнше заняття.
+1. Ви починаєте з одним додатковим балом у Тауматургiї, однак ви страждаєте штрафом в один бал до будь-якої нагороди досвiду у трьох або бiльше балах."	// changed by wesp
+			"ShortDescription"		"Перевага: +1 до Тауматургiї."
+			"ShortPenaltyDescription"	"Штраф: Менше отриманого досвiду."
 		}
 		General
 		{
@@ -1371,11 +1373,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Infernal"
-			"Description"			"Your forebears paid an awful price in their quest for power. The deal still holds, and you'll continue to pay for all eternity.
-			Advancement in Thaumaturgy costs you less experience, but Auspex has half the duration, and you may never raise Dominate above three."	// changed by wesp
-			"ShortDescription"		"Advantage: Raising Thaumaturgy costs less."
-			"ShortPenaltyDescription"	"Penalty: Auspex duration 50%, Dominate maximum of 3."
+			"Name"		"Інфернальний"
+			"Description"			"Вашi предки заплатили жахливу цiну у своєму прагненнi до влади. Угода все ще дiє, i ви будете продовжувати платити цiною вiчно.
+			Продвиження в Тауматургiї вам обходиться менше досвiду, але Ауспекс має наполовину меншу тривалiсть, i ви нiколи не зможете пiдняти Домiнування вище трьох."	// changed by wesp
+			"ShortDescription"		"Перевага: Пiдвищення вартостi Тауматургiї менше."
+			"ShortPenaltyDescription"	"Штраф: тривалiсть Auspex зменшується на 50%, максимум 3 для Dominate."
 		}
 		General
 		{
@@ -1389,11 +1391,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Dominatrix"
-			"Description"			"You've always been persuasive, but as a vampire, few can deny your will.
-			You start with one point in Subterfuge and your Dominate effects are stronger and last longer. As someone who is used to having others serve her, you must spend more experience to raise your Skills."
-			"ShortDescription"		"Advantage: +1 to Subterfuge, Dominate duration 200%, Dominate damage 140%."
-			"ShortPenaltyDescription"	"Penalty: Raising Skills costs more."
+			"Name"		"Домiнатриса"
+			"Description"			"Ви завжди були переконливим, але як вампiр, небагато хто може вiдмовити вашiй волi.
+			Ви починаєте з одного балу в Хитрiсть i вашi ефекти Домiнування сильнiшi та тривають довше. Як людина, яка звикла до того, що iншi служать їй, вам доведеться витрачати бiльше досвiду, щоб пiдвищити вашi Навички."
+			"ShortDescription"		"Перевага: +1 до Пiдступностi, тривалiсть Домiнування 200%, пошкодження Домiнування 140%."
+			"ShortPenaltyDescription"	"Штраф: Пiдвищення навичок коштує бiльше."
 		}
 		General
 		{
@@ -1408,11 +1410,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Diabolic"
-			"Description"			"In addition to the Beast Within, you struggle against an even darker force. You feel the pull of salvation and damnation in your every action.
-			Your Presence has a greater duration, but it will cost you more experience to buy Humanity points, and you are more likely to frenzy."	// changed by wesp
-			"ShortDescription"		"Advantage: Presence duration 120%."	// changed by wesp
-			"ShortPenaltyDescription"	"Penalty: Raising Humanity costs more, more likely to frenzy."
+			"Name"		"Диявольський"
+			"Description"			"Крiм Внутрiшнього Звiра, ви боретеся з ще темнiшою силою. Ви вiдчуваєте тягар спасiння та прокляття в кожному своєму дiї.
+			Ваша Присутнiсть має бiльш тривалiсть, але вам доведеться витратити бiльше досвiду, щоб купити Особистiсть, i ви частiше потрапите в бiйку."	// changed by wesp
+			"ShortDescription"		"Перевага: тривалiсть Присутностi 120%."	// changed by wesp
+			"ShortPenaltyDescription"	"Штраф: Пiдвищення Гуманностi коштує бiльше, iмовiрнiсть вибухує зростає."
 		}
 		General
 		{
@@ -1426,11 +1428,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Cleaner"
-			"Description"			"Not every Ventrue is afraid to get their hands dirty. Some problems need to be met head on, and occasionally matters are too delicate to sic the Gangrel on them. While your bloodline doesn't come from the sunny side of the Ventrue family tree, they've always been entrusted to take care of such problems.
-			Your Fortitude has a greater duration, but it costs you more experience to raise Presence."
-			"ShortDescription"		"Advantage: Fortitude duration 120%."	// changed by wesp
-			"ShortPenaltyDescription"	"Penalty: Raising Presence costs more."
+			"Name"		"Прибиральник"
+			"Description"			"Не кожен Вентру боїться забруднити руки. Деякi проблеми потрiбно вирiшувати напряму, а iнодi справи настiльки важливi, що не можна довiрити це Гангрелам. Хоча ваша кров не походить зi сонячного боку родоводу Вентру, вам завжди довiряли вирiшувати такi проблеми.
+			Ваша Витривалiсть має бiльш тривалу дiю, але вам доводиться витрачати бiльше досвiду, щоб пiдвищити Присутнiсть."
+			"ShortDescription"		"Перевага: Витривалiсть тривалiсть 120%."	// changed by wesp
+			"ShortPenaltyDescription"	"Штраф: Пiдвищення Присутностi коштує бiльше."
 		}
 		General
 		{
@@ -1445,11 +1447,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Megalomaniac"
-			"Description"	"You have a big ego. Because of your confidence in yourself and your abilities, people either really hate you, or are drawn to you.
-			You start with an extra point of Charisma but can never raise Subterfuge above four."	// changed by wesp
-			"ShortDescription"	"Advantage: +1 to Charisma."
-			"ShortPenaltyDescription"	"Penalty: Subterfuge maximum of 4."
+			"Name"		"Мегаломанiяк"
+			"Description"	"У вас велике его. Через вашу впевненiсть у собi та власнi здiбностi люди або дуже вас ненавидять, або притягуються до вас.
+			Ви починаєте з додатковим пунктом Харизми, але нiколи не можете пiдняти Втихомирення вище чотирьох."	// changed by wesp
+			"ShortDescription"	"Перевага: +1 до Харизми."
+			"ShortPenaltyDescription"	"Штраф: максимум 4 за Субтерфуг."
 		}
 
 		General
@@ -1465,11 +1467,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"All-Star Athlete"
-			"Description"	"You were an excellent athlete who excelled at all physical activities. However, you're not naturally the sharpest tool in the shed. Compound that with the fact that you spent most of your time and energy exercising, you really don't know much about anything else.
-			You gain a bonus to Strength but can never raise your Intelligence higher than four."	// changed by wesp
-			"ShortDescription"		"Advantage: +1 to Strength."
-			"ShortPenaltyDescription"	"Penalty: Intelligence maximum of 4."
+			"Name"		"Усiзiрковий атлет"
+			"Description"	"Ти був вiдмiнним спортсменом, який вiдзначався у всiх фiзичних активностях. Однак ти не народився найрозумнiшою людиною. Додай до цього той факт, що ти проводив бiльшiсть свого часу i енергiї на фiзичнi вправи, i ти дiйсно не знаєш багато про що-небудь iнше.
+			Ти отримуєш бонус до Сили, але нiколи не можеш пiдвищити свiй Інтелект вище за чотири."	// changed by wesp
+			"ShortDescription"		"Перевага: +1 до Сили."
+			"ShortPenaltyDescription"	"Штраф: максимум Інтелекту 4."
 		}
 
 		General
@@ -1485,11 +1487,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Close to the Beast"
-			"Description"	"After you were Embraced, you were naturally more in tune with the Beast within and that affinity is now physically apparent.
-			You can advance easier in Protean, but others, especially kine, will find your appearance distasteful so you can't raise it above three."	// changed by wesp
-			"ShortDescription"	"Advantage: Raising Protean costs less."	// changed by wesp
-			"ShortPenaltyDescription"	"Penalty: Appearance maximum of 3."
+			"Name"		"Близько до Звiра"
+			"Description"	"Пiсля того, як вас Обiйняли, ви природно стали бiльш угодованi зi Звiром всерединi, i ця спiввiдноснiсть тепер фiзично виразна.
+			Ви можете легше розвивати Протеан, але iншi, особливо кайнiти, знайдуть ваш зовнiшнiй вигляд огидним, тому ви не можете пiдняти його вище трьох."	// changed by wesp
+			"ShortDescription"	"Перевага: Пiдвищення Протеану коштує менше."	// changed by wesp
+			"ShortPenaltyDescription"	"Штраф: Максимум в 3 для Вигляду."
 		}
 
 		General
@@ -1505,11 +1507,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Subtly Insane"
-			"Description"	"Your insanity does not hinder your ability to interact with others too greatly. At first glance, most wouldn't even second-guess your mental stability and you don't experience some of the more weird things your clan members do.
-			Your unique form of dementia flares up more easily when provoked in combat by giving you a bonus to Dementation but you can't ever raise your Dodge above three."	// changed by wesp
-			"ShortDescription"	"Advantage: +1 to Dementation."
-			"ShortPenaltyDescription"	"Penalty: Dodge maximum of 3."
+			"Name"		"Приховано Божевiльний"
+			"Description"	"Ваша безумство не сильно заважає вам взаємодiяти з iншими. На перший погляд бiльшiсть навiть не поставили б пiд сумнiв вашу психiчну стiйкiсть, i ви не вiдчуваєте деяких дивних речей, якi роблять вашi члени клану.
+Ваша унiкальна форма деменцiї легше загострюється пiд час бойових дiй, надаючи вам бонус до Дементацiї, але ви нiколи не можете пiдняти свiй Ухил вище трьох."	// changed by wesp
+			"ShortDescription"	"Перевага: +1 до Дементацiї."
+			"ShortPenaltyDescription"	"Штраф: Ухилятися максимум 3."
 		}
 
 		General
@@ -1525,11 +1527,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Well Educated"
-			"Description"	"You were very privileged and gained excellent education all-around.
-			You have a bonus in a variety of abilities but you're mild tempered and weak-willed. You can't ever raise Dominate and Intimidation above three."	// changed by wesp
-			"ShortDescription"		"Advantage: Bonus in all Knowledge traits."	// changed by wesp
-			"ShortPenaltyDescription"	"Penalty: Dominate and Intimidation maximum of 3."
+			"Name"		"Добре освiчений"
+			"Description"	"Ви були дуже привiлейованi i отримали вiдмiнну освiту у всiх сферах.
+			У вас є бонус до рiзноманiтних здiбностей, але ви м'якосердi та слабкодухi. Ви нiколи не зможете пiдвищити Домiну та Запугування вище трьох."	// changed by wesp
+			"ShortDescription"		"Перевага: Бонус до всiх рис знань."	// changed by wesp
+			"ShortPenaltyDescription"	"Штраф: максимум 3 за Домiнування та Запугування."
 		}
 
 		General
@@ -1545,11 +1547,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Affinity for Magic"
-			"Description"	"You always liked magical illusions, and even performed some tricks yourself as a kid. Now you are amazed that magic is actually real.
-			You can advance easier in Thaumaturgy. On the other hand you gain less experience for everything else."	// changed by wesp
-			"ShortDescription"		"Advantage: Raising Thaumaturgy costs less."
-			"ShortPenaltyDescription"	"Penalty: Less experience gained."
+			"Name"		"Схильнiсть до магiї"
+			"Description"	"Ти завжди любив магiчнi iлюзiї, навiть виконував деякi трюки ще дитиною. Тепер ти дивуєшся, що магiя насправдi iснує.
+			Ти можеш легше просуватися в Тауматургiї. З iншого боку, ти отримуєш менше досвiду за все iнше."	// changed by wesp
+			"ShortDescription"		"Перевага: Пiдвищення вартостi Тауматургiї менше."
+			"ShortPenaltyDescription"	"Штраф: Менше отриманого досвiду."
 		}
 
 		General
@@ -1565,11 +1567,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Presentable"
-			"Description"	"The Nosferatu blood from your sire was rather weak and the blood curse did not take too strong a hold on you.
-			You're only deformed where the moon doesn't shine so you get a Charisma bonus, but it is more difficult for you to learn the Obfuscate Discipline of your clan."	// changed by wesp
-			"ShortDescription"		"Advantage: +1 to Charisma."
-			"ShortPenaltyDescription"	"Penalty: Raising Obfuscate costs more."
+			"Name"		"Представницький"
+			"Description"	"Кров Носферату вiд вашого покровителя була досить слабкою, i кров'яне прокляття не взяло на вас занадто мiцного тримання.
+			Ви лише викривленi там, де не сяє мiсяць, тому ви отримуєте бонус до Харизми, але вам важче вивчити Дисциплiну Обфускацiї вашого клану."	// changed by wesp
+			"ShortDescription"		"Перевага: +1 до Харизми."
+			"ShortPenaltyDescription"	"Штраф: Пiдвищення Обфускацiї коштує бiльше."
 		}
 
 		General
@@ -1585,11 +1587,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Starving Artist"
-			"Description"	"You were a starving artist. You lived with the clothes on your back and because of your poor background, you do not have any compunction against wearing ugly clothes.
-			You have a special eye for small details giving you a bonus to Perception, but you can't ever raise your Appearance above four."	// changed by wesp
-			"ShortDescription"	"Advantage: +1 to Perception."
-			"ShortPenaltyDescription"	"Penalty: Appearance maximum of 4."
+			"Name"		"Голодний митець"
+			"Description"	"Ти був голодним митець. Ти жив з одягом на собi, i через своє бiдне минуле, тобi байдуже, що носити потворний одяг.
+			Ти маєш особливе вiдчуття до дрiбниць, що дає тобi бонус до Сприйняття, але ти нiколи не можеш пiдняти свiй Вигляд вище за чотири."	// changed by wesp
+			"ShortDescription"	"Перевага: +1 до Сприйняття."
+			"ShortPenaltyDescription"	"Штраф: Максимум в зовнiшностi - 4."
 		}
 
 		General
@@ -1605,11 +1607,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Black-Hearted"
-			"Description"	"You were a black-hearted, violence loving, badass when you were alive, and you're still an evil maniac in unlife.
-			You have a Humanity of five, but start with a bonus to your Firearms skill."	// changed by wesp
-			"ShortDescription"		"Advantage: +1 to Firearms."
-			"ShortPenaltyDescription"	"Penalty: Humanity -2."
+			"Name"		"Чорносердий"
+			"Description"	"Ти був чорносердечним, обожнюючим насильство, брутальним, коли був живим, i все ще є зловiсним манiяком у нежиттi.
+			Ти маєш Гуманнiсть на рiвнi п'ять, але починаєш з бонусом до навички Стрiльби."	// changed by wesp
+			"ShortDescription"		"Перевага: +1 до Вогнепальної зброї."
+			"ShortPenaltyDescription"	"Штраф: Гуманнiсть -2."
 		}
 
 		General
@@ -1626,11 +1628,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Occult Nut"
-			"Description"	"Who would ever have thought that any of it could be real? You loved dark fantasies and considered yourself Occult-savvy. Now that you're among the Kindred, you find that you actually know some of this stuff and are really excited about learning more about your new state of unlife.
-			You gain a bonus to scholarship and earning experience, but others find you disdainful so your Charisma can't be raised above three."	// changed by wesp
-			"ShortDescription"		"Advantage: +1 to Scholarship, more experience gain."
-			"ShortPenaltyDescription"	"Penalty: Charisma maximum of 3."
+			"Name"		"Окультний горiшок"
+			"Description"	"Хто б мiг подумати, що все це може бути реальним? Ти любив темнi фантазiї i вважав себе знавцем Окультного. Тепер, коли ти серед Кiндрiд, ти виявляєш, що насправдi знаєш деякi речi i дуже зацiкавлений вивченням бiльше про свiй новий стан нежиття.
+			Ти отримуєш бонус до навчання та отримання досвiду, але iншi вважають тебе зневажливим, тому твiй Харизма не може бути пiднята вище трьох."	// changed by wesp
+			"ShortDescription"		"Перевага: +1 до Науки, бiльше отримання досвiду."
+			"ShortPenaltyDescription"	"Штраф: максимум Харизми 3."
 		}
 
 		General
@@ -1646,10 +1648,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Academic"
-			"Description"	"You were the Academic type, as was your Brujah sire, living up to the old Brujah image of the poet-warrior.
-			Your attributes are prioritized differently, with Mental being the most important, then Social, followed by Physical."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"		"Академiчний"
+			"Description"	"Ти був академiчним типом, як i твiй Бруджа-наставник, вiдповiдно до старої образу поета-воїна Бруджа.
+			Твої атрибути мають рiзний прiоритет, з Ментальним на першому мiсцi, потiм Соцiальним, i на останньому - Фiзичним."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 
@@ -1666,10 +1668,10 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Generalissimo"
-			"Description"	"Discipline and order, tactics and warfare: these are the reasons why you joined the army. Not only did you fit in perfectly, you excelled in the military.
-			Swap the priority order for your Attributes to Physical, Mental, and Social."
-			"ShortDescription"		"Alternate starting traits priorities."
+			"Name"		"Генералiссiмо"
+			"Description"	"Дисциплiна i порядок, тактика i вiйна: це причини, чому ви приєдналися до армiї. Ви не лише iдеально вписалися, а й вiдзначилися у вiйськовiй справi.
+			Змiнiть порядок прiоритету ваших Атрибутiв на Фiзичний, Ментальний i Соцiальний."
+			"ShortDescription"		"Альтернативнi прiоритети початкових властивостей."
 			"ShortPenaltyDescription"	""
 		}
 
@@ -1686,11 +1688,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Ex-SWAT"	// changed by wesp
-			"Description"	"While in the Police force, you've developed quite a skill with firearms. However, you quit the forces after receiving a crippling injury while in the line of duty.
-			You start with a bonus to the Firearms skill, but your Dexterity cannot be raised above one."
-			"ShortDescription"		"Advantage: +2 to Firearms."
-			"ShortPenaltyDescription"	"Penalty: Dexterity maximum of 1."
+			"Name"		"Екс-СВАТ"	// changed by wesp
+			"Description"	"Пiд час служби в полiцiї ви розвинули велику вправнiсть у володiннi вогнепальною зброєю. Однак ви покинули службу пiсля отримання незворотньої травми пiд час виконання службових обов'язкiв.
+1. Ви починаєте з бонусом до навички Вогнепальної зброї, але ваша Спритнiсть не може бути пiднята вище одиницi."
+			"ShortDescription"		"Перевага: +2 до Вогнепальної зброї."
+			"ShortPenaltyDescription"	"Штраф: Максимум Ловкостi 1."
 		}
 
 		General
@@ -1706,11 +1708,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Peeping Tom"	// changed by wesp
-			"Description"	"It's not your fault you were born lacking in the appearance department. Since nobody likes you, your unfulfilled and repressed sexual desires have turned you into quite the little pervert.
-			Now in your unlife, you find that you digest the vitae from member of the opposite gender more efficiently, but you can't raise your Charisma above three."	// changed by wesp
-			"ShortDescription"		"Advantage: Extra blood from women."
-			"ShortPenaltyDescription"	"Penalty: Charisma maximum of 3."
+			"Name"		"Приглядач"	// changed by wesp
+			"Description"	"Це не твоя вина, що ти народився з недолiками у зовнiшностi. Оскiльки тебе нiхто не любить, твої невдоволенi та пригнiченi сексуальнi бажання перетворили тебе на справжнього перверта.
+			Тепер, у своєму нежиттi, ти виявляєш, що перетравлюєш вiтей вiд представникiв протилежної статi ефективнiше, але не можеш пiдняти свою Харизму вище трьох."	// changed by wesp
+			"ShortDescription"		"Перевага: Додаткова кров вiд жiнок."
+			"ShortPenaltyDescription"	"Штраф: максимум Харизми 3."
 		}
 
 		General
@@ -1727,11 +1729,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Pot Head"
-			"Description"	"Scientists say that smoking pot can make you more stupid. That may explain your terrible memory as you often forget names and other details. However, you have a very relaxed attitude towards life, or the unlife.
-			You gain a bonus to frenzy checks, but can't raise your Intelligence above three."	// changed by wesp
-			"ShortDescription"		"Advantage: Less likely to frenzy."
-			"ShortPenaltyDescription"	"Penalty: Intelligence maximum of 3."
+			"Name"		"Кровосиска"
+			"Description"	"Вченi кажуть, що курiння трави може зробити вас бiльш дурними. Це може пояснити вашу жахливу пам'ять, оскiльки ви часто забуваєте iмена та iншi деталi. Однак у вас дуже розслаблене ставлення до життя, або нежиття.
+			Ви отримуєте бонус до перевiрок бiсну, але не можете пiдвищити свiй Інтелект вище трьох."	// changed by wesp
+			"ShortDescription"		"Перевага: Менше ймовiрнiсть вибуху."
+			"ShortPenaltyDescription"	"Штраф: максимум Інтелекту 3."
 		}
 
 		General
@@ -1747,11 +1749,11 @@ Swap the priority order of your Attributes to Mental, Social, Physical."	// adde
 	{
 		Text
 		{
-			"Name"		"Deaf"
-			"Description"	"You were born practically deaf. Not only did you overcome your disability, you enjoy helping others cope and get ahead in life.
-			You start with a Humanity of eight, but can't raise your Perception above three. Also, while you do not wish to be presumptuous, but you have a vague feeling that Lady Luck smiles upon you giving you a bonus to Dodge."
-			"ShortDescription"		"Advantage: +1 to Humanity and Dodge."	// changed by wesp
-			"ShortPenaltyDescription"	"Penalty: Perception maximum of 3."
+			"Name"		"Глухий"
+			"Description"	"Ти народився практично глухим. Ти не лише подолав свою iнвалiднiсть, але також любиш допомагати iншим впоратися та просуватися в життi.
+1. Ти починаєш з Гуманiтарностi на рiвнi вiсiм, але не можеш пiдняти своє Сприйняття вище трьох. Крiм того, хочеш бути скромним, але вiдчуваєш, що Ледi Фортуна посмiхається тобi, що дає тобi бонус до Ухилення."
+			"ShortDescription"		"Перевага: +1 до Гуманностi та Ухилення."	// changed by wesp
+			"ShortPenaltyDescription"	"Штраф: Максимум сприйняття 3."
 		}
 
 		General

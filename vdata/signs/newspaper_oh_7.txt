@@ -10,7 +10,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"MURDER SUICIDE!"
+		"Text"				"бахиярбн-яюлнбахиярбн!"
 		"Font"				"Headline"
 		"XPos"				"230"
 		"YPos"				"145"
@@ -23,7 +23,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"OCEAN HOUSE KILLER POSSIBLY RESPONSIBLE FOR INFERNO!"
+		"Text"				"лнфкхбн, бахбжъ г няепедйю нйеюмс б╡донб╡дю╙ гю онксл'ъ!"
 		"Font"				"Newsprint"
 		"XPos"				"233"
 		"YPos"				"200"

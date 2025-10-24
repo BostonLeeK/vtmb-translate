@@ -10,7 +10,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"GRAND OPENING!"
+		"Text"				"бекхйе б╡дйпхрръ!"
 		"Font"				"Headline"
 		"XPos"				"230"
 		"YPos"				"145"
@@ -23,7 +23,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"SANTA MONICA CELEBRATES THE NEW OCEAN HOUSE HOTEL"
+		"Text"				"яюмрю-лнм╡йю б╡дгмювю╙ б╡дйпхрръ мнбнцн цнрекч ньеимхй."
 		"Font"				"Newsprint"
 		"XPos"				"233"
 		"YPos"				"200"

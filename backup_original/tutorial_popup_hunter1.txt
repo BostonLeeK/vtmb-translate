@@ -1,0 +1,41 @@
+SignData	// added by wesp
+{
+	BackgroundImage
+	{
+		"Name"		"interface/Pop_Ups/general"
+//		"Tiled"		"0"
+		"XPos"		""	//1, ws-fix
+		"YPos"		""	//1, ws-fix
+		"Wide"		"2048"	//1024, ws-fix
+		"Tall"		"1024"
+	}
+
+	TextBlock
+	{
+		"Text"		"You are a Society of Leopold hunter!
+Instead of blood the hunters use faith. To raise your faith you need to define a Pray key (default F). You can only pray if you are alone and not in combat.
+You will get 250 XP to raise Numina and stats now.
+<<< ATTENTION >>> If your faith bar is red, exit Bloodlines, relaunch it and start a new game! The same procedure is needed if you want to switch back to being a vampire. <<< ATTENTION >>>"
+		"XPos"		"836"	//324, ws-fix
+		"YPos"		"310"	//182, ws-fix
+		"Wide"		"375"
+		"Tall"		"375"
+		"TextRGBA"		"[245, 245, 245, 200]"
+		"BackgroundRGBA"		"[0, 0, 0, 0]"
+
+		"Font"		"ParagraphText"
+		"Font_640"	"Trebuchet"
+	}
+
+	TextBlock
+	{
+		"Text"		"left-click to continue"
+		"XPos"		"922"	//410, ws-fix
+		"YPos"		"706"	//572, ws-fix
+		"Wide"		"215"
+		"Tall"		"28"
+		"TextRGBA"		"[245, 245, 245, 200]"
+		"BackgroundRGBA"		"[0, 0, 0, 0]"
+		"Font"		"Trebuchet"
+	}
+}

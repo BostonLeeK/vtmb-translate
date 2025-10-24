@@ -10,7 +10,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"C-TOWN MURDER!"
+		"Text"				"йпхл╡мюк б я╡-рюсм╡!"
 		"Font"				"Headline"
 		"XPos"				"230"
 		"YPos"				"145"
@@ -23,7 +23,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"VIGILANTE KILLS MANAGER OF \"GLAZE\"!"
+		"Text"				"б╡длярнбмхи бахбю╙ лемедфепю "GLAZE"!"
 		"Font"				"Newsprint"
 		"XPos"				"233"
 		"YPos"				"200"

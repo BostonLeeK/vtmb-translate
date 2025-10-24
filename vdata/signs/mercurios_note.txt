@@ -18,8 +18,8 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"Hey.  The  password  for  your  computer  is  \"sunrise\".  Keep  the  cash  in  the  drawer...  it's  yours.  I  dropped  you  an  email  with  my  address...  come  on  over  after  you  get  settled.
-                                -Mercurio"
+		"Text"		"Привiт. Пароль для вашого комп'ютера - "схiд сонця". Грошi тримайте в ящику... вони вашi. Я вiдправив вам листа з моєю адресою... приходьте, коли вас розмiстять.
+                                -Меркурiо"
 		"Font"		"Vamp_Handwriting1"
 		"XPos"		"103"
 		"YPos"		"120"

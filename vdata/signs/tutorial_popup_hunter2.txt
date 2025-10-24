@@ -26,8 +26,8 @@ SignData	// added by wesp
 
 	TextBlock
 	{
-		"Text"		"Numina are your hunter powers and need faith to activate. This icon indicates the power you currently have selected. You have four Numina: Spirit Heal, Divine Vision, Faith Shield and Holy Light.
-<<< ATTENTION >>> Avoid saving or changing maps with running Numina as after loading they might require multiple activations. <<< ATTENTION >>>"
+		"Text"		"Нумiни - це вашi мисливськi сили, якi потребують вiри для активацiї. Ця iконка показує силу, яку ви вибрали на даний момент. У вас є чотири Нумiни: Духовне Зцiлення, Божественне Бачення, Вiрний Щит та Свiтле Свято. 
+<<< УВАГА >>> Уникайте зберiгання або змiни карт з активованими Нумiнами, оскiльки пiсля завантаження вони можуть вимагати кiлькох активацiй. <<< УВАГА >>>"
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"435"	//307, ws-fix
@@ -39,7 +39,7 @@ SignData	// added by wesp
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

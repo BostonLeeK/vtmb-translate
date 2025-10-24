@@ -18,7 +18,7 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"This is a sample sign entity. The text in this section should wrap to the box."
+		"Text"		"Це зразок сутностi знаку. Текст у цьому роздiлi повинен обгортатися у полi."
 		"Font"		"ParagraphText"
 		"XPos"		"50"
 		"YPos"		"150"
@@ -30,7 +30,7 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"This is a another block of text on the sample sign entity."
+		"Text"		"Це ще один блок тексту на зразковiй сутностi знаку."
 		"XPos"		"150"
 		"YPos"		"300"
 		"Wide"		"300"
@@ -48,7 +48,7 @@ SignData
 
 	Label
 	{
-		"Text"		"This is a sample label"
+		"Text"		"Це зразок мiтки"
 		"Alignment"	"southeast"
 		"Font"		"Tahoma"
 		"XPos"		"250"

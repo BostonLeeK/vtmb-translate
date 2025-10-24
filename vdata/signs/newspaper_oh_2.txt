@@ -10,7 +10,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"FAMILY MISSING"
+		"Text"				"я╡л'ъ гмхйкю"
 		"Font"				"Headline"
 		"XPos"				"230"
 		"YPos"				"145"
@@ -23,7 +23,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"FIRE DEPARTMENT SEARCHES OCEAN HOUSE FOR REMAINS"
+		"Text"				"онфефмю яксфаю опнбндхрэ оньсйх гюкхьй╡б б нйеюмяэйнлс асдхмйс"
 		"Font"				"Newsprint"
 		"XPos"				"233"
 		"YPos"				"200"

@@ -12,8 +12,8 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"You have used your entire blood pool.
-Conserve blood for when you need it. A low blood pool means you are hungry, and run the risk of frenzy - total loss of control."
+		"Text"		"Ви використали весь свiй пул кровi.
+Зберiгайте кров для тих випадкiв, коли вона вам потрiбна. Низький рiвень кровi означає, що ви голоднi, i є ризик впадання в бiсну - повна втрата контролю."
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"310"	//182, ws-fix
@@ -25,7 +25,7 @@ Conserve blood for when you need it. A low blood pool means you are hungry, and 
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

@@ -26,8 +26,8 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"Once you have begun lockpicking, you will see this bar. It represents the time needed to pick the lock.
-If the value of your Lockpicking feat is equal to or greater than the difficulty of the lock, you will be able to pick it."
+		"Text"		"Пiсля початку вiдмикання замка ви побачите цю смугу. Вона вiдображає час, необхiдний для вiдмикання замка.
+Якщо значення вашого навички Вiдмикання замкiв дорiвнює або бiльше за складнiсть замка, ви зможете його вiдмикати."
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"460"	//332, ws-fix
@@ -39,7 +39,7 @@ If the value of your Lockpicking feat is equal to or greater than the difficulty
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

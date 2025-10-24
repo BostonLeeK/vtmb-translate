@@ -12,9 +12,9 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"Press the Inventory key (default I) to access your inventory.
-Click on the left and right arrow buttons above your inventory list with any mouse button to access different inventory categories.
-Keys are located in the Equipment category, on a Key Ring. Most keys, once used, will not be needed again and are removed. Some doors have magnetic locks and cannot be picked open. They must be opened with the appropriate key card."	// changed by wesp
+		"Text"		"Натиснiть клавiшу Інвентар (за замовчуванням I), щоб отримати доступ до вашого iнвентаря.
+Клацнiть на кнопки злiва та справа вище списку вашого iнвентаря будь-якою кнопкою мишi, щоб отримати доступ до рiзних категорiй iнвентарю.
+Ключi розташованi в категорiї Обладунок, на Кiльцi Ключiв. Бiльшiсть ключiв, якi використовуються, бiльше не знадобляться i видаляються. Деякi дверi мають магнiтнi замки i не можуть бути вiдкритi зламанi. Їх потрiбно вiдкрити за допомогою вiдповiдної картки-ключа."	// changed by wesp
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"310"	//182, ws-fix
@@ -26,7 +26,7 @@ Keys are located in the Equipment category, on a Key Ring. Most keys, once used,
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

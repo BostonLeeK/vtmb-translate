@@ -18,8 +18,8 @@ SignData	// added by wesp
 
 	TextBlock
 	{
-		"Text"		"Just  jump  and  you  will  land  near  our  shore.  For  when  you  want  to sneak  inside  without  good  old  Gary  noticing  you  ;)!  -m1tn1ck
-P.S.:  I  hope  you  didn't  get  hurt  too  much  by  the  bug-stopper  I  set  up."
+		"Text"		"Просто стрибнiть, i ви приземлитеся бiля нашого берега. Коли ви захочете проникнути всередину, щоб добрий старий Гарi не помiтив вас ;) - m1tn1ck
+P.S.: Сподiваюся, ви не зазнали занадто багато шкоди вiд моєї пастки для комах."
 		"Font"		"Vamp_Handwriting1"
 		"XPos"		"103"
 		"YPos"		"120"

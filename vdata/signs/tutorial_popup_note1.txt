@@ -26,9 +26,9 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"When you can read a note, you will see this Use icon.
-Readable notes can be various items like clipboards, newspapers and letters.
-To read the note, press the Use key (default E). To return to the game after reading the note, press it again."
+		"Text"		"Коли ви можете прочитати записку, ви побачите цю iконку Використання.
+Читабельнi записки можуть бути рiзними предметами, такими як дошки, газети та листи.
+Щоб прочитати записку, натиснiть клавiшу Використання (за замовчуванням E). Щоб повернутися до гри пiсля прочитання записки, натиснiть її знову."
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"460"	//332, ws-fix
@@ -40,7 +40,7 @@ To read the note, press the Use key (default E). To return to the game after rea
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

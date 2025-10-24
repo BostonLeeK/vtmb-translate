@@ -18,12 +18,9 @@ SignData	// added by wesp
 
 	TextBlock
 	{
-		"Text"		"
-       The  mind  is  a  maze  and  all
-       mazes  challenge  the  mind!
+		"Text"		"Розум - це лабiринт, i всi лабiринти викликають виклики розуму!
 
-
-In  the  labyrinth  beyond  this  door,  reactions  of  test  subjects  to  the  weirdest  of  environments  can  be  studied  using  my  special  powers..."
+У лабiринтi за цiєю дверима можна вивчати реакцiї тестових об'єктiв на найдивнiшi середовища за допомогою моїх особливих здiбностей..."
 		"Font"		"Vamp_Handwriting1"
 		"XPos"		"33"
 		"YPos"		"33"

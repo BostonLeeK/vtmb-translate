@@ -12,9 +12,9 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"There is a guard up ahead. Use Thaumaturgy to attack the guard.
-You have level one Thaumaturgy, known as Blood Strike. Scroll the mouse wheel to select Blood Strike, place your cursor over the guard, and use the Power key (default right-click) to activate the discipline.
-A projectile will strike the guard. If you remain still and the guard lives, the blood shot will return with stolen blood from your victim."	// changed by wesp
+		"Text"		"1. Попереду стоїть сторож. Використайте Тауматургiю, щоб атакувати сторожа.
+2. У вас є перший рiвень Тауматургiї, вiдомий як Кров'яний Удар. Прокрутiть колесо мишi, щоб вибрати Кров'яний Удар, поставте курсор на сторожа i використайте клавiшу Сили (за замовчуванням правий клiк), щоб активувати дисциплiну.
+3. Снаряд вразить сторожа. Якщо ви залишитеся нерухомими i сторож залишиться живим, кров'яний пострiл повернеться з вкраденою кров'ю вiд вашої жертви."	// changed by wesp
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"310"	//182, ws-fix
@@ -26,7 +26,7 @@ A projectile will strike the guard. If you remain still and the guard lives, the
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

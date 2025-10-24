@@ -1,0 +1,42 @@
+SignData
+{
+	BackgroundImage
+	{
+		"Name"		"interface/Pop_Ups/general"
+//		"Tiled"		"0"
+		"XPos"		""	//1, ws-fix
+		"YPos"		""	//1, ws-fix
+		"Wide"		"2048"	//1024, ws-fix
+		"Tall"		"1024"
+	}
+
+	TextBlock
+	{
+		"Text"		"Use the mouse to look around.
+Use W, A, S and D keys (default) to move. Use the walk key (default ALT) to walk and the toggle walk/run and toggle auto-move keys (default INS and DEL) to toggle walk/run and auto moving.
+Use the Toggle View key (default Z) to switch between first- and third-person. Use the Camera keys (default numpad) to move the camera in third-person.
+Use the Hotkey Menu key (defaul k) to assign actions to Hotkeys (default 1-0).
+< If the blood bar is blue restart game! >"	// changed by wesp
+		"XPos"		"836"	//324, ws-fix
+		"YPos"		"310"	//182, ws-fix
+		"Wide"		"375"
+		"Tall"		"375"
+		"TextRGBA"		"[245, 245, 245, 200]"
+		"BackgroundRGBA"		"[0, 0, 0, 0]"
+
+		"Font"		"ParagraphText"
+		"Font_640"	"Trebuchet"
+	}
+
+	TextBlock
+	{
+		"Text"		"left-click to continue"
+		"XPos"		"922"	//410, ws-fix
+		"YPos"		"706"	//572, ws-fix
+		"Wide"		"215"
+		"Tall"		"28"
+		"TextRGBA"		"[245, 245, 245, 200]"
+		"BackgroundRGBA"		"[0, 0, 0, 0]"
+		"Font"		"Trebuchet"
+	}
+}

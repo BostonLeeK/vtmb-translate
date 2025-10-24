@@ -12,9 +12,9 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"In Masquerade areas, breaking the Masquerade can carry dire consequences, such as the unwanted attention of vampire hunters. After five Masquerade violations, your game is over.
-As a Nosferatu, you will have to be extremely careful about hiding your monstrous nature. If you are in danger of being seen, you will see this icon appear in the upper-right corner of your screen. A small arrow will tell you from what direction you may be seen.
-Your current number of Masquerade violations is displayed in the upper-right corner of your character sheet."
+		"Text"		"У мiсцях Маскараду порушення Маскараду може мати страшнi наслiдки, такi як небажана увага вампiрських мисливцiв. Пiсля п'яти порушень Маскараду ваша гра закiнчується.
+Як Носферату, вам доведеться дуже обережно приховувати свою монстрозну природу. Якщо ви перебуваєте пiд загрозою бути помiченим, ви побачите цю iконку у верхньому правому кутi вашого екрану. Невелика стрiлка покаже вам, з якого напрямку вас можуть помiтити.
+Поточна кiлькiсть ваших порушень Маскараду вiдображається у верхньому правому кутi вашого персонажного аркуша."
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"310"	//182, ws-fix
@@ -26,7 +26,7 @@ Your current number of Masquerade violations is displayed in the upper-right cor
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

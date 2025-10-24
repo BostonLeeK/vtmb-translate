@@ -18,8 +18,7 @@ SignData	// added by wesp
 
 	TextBlock
 	{
-		"Text"		"
-Beckett,  the  meeting  here  seems  to  be  a  trap!  In  case  I  don't  make  it,  check  the  shop  on  the  move  in  Santa  Monica.  I  left  the  door  unlocked,  my  password  is  the  city  of  the  coffin.  -Scott"
+		"Text"		"Бекетт, зустрiч тут, схоже, пастка! У разi, якщо менi не вдасться, перевiр магазин на ходу в Санта-Монiцi. Я залишив дверi розблокованими, мiй пароль - мiсто гробницi. - Скотт"
 		"Font"		"Vamp_Handwriting1"
 		"XPos"		"103"
 		"YPos"		"120"

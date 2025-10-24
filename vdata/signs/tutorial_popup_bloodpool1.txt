@@ -12,9 +12,9 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"This is your blood pool.
-Blood is the fuel for your vampiric powers, or Disciplines. When your blood pool is low, you need to refill it.
-Humans are an abundant source of blood in most areas of the game. One is in the alley around the corner."
+		"Text"		"Це ваш пул кровi.
+Кров - це паливо для ваших вампiрських сил, або Дисциплiн. Коли ваш пул кровi низький, вам потрiбно його поповнити.
+Люди є великим джерелом кровi в бiльшостi областей гри. Один з них знаходиться в переулку за кутом."
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"310"	//182, ws-fix
@@ -26,7 +26,7 @@ Humans are an abundant source of blood in most areas of the game. One is in the 
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

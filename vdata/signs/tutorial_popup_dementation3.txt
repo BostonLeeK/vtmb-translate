@@ -12,9 +12,9 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"There are two guards up ahead. Use Dementation to incapacitate them and then kill them.
-You have level two Dementation, known as Mass Hallucination. Scroll the mouse wheel to select Mass Hallucination, move nearer to the guards, and use the Power key (default right-click) to activate the Discipline.
-Mass Hallucination is an area-of-effect Discipline. Both guards, being fairly close together, will suffer penalties in their combat abilities. Equip your tire iron and kill them."	// changed by wesp
+		"Text"		"Попереду два сторожi. Використайте Дементацiю, щоб паралiзувати їх, а потiм вбити.
+У вас є рiвень двi Дементацiї, вiдомий як Масова Галюцинацiя. Прокрутiть колесо мишi, щоб вибрати Масову Галюцинацiю, пiдiйдiть ближче до сторожiв i використайте клавiшу Сили (за замовчуванням правий клiк), щоб активувати Дисциплiну.
+Масова Галюцинацiя - це дисциплiна з областю дiї. Обидва сторожi, якi знаходяться досить близько один до одного, будуть страждати вiд покарань у своїх бойових здiбностях. Озбройтеся своїм залiзним ломом i вбийте їх."	// changed by wesp
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"310"	//182, ws-fix
@@ -26,7 +26,7 @@ Mass Hallucination is an area-of-effect Discipline. Both guards, being fairly cl
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

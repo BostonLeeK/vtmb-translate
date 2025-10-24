@@ -18,10 +18,8 @@ SignData	// added by wesp
 
 	TextBlock
 	{
-		"Text"		"
-
-Wednesday,  22:00
-Gimble's Prostetics
+		"Text"		"Середа, 22:00
+Протези Гiмбла
 310-555-0142"
 		"Font"		"Vamp_Handwriting1"
 		"XPos"		"103"

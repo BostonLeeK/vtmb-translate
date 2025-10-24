@@ -12,10 +12,10 @@ SignData	// added by wesp
 
 	TextBlock
 	{
-		"Text"		"You are a Society of Leopold hunter!
-Instead of blood the hunters use faith. To raise your faith you need to define a Pray key (default F). You can only pray if you are alone and not in combat.
-You will get 250 XP to raise Numina and stats now.
-<<< ATTENTION >>> If your faith bar is red, exit Bloodlines, relaunch it and start a new game! The same procedure is needed if you want to switch back to being a vampire. <<< ATTENTION >>>"
+		"Text"		"Ви - мисливець Суспiльства Леопольда!
+Замiсть кровi мисливцi використовують вiру. Щоб пiдвищити свою вiру, вам потрiбно визначити клавiшу Молитви (за замовчуванням F). Ви можете молитися лише, якщо ви самi i не в бою.
+Ви отримаєте 250 ДВ для пiдвищення Нумiни та статистики зараз.
+<<< УВАГА >>> Якщо ваша смуга вiри червона, вийдiть з Bloodlines, перезапустiть його i почнiть нову гру! Той же процес потрiбно провести, якщо ви хочете повернутися до статусу вампiра. <<< УВАГА >>>"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"310"	//182, ws-fix
 		"Wide"		"375"
@@ -29,7 +29,7 @@ You will get 250 XP to raise Numina and stats now.
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

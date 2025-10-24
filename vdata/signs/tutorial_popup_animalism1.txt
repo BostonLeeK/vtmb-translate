@@ -26,9 +26,9 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"Animalism is the mystical vampiric power that controls nature.
-Animalism is a targeted Discipline. The effect and its length varies with each level.
-Use of Animalism is a Masquerade violation if you are seen activating it."
+		"Text"		"Анiмалiзм - це мiстична вампiрська сила, яка контролює природу.
+Анiмалiзм - це цiльова Дисциплiна. Ефект i тривалiсть його дiї варiюються на кожному рiвнi.
+Використання Анiмалiзму порушує Маскарад, якщо вас бачать пiд час активацiї."
 		"Font"		"ParagraphText"
 		"Font_640"	"Trebuchet"
 		"XPos"		"836"	//324, ws-fix
@@ -41,7 +41,7 @@ Use of Animalism is a Masquerade violation if you are seen activating it."
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

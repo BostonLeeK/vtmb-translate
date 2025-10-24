@@ -12,10 +12,10 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"You've been wounded by the Sabbat.
-This blue bar represents your current level of health. As you sustain regular damage, it will turn black.
-If your health is completely depleted, you suffer Final Death and your game is over.
-Your health regenerates over time. When you are feeding, your health regenerates much faster."
+		"Text"		"Вас поранив Саббат.
+Ця синя смуга вiдображає ваш поточний рiвень здоров'я. Пiд впливом регулярних пошкоджень вона стане чорною.
+Якщо ваше здоров'я повнiстю вичерпане, ви стикаєтеся з Остаточною Смертю, i ваша гра закiнчується.
+Ваше здоров'я вiдновлюється з часом. Пiд час живлення ваше здоров'я вiдновлюється набагато швидше."
 		"Font"		"ParagraphText"
 		"XPos"		"324"
 		"YPos"		"182"
@@ -27,7 +27,7 @@ Your health regenerates over time. When you are feeding, your health regenerates
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"410"
 		"YPos"		"578"	//572
 		"Wide"		"215"

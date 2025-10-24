@@ -10,7 +10,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"CURSED COFFIN?"		// changed by wesp
+		"Text"				"опнйкърхи депеб'ъмхи ъыхй?"		// changed by wesp
 		"Font"				"Headline"
 		"XPos"				"230"
 		"YPos"				"145"
@@ -23,7 +23,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"PROF. JOHANSEN SPEAKS: \"PREPOSTEROUS! THERE IS NO CURSE!\""		// changed by wesp
+		"Text"				"опнт. инцюмяем цнбнпхрэ: "мелнфкхбн! мелю╙ опнйкърръ!""		// changed by wesp
 		"Font"				"Newsprint"
 		"XPos"				"233"
 		"YPos"				"200"

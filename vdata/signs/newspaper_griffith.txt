@@ -10,7 +10,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"GRIFFITH SPARK!"		// changed by wesp
+		"Text"				"√–≤‘≤“ —œ¿– !"		// changed by wesp
 		"Font"				"Headline"
 		"XPos"				"230"
 		"YPos"				"145"
@@ -23,7 +23,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"HISTORIC CITY PARK BURNS LIKE LAST YEAR'S XMAS TREE!"
+		"Text"				"≤—“Œ–»◊Õ»… Ã≤—‹ »… œ¿–  √Œ–»“‹ ﬂ  ﬂÀ»Õ ¿ Ã»Õ”ÀŒ√Œ –Œ ”!"
 		"Font"				"Newsprint"
 		"XPos"				"233"
 		"YPos"				"200"

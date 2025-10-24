@@ -11,9 +11,9 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"NINES SAVES PLAYER FROM SABBAT CINEMATIC PLACEHOLDER
-You enter Downtown LA for the first time.  The Sabbat jump you as soon as your cab leaves.  They're about to carve vengeance out of your flesh in retribution for your warehouse escapade, but they're stopped short by the arrival of Nines Rodriguez and his guns.  They flee, and Nines helps you up.
-If your story state was 5, it has just been set to 10.  Hope you didn't need it for something else."
+		"Text"		"НАЙНС РЯТУЄ ГРАВЦЯ ВІД САББАТУ КІНОМАТИЧНИЙ ЗАПОВНЮВАЧ МІСЦЯ
+Ви вперше заходите в центр Лос-Анджелесу. Саббат нападають на вас, як тiльки ваше таксi вiд'їжджає. Вони майже готовi вирiзати помсту з вашого тiла за вашу втечу з складу, але їх зупиняє прихiд Найнса Родрiгеса та його зброї. Вони втiкають, i Найнс допомагає вам пiднятися.
+Якщо ваш стан iсторiї був 5, вiн тiльки що був встановлений на 10. Сподiваюся, вам не знадобилося це для чогось iншого."
 		"Font"		"ParagraphText"
 		"XPos"		"287"
 		"YPos"		"109"

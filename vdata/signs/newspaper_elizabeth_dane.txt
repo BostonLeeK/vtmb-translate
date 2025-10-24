@@ -23,7 +23,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"AUTHORITIES QUARANTINE MYSTERIOUS VESSEL!"	// changed by wesp
+		"Text"				"нпцюмх гюаегоевеммъ бхгмювючрэ йюпюмрхм дкъ лхяреп╡имнцн ясдмю!"	// changed by wesp
 		"Font"				"Newsprint"
 		"XPos"				"233"
 		"YPos"				"200"

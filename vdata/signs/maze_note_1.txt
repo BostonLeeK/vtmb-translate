@@ -18,8 +18,7 @@ SignData	// added by wesp
 
 	TextBlock
 	{
-		"Text"		"
-What  a  strange  Malkavian,  offers  me  money  to  solve  this  maze.  So  corridors  are  sideways  and  full  of  blood.  Should  this  scare  me?  Only  battling  against  his  crazy  ghouls  does!  And  notes  will  help  me  not  getting  lost..."
+		"Text"		"Яка дивна Малкавiанка, пропонує менi грошi, щоб вирiшити цей лабiринт. Такi коридори боком i повнi кровi. Чи це має мене налякати? Тiльки боротьба з його божевiльними гулами! І записки допоможуть менi не загубитися..."
 		"Font"		"Vamp_Handwriting1"
 		"XPos"		"103"
 		"YPos"		"120"

@@ -10,7 +10,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"CITY HALL COVERUP"
+		"Text"				"опхунбсбюммъ л╡яэйн╞ пюдх"
 		"Font"				"Headline"
 		"XPos"				"230"	// changed by wesp
 		"YPos"				"145"
@@ -23,7 +23,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"\"HAUNTED\" SEWERS BRICKED OVER! BODIES NEVER FOUND!"	// changed by wesp
+		"Text"				"\"ная╡дюм╡\" йюмюк╡гюж╡им╡ рпсах гюлспнбюм╡! р╡кю м╡йнкх ме гмюидем╡!"	// changed by wesp
 		"Font"				"Newsprint"
 		"XPos"				"233"	// changed by wesp
 		"YPos"				"200"

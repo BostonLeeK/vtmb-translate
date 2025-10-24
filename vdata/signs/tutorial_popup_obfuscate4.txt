@@ -12,8 +12,8 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"There is a guard up ahead. Use Obfuscate to sneak past him.
-Scroll the mouse wheel to select Obfuscate, and use the Power key (default right-click) to activate it. Remember, Obfuscate is a passive Discipline. Pay attention to the Discipline timer on the bottom-right of your screen."	// changed by wesp
+		"Text"		"Там сторож попереду. Використовуйте Обфускацiю, щоб прокрастися повз нього.
+Прокрутiть колесо мишi, щоб вибрати Обфускацiю, i використовуйте клавiшу Сили (за замовчуванням правий клiк), щоб активувати її. Пам'ятайте, що Обфускацiя - це пасивна Дисциплiна. Звернiть увагу на таймер Дисциплiни внизу справа на вашому екранi."	// changed by wesp
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"310"	//182, ws-fix
@@ -25,7 +25,7 @@ Scroll the mouse wheel to select Obfuscate, and use the Power key (default right
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

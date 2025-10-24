@@ -18,7 +18,7 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"Perception  at  once  shapes  the  Mind  and  rules  over  Time.  Time,  however,  erodes  human  Perception  and  then  in  turn  warps  the  Mind.  The  Mind  is  capricious,  having  various  effects  on  Perception,  Time,  and  the  Mind  itself...  with  harmony,  progress  is  made."
+		"Text"		"Сприйняття одночасно формує Розум i править часом. Час, однак, руйнує людське сприйняття, а потiм спотворює Розум. Розум капризний, маючи рiзноманiтнi впливи на Сприйняття, Час та сам Розум... з гармонiєю досягається прогрес."
 		"Font"		"Vamp_Handwriting1"
 		"XPos"		"103"
 		"YPos"		"120"

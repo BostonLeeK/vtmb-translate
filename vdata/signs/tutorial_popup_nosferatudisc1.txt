@@ -54,10 +54,10 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"Nosferatu have three unique Disciplines.
-Animalism: The supernatural control of nature.
-Obfuscate: Vampiric invisibility.
-Potence: Colossal vampiric strength."
+		"Text"		"Носферату мають три унiкальнi Дисциплiни.
+1. Анiмалiзм: надприродний контроль над природою.
+2. Обфускацiя: вампiрська невидимiсть.
+3. Потенцiя: колосальна вампiрська сила."
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"460"	//332, ws-fix
@@ -69,7 +69,7 @@ Potence: Colossal vampiric strength."
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

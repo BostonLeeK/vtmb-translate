@@ -26,8 +26,8 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"Bloodbuff is another ability common to all vampires. Scroll the mouse wheel to select Bloodbuff, and use the Power key (default right-click) to activate it. 
-Bloodbuff gives you a temporary bonus to all of your physical attributes. It is useful in a variety of situations, like picking a lock that would otherwise be too difficult. Note: in Elysium areas, you can use Bloodbuff while picking a lock only."	// changed by wesp
+		"Text"		"Кровобуст - ще одна здатнiсть, що є загальною для всiх вампiрiв. Прокрутiть колесо мишi, щоб вибрати Кровобуст, i використовуйте клавiшу Сили (за замовчуванням правий клiк), щоб активувати її.
+Кровобуст надає вам тимчасовий бонус до всiх ваших фiзичних атрибутiв. Це корисно в рiзних ситуацiях, наприклад, при вiдкриттi замка, який iнакше був би занадто складним. Примiтка: в областях Елiзiуму ви можете використовувати Кровобуст лише пiд час вiдкриття замка."	// changed by wesp
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"435"	//307, ws-fix
@@ -39,7 +39,7 @@ Bloodbuff gives you a temporary bonus to all of your physical attributes. It is 
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

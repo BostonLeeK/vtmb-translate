@@ -26,9 +26,9 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"When you approach a container, you will see this Use icon.
-Press the Use key (default E) to open it. If it is locked, try your lockpick.
-Once opened, your inventory appears on the left side of the screen, and the container's contents are on the right. Select items with any mouse button."	// changed by wesp
+		"Text"		"Коли ви пiдходите до контейнера, ви побачите цю iконку Використання.
+Натиснiть клавiшу Використання (за замовчуванням E), щоб вiдкрити його. Якщо вiн заблокований, спробуйте вiдкрити його замок.
+Пiсля вiдкриття ваш iнвентар з'явиться злiва екрану, а вмiст контейнера - справа. Виберiть предмети будь-якою кнопкою мишi."	// changed by wesp
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"460"	//332, ws-fix
@@ -40,7 +40,7 @@ Once opened, your inventory appears on the left side of the screen, and the cont
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

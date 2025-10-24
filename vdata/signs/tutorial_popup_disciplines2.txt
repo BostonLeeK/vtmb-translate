@@ -12,8 +12,8 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"Passive Disciplines, like Bloodbuff, last for a certain amount of time. When you activate them, you will see a time bar just to the left of the Discipline icon.
-This bar tells you how long the Discipline will last. Different Disciplines last for different amounts of time. You can stop passive Disciplines by pressing the Power key (default right-click) again or using the End key (default F8)."	// changed by wesp
+		"Text"		"Пасивнi Дисциплiни, такi як Кров'яний Буст, тривають протягом певного часу. Пiсля їх активацiї ви побачите панель часу праворуч вiд пiктограми Дисциплiни.
+Ця панель показує, як довго триватиме Дисциплiна. Рiзнi Дисциплiни тривають рiзну кiлькiсть часу. Ви можете зупинити пасивнi Дисциплiни, натиснувши клавiшу Повновладдя (за замовчуванням правий клiк) ще раз або використовуючи клавiшу Кiнець (за замовчуванням F8)."	// changed by wesp
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"310"	//182, ws-fix
@@ -25,7 +25,7 @@ This bar tells you how long the Discipline will last. Different Disciplines last
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

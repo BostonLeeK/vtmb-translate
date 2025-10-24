@@ -54,10 +54,10 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"Ventrue have three unique disciplines.
-Dominate: The ability to bend people to your will.
-Fortitude: Preternatural toughness and constitution.
-Presence: The mystical projection of personality, inspiring fear and awe."	// changed by wesp
+		"Text"		"1. Вентру мають три унiкальнi дисциплiни.
+Dominate: Здатнiсть змушувати людей виконувати вашу волю.
+Fortitude: Надприродна стiйкiсть та конституцiя.
+Presence: Мiстична проекцiя особистостi, що надихає страх та трепет."	// changed by wesp
 		"Font"		"ParagraphText"
 		"XPos"		"836"	//324, ws-fix
 		"YPos"		"460"	//332, ws-fix
@@ -69,7 +69,7 @@ Presence: The mystical projection of personality, inspiring fear and awe."	// ch
 
 	TextBlock
 	{
-		"Text"		"left-click to continue"
+		"Text"		"Клацнiть лiвою кнопкою мишi, щоб продовжити."
 		"XPos"		"922"	//410, ws-fix
 		"YPos"		"706"	//572, ws-fix
 		"Wide"		"215"

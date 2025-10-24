@@ -32,19 +32,19 @@ QuestTable
 	Quest
 	{
 		"Title"		"Courier"
-		"DisplayName"	"Dead Ex"
+		"DisplayName"	"Мертвий Екс"
 
 		CompletionState
 		{
 			"ID"		"1"
-			"Description"	"Isaac is demanding tribute from you before he will help in your search for the Nosferatu. He has sent you to Ground 0, the Internet cafй, to get directions on where to meet his contact. You are to find a computer with the directory named \"josefk\" and use the password \"kafka\" to access it."
+			"Description"	"Ісаак вимагає вiд вас дань, перш нiж допоможе вам у пошуках Носферату. Вiн вiдправив вас на Початкову позицiю, в Інтернет-кафе, щоб отримати вказiвки, де зустрiтися з його контактом. Вам потрiбно знайти комп'ютер з каталогом пiд назвою \"josefk\" and use the password \"kafka\" to access it."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
-			"ID"		"2" // set on Internet cafй computer
-			"Description"	"You are to meet with Isaac's contact in the alley behind the Fast Buck to pick up an item for Isaac."
+			"ID"		"2" // set on Internet caf computer
+			"Description"	"Вам слiд зустрiтися з контактом Ісаака в переулку за Fast Buck, щоб забрати предмет для Ісаака."
 			"Type"		"incomplete"
 			"AwardXP"	"Dead01"
 		}
@@ -52,22 +52,22 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3" // Courier 81
-			"Description"	"You met with Isaac's courier, who was a bit freaked out. He told you he stashed the tape someplace safe, but the only clue you have are the words \"Ginger Swans\"."
+			"Description"	"Ви зустрiлися з кур'єром Ісаака, який був трохи наляканий. Вiн сказав вам, що вiн сховав касету в безпечному мiсцi, але єдиний пiдказка, яку у вас є, - це слова \"Ginger Swans\"."
 			"Type"		"incomplete"
 			"AwardXP"	"Dead02"
 		}
 
 		CompletionState
 		{
-			"ID"		"4" //	set on Internet cafй computer
-			"Description"	"Isaac's courier told you he stashed the tape someplace safe, but the only clue you have are the words \"Ginger Swans\". You have since discovered that Ginger Swan is a deceased movie star."
+			"ID"		"4" //	set on Internet caf computer
+			"Description"	"Кур'єр Ісаака сказав вам, що вiн сховав касету в безпечному мiсцi, але єдиним пiдказкою є слова \"Ginger Swans\". You have since discovered that Ginger Swan is a deceased movie star."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"5" // got tape from tomb
-			"Description"	"You have discovered the tape Isaac has been looking for, hidden in Ginger Swan's tomb. It is extremely worn, and the only discernable markings on it say \"Devilspawn Fleshfeast\" and \"DMP\". Bring the tape back to Isaac."
+			"Description"	"Ви виявили касету, яку шукав Ісаак, приховану в гробницi Джинджер Свон. Вона дуже зношена, i єдинi розпiзнаванi позначки на нiй говорять \"Devilspawn Fleshfeast\" and \"DMP\". Bring the tape back to Isaac."
 			"Type"		"incomplete"
 			"AwardXP"	"Dead03"
 		}
@@ -75,7 +75,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"6" // Isaac 381, changed by wesp
-			"Description"	"You have brought Isaac the tape he has been looking for."
+			"Description"	"Ви принесли Ісааку той касету, яку вiн шукав."
 			"Type"		"success"
 			"AwardXP"	"Dead04"
 		}
@@ -84,19 +84,19 @@ QuestTable
 	Quest
 	{
 		"Title"		"Gargoyle"
-		"DisplayName"	"Gargoyle Removal Service"
+		"DisplayName"	"Служба видалення гаргуль."
 
 		CompletionState
 		{
 			"ID"		"1" //	Isaac 521
-			"Description"	"Isaac wants you to \"take care of\" the Gargoyle that has taken up residence in the old Asian Theater."
+			"Description"	"Ісаак хоче, щоб ви \"take care of\" the Gargoyle that has taken up residence in the old Asian Theater."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Gargoyle 121 changed by wesp
-			"Description"	"You have convinced the Gargoyle to ally himself with Isaac Abrams against the Camarilla, thereby removing the threat to the Kindred of Hollywood. Go tell him."
+			"Description"	"Ви переконали Гаргулью укластися союзом з Ісааком Абрамсом проти Камарiли, тим самим усунувши загрозу для Кiндренду Голлiвуду. Пiдкажiть йому."
 			"Type"		"incomplete"
 			"AwardXP"	"Gargoyle02"
 		}
@@ -104,7 +104,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3" // killed gargoyle
-			"Description"	"You have destroyed the Gargoyle at the request of the Baron of Hollywood, Isaac Abrams. Go tell him."
+			"Description"	"Ви знищили Гаргулью за запитом Барона Голлiвуду, Айзека Абрамса. Пiдiть i повiдомте йому."
 			"Type"		"incomplete"
 			"AwardXP"	"Gargoyle01"
 		}
@@ -112,42 +112,42 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4" //	Isaac 521
-			"Description"	"Isaac wants you to \"take care of\" the Gargoyle that has taken up residence in the old Asian Theater. You picked up a book about Gargoyles at the Tremere chantry downtown. Perhaps you should pay Maximillian Strauss, the Tremere regent, a visit."
+			"Description"	"Ісаак хоче, щоб ви \"take care of\" the Gargoyle that has taken up residence in the old Asian Theater. You picked up a book about Gargoyles at the Tremere chantry downtown. Perhaps you should pay Maximillian Strauss, the Tremere regent, a visit."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"5" // added by wesp
-			"Description"	"You told Isaac Abrams that you solved his Gargoyle problem."
+			"Description"	"Ви сказали Ісааку Абрамсу, що вирiшили його проблему з Гаргойлем."
 			"Type"		"success"
 		}
 
 		CompletionState
 		{
 			"ID"		"6" // added by wesp
-			"Description"	"You have destroyed the Gargoyle after you already convinced him to ally with Isaac Abrams. What a waste! Go tell him."
+			"Description"	"Ви знищили Гаргулью пiсля того, як вже переконали його стати союзником Айзека Абрамса. Яка втрата! Пiдiть i розкажiть йому."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"7" // added by wesp
-			"Description"	"You told Isaac Abrams that you solved his Gargoyle problem. Maybe you should tell the Tremere regent about this too."
+			"Description"	"Ви повiдомили Ісааку Абрамсу, що вирiшили його проблему з Гаргойлем. Можливо, вам слiд також повiдомити про це регента Тремерiв."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"8" // added by wesp
-			"Description"	"You told Isaac Abrams that you solved his Gargoyle problem. No need to tell the Tremere regent now that you betrayed him."
+			"Description"	"Ви повiдомили Айзеку Абрамсу, що вирiшили його проблему з Гаргойлем. Немає потреби розповiдати тепер регенту Тремерiв, що ви його зрадили."
 			"Type"		"success"
 		}
 
 		CompletionState
 		{
 			"ID"		"9" // added by wesp
-			"Description"	"You told the Tremere regent that you solved the Gargoyle problem. Don't forget Isaac Abrams."
+			"Description"	"Ви повiдомили регенту Тремерiв, що вирiшили проблему з гаргойлями. Не забудьте про Айзека Абрамса."
 			"Type"		"incomplete"
 		}
 
@@ -156,19 +156,19 @@ QuestTable
 	Quest
 	{
 		"Title"		"Strip"
-		"DisplayName"	"Hot Stripper Assassin Action!"
+		"DisplayName"	"Гаряча вбивця-стрiптизерка в дiї!"
 
 		CompletionState
 		{
 			"ID"		"1" //	VV 311
-			"Description"	"VV has discovered a hunter in Hollywood, working as a stripper by the name of Chastity at the Sin Bin. She wants you to take care of her, but not kill any innocents if possible."
+			"Description"	"VV виявила мисливця в Голлiвудi, який працює стриптизеркою пiд iм'ям Частiтi в "Сiн Бiнi". Вона хоче, щоб ви позбавилися вiд неї, але якщо можливо, не вбивайте невинних."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Kill Chastity
-			"Description"	"You have eliminated the hunter, Chastity, for VV at the Vesuvius. She will want to know."
+			"Description"	"Ви усунули мисливця, Частитi, за ВВ у Везувiусi. Вона захоче знати."
 			"Type"		"incomplete"
 			"AwardXP"	"Strip01"
 		}
@@ -176,7 +176,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3" // VV 331, 631, 891
-			"Description"	"You have told VV that the hunter, Chastity, has been eliminated."
+			"Description"	"Ви повiдомили VV, що мисливець, Чистота, був усунутий."
 			"Type"		"success"
 			"AwardXP"	"Strip02"
 		}
@@ -184,7 +184,7 @@ QuestTable
 		CompletionState	// added by wesp
 		{
 			"ID"		"4" // Killed Misti
-			"Description"	"You killed Misti, so VV will no longer speak with you."
+			"Description"	"Ви вбили Мiстi, тому ВВ бiльше не буде спiлкуватися з вами."
 			"Type"		"failure"
 		}
 
@@ -193,19 +193,19 @@ QuestTable
 	Quest
 	{
 		"Title"		"Writer"
-		"DisplayName"	"B-Rated Writer"
+		"DisplayName"	"Письменник B-рiвня"
 
 		CompletionState
 		{
 			"ID"		"1" //	VV 591
-			"Description"	"David Hatter is a writer who works as the night clerk at the Luckee Star motel. He has written a screenplay about Kindred society with an unknown collaborator. The manuscript and the collaborator must be destroyed, but VV wants you to spare Hatter."
+			"Description"	"Девiд Геттер - письменник, який працює нiчним клерком в мотелi "Лакi Стар". Вiн написав сценарiй про суспiльство Кiндрiв з невiдомим спiвавтором. Рукопис та спiвавтор повиннi бути знищенi, але ВВ хоче, щоб ви пощадили Геттера."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Hatter 131, 141, 271
-			"Description"	"You have been successful in your quest to obtain David Hatter's collaborator's name. It's Julius, one of the thin-bloods that hangs out on the beach in Santa Monica."
+			"Description"	"Вам вдалося успiшно завершити свою мiсiю з отримання iменi спiвробiтника Девiда Хаттера. Це Юлiй, один з тонкокровних, який часто зустрiчається на пляжi у Санта-Монiцi."
 			"Type"		"incomplete"
 			"AwardXP"	"Writer02"
 		}
@@ -213,21 +213,21 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3" // VV 761, 881
-			"Description"	"You killed David Hatter and were stupid enough to tell VV about it. She will no longer speak with you."
+			"Description"	"Ви вбили Девiда Хеттера i були настiльки дурнi, щоб розповiсти про це Вi-Вi. Вона бiльше не буде розмовляти з вами."
 			"Type"		"failure"
 		}
 
 		CompletionState
 		{
 			"ID"		"4" // Killed Hatter
-			"Description"	"You killed David Hatter before getting his collaborator's name. Good going, ace."
+			"Description"	"Ти вбив Девiда Хеттера, не дiзнавшись iм'я його спiльника. Молодець, асе."
 			"Type"		"failure"
 		}
 
 		CompletionState
 		{
 			"ID"		"5" // Killed Julius
-			"Description"	"You killed Julius, David Hatter's collaborator. You should tell VV about this."
+			"Description"	"Ви вбили Юлiя, спiвробiтника Девiда Хеттера. Вам слiд повiдомити про це ВВ."
 			"Type"		"incomplete"
 			"AwardXP"	"Writer03"
 		}
@@ -235,7 +235,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"6" // VV 741
-			"Description"	"You killed Julius, David Hatter's collaborator, thereby protecting the Masquerade."
+			"Description"	"Ви вбили Юлiя, спiвробiтника Девiда Хеттера, тим самим захистивши Маскарад."
 			"Type"		"success"
 			"AwardXP"	"Writer04"
 		}
@@ -243,7 +243,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"7" // VV 731
-			"Description"	"You delivered the manuscript to VV, but refused to kill Hatter's collaborator."
+			"Description"	"Ви передали рукопис VV, але вiдмовилися вбити спiвробiтника Хеттера."
 			"Type"		"success"
 			"AwardXP"	"Writer05"
 		}
@@ -251,7 +251,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"8" // Hatter 101, 111, 151, 161, 341
-			"Description"	"You got the manuscript from David Hatter. Now you must get him to tell you the name of his collaborator."
+			"Description"	"Ви отримали рукопис вiд Девiда Хеттера. Тепер вам потрiбно дiзнатися вiд нього iм'я його спiвавтора."
 			"Type"		"incomplete"
 			"AwardXP"	"Writer01"
 		}
@@ -259,14 +259,14 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"9" // Julius 111, changed by wesp
-			"Description"	"You allowed Hatter's collaborator, Julius, to flee town with the understanding he is never to return. You should inform VV that he's been taken care of."
+			"Description"	"Ви дозволили спiвробiтнику Хеттера, Юлiусу, втекти з мiста з розумiнням, що вiн нiколи не повернеться. Вам слiд повiдомити VV, що вiн був врегульований."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"10" // VV 741
-			"Description"	"You allowed Hatter's collaborator, Julius, to flee town with the understanding he is never to return, thereby protecting the Masquerade in Los Angeles."
+			"Description"	"Ви дозволили спiвробiтнику Хеттера, Юлiусу, втекти з мiста з розумiнням, що вiн нiколи не повернеться, тим самим захищаючи Маскерад у Лос-Анджелесi."
 			"Type"		"success"
 			"AwardXP"	"Writer04"
 		}
@@ -274,7 +274,7 @@ QuestTable
 		CompletionState	// added by wesp
 		{
 			"ID"		"11" // Killed Misti
-			"Description"	"You killed Misti, so VV will no longer speak with you."
+			"Description"	"Ви вбили Мiстi, тому ВВ бiльше не буде спiлкуватися з вами."
 			"Type"		"failure"
 		}
 
@@ -283,26 +283,26 @@ QuestTable
 	Quest
 	{
 		"Title"		"Hunters"
-		"DisplayName"	"Hunters Hunting"
+		"DisplayName"	"Ловцi полюють"
 
 		CompletionState
 		{
 			"ID"		"1" //	Ash 304, 305, 324, 325
-			"Description"	"You have offered to help Ash escape the hunters by leading him through the Hollywood sewers."
+			"Description"	"Ви запропонували допомогти Ешу втекти вiд мисливцiв, провiвши його через каналiзацiю Голлiвуду."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Ash 302, 322
-			"Description"	"You have offered to help Ash avoid the hunters by convincing a look-alike to switch clothes with him."
+			"Description"	"Ви запропонували допомогти Ешу уникнути мисливцiв, переконавши двiйника помiнятися одягом з ним."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"3" // Ash 441
-			"Description"	"You were successful in your attempt to fool Ash's hunters by having Ash change clothes with some poor chump."
+			"Description"	"Ви успiшно обманули мисливцiв Аш, дозволивши Ашу помiнятися одягом з якимось нещасним дурнем."
 			"Type"		"success"
 			"AwardXP"	"Hunters01"
 		}
@@ -310,7 +310,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4" // Ash 491
-			"Description"	"You were successful at leading Ash through the Hollywood sewers to evade the hunters."
+			"Description"	"Ви успiшно провели Еша через каналiзацiю Голлiвуду, щоб уникнути полювання на нього."
 			"Type"		"success"
 			"AwardXP"	"Hunters01"
 		}
@@ -318,7 +318,7 @@ QuestTable
 		CompletionState	// added by wesp
 		{
 			"ID"		"5" // Ash 531
-			"Description"	"You didn't help Ash in Hollywood and he got caught by the hunters."
+			"Description"	"Ви не допомогли Ешу в Голлiвудi, i його спiймали мисливцi."
 			"Type"		"failure"
 		}
 	}
@@ -326,19 +326,19 @@ QuestTable
 	Quest
 	{
 		"Title"		"Romero"
-		"DisplayName"	"You Only Die Once A Night"
+		"DisplayName"	"Ви помираєте лише один раз за нiч"
 
 		CompletionState
 		{
 			"ID"		"1" // Romero	161
-			"Description"	"Romero wants you to watch the cemetery for five minutes while he takes care of important business. Don't let the zombies break through the gates!"
+			"Description"	"Ромеро просить вас стежити за цвинтарем протягом п'яти хвилин, поки вiн займається важливими справами. Не дозволяйте зомбi прорватися через ворота!"
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Romero 211
-			"Description"	"You successfully kept the zombies from spilling out into Hollywood."
+			"Description"	"Ви успiшно утримали зомбi вiд виливання в Голлiвуд."
 			"Type"		"success"
 			"AwardXP"	"Romero01"
 		}
@@ -346,7 +346,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3" // Romero 171
-			"Description"	"You let the zombies break through the gates and eat people in Hollywood."
+			"Description"	"Ви дозволили зомбi прорвати ворота i з'їсти людей в Голлiвудi."
 			"Type"		"failure"
 		}
 	}
@@ -354,19 +354,19 @@ QuestTable
 	Quest
 	{
 		"Title"		"Tommy"
-		"DisplayName"	"A Dish Best Served Cold"
+		"DisplayName"	"Страва, яку подають холодно"
 
 		CompletionState
 		{
 			"ID"		"1" // Email
-			"Description"	"The prince has contacted you through email and asked that you convince food critic Tommy Flayton to give the Cavoletti Cafй a bad review."
+			"Description"	"Князь зв'язався з вами по електроннiй поштi i попросив переконати кулiнарного критика Томмi Флейтона дати кафе Cavoletti погану рецензiю."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Tommy 71, 91, 101, changed by wesp
-			"Description"	"You were successful in your attempt to get Tommy Flayton to give the Cavoletti Cafй a bad review. Better check your email some time soon."
+			"Description"	"Ви успiшно змогли переконати Томмi Флейтона написати погану рецензiю на кафе "Каволеттi". Краще перевiрте свою електронну пошту найближчим часом."
 			//changed by dan_upright 29/11/04
 			"Type"		"incomplete"
 			//changes end
@@ -375,7 +375,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3" // Tommy 179, 149, or kill Tommy, changed by wesp
-			"Description"	"You have failed to make Tommy Flayton give the Cavoletti Cafй a bad review."
+			"Description"	"Ви не змогли змусити Томмi Флейтона написати погану рецензiю на кафе Cavoletti."
 			"Type"		"failure"
 		}
 
@@ -383,7 +383,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4" // Tommy 71, 91, 101, changed by wesp
-			"Description"	"LaCroix has sent you a reward for getting Tommy Flayton to give the Cavoletti Cafй a bad review."
+			"Description"	"ЛаКруа вислав вам винагороду за те, що ви змусили Томмi Флейтона дати кафе Cavoletti погану рецензiю."
 			"Type"		"success"
 			"AwardXP"		"Tommy01"
 		}
@@ -393,40 +393,40 @@ QuestTable
 	Quest
 	{
 		"Title"		"Imalia"
-		"DisplayName"	"Model Citizen"
+		"DisplayName"	"Модельний громадянин"
 
 		CompletionState
 		{
 			"ID"		"1" // Imalia 141
-			"Description"	"Imalia wants you to plant and activate cameras in Tawni Sessions' apartment in Hollywood - one in her bedroom, one in her bathroom, and one in her kitchen."
+			"Description"	"Імалiя хоче, щоб ви встановили та активували камери в квартирi Тонi Сешнс у Голлiвудi - одну в її спальнi, одну в її ваннiй кiмнатi та одну в її кухнi."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // plant cameras
-			"Description"	"You successfully planted the cameras in Tawni's apartment for Imalia. Login to Tawni's computer using the password \"cleopatra\" to activate the cameras."
+			"Description"	"Ви успiшно встановили камери в квартирi Тонi для Імалi. Увiйдiть на комп'ютер Тонi, використовуючи пароль \"cleopatra\" to activate the cameras."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"3" // activate cameras
-			"Description"	"You have activated the cameras in Tawni's apartment for Imalia. Return to her and report your progress."
+			"Description"	"Ви активували камери в квартирi Тонi для Імалiї. Повернiться до неї i повiдомте про свiй прогрес."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"4" // killed Tawny
-			"Description"	"You killed Imalia's rival, Tawni, even though you were instructed not to."
+			"Description"	"Ви вбили суперницю Імалi, Тонi, незважаючи на iнструкцiї не робити цього."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"5" // Imalia 231
-			"Description"	"Imalia is overjoyed that you were able to plant the cameras for her to dig up dirt on Tawni Sessions."
+			"Description"	"Імалiя в захватi, що ви змогли встановити камери для того, щоб вона могла зiбрати компромат на Тонi Сешнс."
 			"Type"		"success"
 			"AwardXP"	"Imalia01"
 		}
@@ -434,7 +434,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"6" // Imalia 251
-			"Description"	"Imalia is rather upset with you for killing Tawni Sessions and making a \"martyr\" out of her. Though she did admit that Tawni being dead is better than nothing."
+			"Description"	"Імалiя досить обурена вами за вбивство Тонi Сешнс та створення \"martyr\" out of her. Though she did admit that Tawni being dead is better than nothing."
 			"Type"		"success"
 			"AwardXP"	"Imalia02"
 		}
@@ -442,14 +442,14 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"7" // Imalia 311, 331, changed by Wesp
-			"Description"	"You botched the setup for Imalia because you were noticed."
+			"Description"	"Ви зiпсували налаштування для Імалi через те, що вас помiтили."
 			"Type"		"failure"
 		}
 
 		CompletionState
 		{
 			"ID"		"8" // Imalia (various)
-			"Description"	"You have pissed off Imalia to the point where she will no longer speak with you."
+			"Description"	"Ви настiльки розлютили Імалiю, що вона бiльше не бажає спiлкуватися з вами."
 			"Type"		"failure"
 		}
 	}
@@ -457,39 +457,39 @@ QuestTable
 	Quest
 	{
 		"Title"		"Guy"
-		"DisplayName"	"Cover Girl"
+		"DisplayName"	"Обкладинка Дiвчина"
 
 		CompletionState
 		{
 			"ID"		"1" // Imalia 361, changed by Wesp
-			"Description"	"Imalia wants you to find her a copy of Guy magazine."
+			"Description"	"Імалiя хоче, щоб ви знайшли для неї копiю журналу "Guy"."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Flynn 431, changed by Wesp
-			"Description"	"You found Imalia's copy of Guy magazine, now deliver it to her."
+			"Description"	"Ви знайшли копiю журналу "Guy" Імалiї, тепер доставте його їй."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"3" // Imalia 326, changed by Wesp
-			"Description"	"You gave Imalia a copy of her issue of Guy magazine."
+			"Description"	"Ви дали Імалiї копiю її номера журналу "Guy"."
 			"Type"		"success"
 		}
 
 		CompletionState
 		{
 			"ID"		"4" // Imalia (various)
-			"Description"	"You have pissed off Imalia to the point where she will no longer speak with you."
+			"Description"	"Ви настiльки розлютили Імалiю, що вона бiльше не бажає спiлкуватися з вами."
 			"Type"		"failure"
 		}
 		CompletionState
 		{
 			"ID"		"5" // Flynn killed, added by wesp
-			"Description"	"You have killed your only source to get Imalia's magazine."
+			"Description"	"Ви вбили своєдине джерело, щоб отримати журнал Імалiї."
 			"Type"		"failure"
 		}
 	}
@@ -497,26 +497,26 @@ QuestTable
 	Quest
 	{
 		"Title"		"Mitnick"
-		"DisplayName"	"A Tangled Web"
+		"DisplayName"	"Заплутана павутина"
 
 		CompletionState
 		{
 			"ID"		"1"
-			"Description"	"You have agreed to help Mitnick set up a new Nosferatu network. He will be contacting you with instructions via your email account back at your haven."
+			"Description"	"Ви погодилися допомогти Мiтнiку створити нову мережу Носферату. Вiн зв'яжеться з вами з iнструкцiями через ваш облiковий запис електронної пошти у вашому притулку."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2"
-			"Description"	"You have received instructions on how to activate the Santa Monica network hub. You need to find Megahurtz Computing at the end of 2nd Street, and enter through the alleyway behind the building. Mitnick has left you the key in your mailbox. Power up the terminal, find the \"Net Security\" folder and run the \"schrecknet\" command. The password on the folder is \"Gil Bates\"."
+			"Description"	"Ви отримали iнструкцiї щодо активацiї мережевого хаба Санта-Монiки. Вам потрiбно знайти компанiю Megahurtz Computing на кiнцi 2-ї вулицi та увiйти через прохiд за будiвлею. Мiтнiк залишив вам ключ у вашiй поштовiй скриньцi. Увiмкнiть термiнал, знайдiть \"Net Security\" folder and run the \"schrecknet\" command. The password on the folder is \"Gil Bates\"."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"3"
-			"Description"	"You have successfully activated the Santa Monica hub for the Nosferatu network. Mitnick will be contacting you shortly via email with new instructions."
+			"Description"	"Ви успiшно активували центр Санта-Монiка для мережi Носферату. Мiтнiк зв'яжеться з вами незабаром по електроннiй поштi з новими iнструкцiями."
 			"Type"		"incomplete"
 			"AwardXP"	"Web01"
 		}
@@ -524,14 +524,14 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4"
-			"Description"	"You have received instructions on how to activate the downtown network hub. You need to enter the Nocturne Theatre through the sewers, mount a wireless camera near the red X, and activate it through the network terminal (which is in the basement of the theater). Mitnick has left you the camera in your mailbox. After it is activated, login to the \"Net Security\" folder and run \"schrecknet\". The password is \"Break a Leg\". It is VERY important that you are not seen while you are there."
+			"Description"	"Ви отримали iнструкцiї щодо активацiї мережевого вузла в центрi мiста. Вам потрiбно пройти в театр "Ноктюрн" через каналiзацiю, встановити бездротову камеру бiля червоного Х та активувати її через мережевий термiнал (який знаходиться в пiдвалi театру). Мiтнiк залишив вам камеру у вашiй поштовiй скриньцi. Пiсля активацiї увiйдiть в систему \"Net Security\" folder and run \"schrecknet\". The password is \"Break a Leg\". It is VERY important that you are not seen while you are there."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"5"
-			"Description"	"You have successfully activated the downtown hub for the Nosferatu network. Mitnick will be contacting you shortly via email with new instructions."
+			"Description"	"Ви успiшно активували центральний вузол мережi Носферату в центрi мiста. Мiтнiк зв'яжеться з вами незабаром по електроннiй поштi з новими iнструкцiями."
 			"Type"		"incomplete"
 			"AwardXP"	"Web02"
 		}
@@ -539,14 +539,14 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"6"	// changed by wesp
-			"Description"	"You have received instructions on how to activate the Hollywood hub for the Nosferatu network. You need to enter Metalhead Industries in Hollywood (Mitnick has left the key in your mailbox), and activate the terminal. Mitnick said that the terminal is in \"Operations\", which is on the second floor of the warehouse. It is VERY important that you are not seen while you are there and don't kill anyone."
+			"Description"	"Ви отримали iнструкцiї щодо активацiї головного вузла для мережi Носферату в Голлiвудi. Вам потрiбно увiйти в Metalhead Industries в Голлiвудi (Мiтнiк залишив ключ у вашiй поштовiй скриньцi) та активувати термiнал. Мiтнiк сказав, що термiнал знаходиться в \"Operations\", which is on the second floor of the warehouse. It is VERY important that you are not seen while you are there and don't kill anyone."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"7"
-			"Description"	"You have successfully activated the Hollywood hub for the Nosferatu network. Mitnick will be contacting you shortly via email with new instructions."
+			"Description"	"Ви успiшно активували Голлiвудський хаб для мережi Носферату. Мiтнiк зв'яжеться з вами незабаром по електроннiй поштi з новими iнструкцiями."
 			"Type"		"incomplete"
 			"AwardXP"	"Web03"
 		}
@@ -554,14 +554,14 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"8"	// changed by wesp
-			"Description"	"You have received instructions on how to activate the Chinatown hub for the Nosferatu network. You need to enter a company named Kamikazi Zen (Mitnick has left the key in your mailbox) and activate the terminal, which is in the server room. An inside agent has put a virus named \"hooligan\" on one of the office terminals. Find the file and execute it. This will shut down the power, allowing you to get past the heavy security door. Somewhere behind this door is the server room. You better also steal something out of the electronic safe to throw investigators off the scent."
+			"Description"	"Ви отримали iнструкцiї щодо активацiї центру в Чайнатаунi для мережi Носферату. Вам потрiбно увiйти в компанiю пiд назвою Kamikazi Zen (Мiтнiк залишив ключ у вашiй поштовiй скриньцi) та активувати термiнал, який знаходиться в сервернiй кiмнатi. Внутрiшнiй агент встановив вiрус пiд назвою \"hooligan\" on one of the office terminals. Find the file and execute it. This will shut down the power, allowing you to get past the heavy security door. Somewhere behind this door is the server room. You better also steal something out of the electronic safe to throw investigators off the scent."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"9"
-			"Description"	"You have successfully activated all of the hubs for Mitnick. The new Nosferatu network is up and operational."
+			"Description"	"Ви успiшно активували всi вузли для Мiтнiка. Нова мережа Носферату працює i готова до використання."
 			"Type"		"success"
 			"AwardXP"	"Web04"
 		}
@@ -569,7 +569,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"10"
-			"Description"	"You have failed to set up the Nosferatu network."
+			"Description"	"Ви не вдалося налаштувати мережу Носферату."
 			"Type"		"failure"
 		}
 	}
@@ -577,40 +577,40 @@ QuestTable
 	Quest
 	{
 		"Title"		"Loser"
-		"DisplayName"	"Pimpin' For Romero"
+		"DisplayName"	"Пiдтримка Ромеро"
 
 		CompletionState
 		{
 			"ID"		"1" // Romero 621
-			"Description"	"Romero is in dire need of some illicit lovin'. You have offered to bring a lady of the evening to his luxurious digs in the cemetery."
+			"Description"	"Ромеро дуже потребує нелегкої любовi. Ви запропонували привести ледi ночi до його розкiшних примiщень на цвинтарi."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Prostitute
-			"Description"	"Now that you've convinced a sleazy streetwalker to give it up for Romero, you need to deliver her to his shack of love."
+			"Description"	"Тепер, коли ви переконали пiдлий стрiтвокер вiддати себе на волю Ромеро, вам потрiбно доставити її до його хижини любовi."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"3" // Romero 701
-			"Description"	"You have given up on the near impossible task of finding someone to give Romero some lovin'."
+			"Description"	"Ви вiдмовилися вiд майже неможливого завдання знайти когось, хто зможе полюбити Ромеро."
 			"Type"		"failure"
 		}
 
 		CompletionState
 		{
 			"ID"		"4" // Romero Death
-			"Description"	"You have killed Romero, thereby making his yearnin' for love inconsequential."
+			"Description"	"Ти вбив Ромеро, тим самим зробивши його прагнення до кохання неважливим."
 			"Type"		"failure"
 		}
 
 		CompletionState
 		{
 			"ID"		"5" // Romero 641
-			"Description"	"You have successfully pimped for Romero. Your mother would be proud."
+			"Description"	"Ви успiшно пiдтримали Ромеро. Ваша мати була би пишна."
 			"Type"		"success"
 			"AwardXP"	"Pimp01"
 		}
@@ -619,19 +619,19 @@ QuestTable
 	Quest
 	{
 		"Title"		"Tape"
-		"DisplayName"	"Snuff Is Enough"
+		"DisplayName"	"Достатньо снуфу"
 
 		CompletionState
 		{
 			"ID"		"1" // Isaac 461
-			"Description"	"Isaac wants a complete version of the snuff film. He has suggested you talk to smut peddlers in Hollywood for a lead on its whereabouts."
+			"Description"	"Ісаак хоче отримати повну версiю фiльму з жахами. Вiн запропонував вам поговорити з торговцями порнографiєю в Голлiвудi, щоб дiзнатися про його мiсцезнаходження."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Flynn 191
-			"Description"	"Flynn, the proprietor of the Sin Bin, has given you the secret message to relay to the anonymous caller who calls on one of the payphones down the street by the Red Spot. Then you will be told where to pick up the tape."
+			"Description"	"Флiнн, власник Сiн Бiну, передав вам секретне повiдомлення для передачi анонiмному дзвiнку, який телефонує на одному з платних телефонiв вулицею бiля Червоної плями. Потiм вам скажуть, де забрати касету."
 			"Type"		"incomplete"
 			"AwardXP"	"Tape01"
 		}
@@ -639,7 +639,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3" // hacked Flynn's computer
-			"Description"	"You have hacked Flynn's computer and found the secret message to relay to the anonymous caller, who calls on one of the payphones down the street by the Red Spot. Then you will be told where to pick up the tape."
+			"Description"	"Ви взламали комп'ютер Флiнна i знайшли секретне повiдомлення для передачi анонiмному дзвiнку, який телефонує з одного з телефонiв по вулицi бiля Червоної плями. Потiм вам скажуть, де забрати касету."
 			"Type"		"incomplete"
 			"AwardXP"	"Tape01"
 		}
@@ -647,7 +647,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4" // got tape
-			"Description"	"You have acquired the complete snuff film from the video company. Return and show it to Isaac."
+			"Description"	"Ви отримали повний снуф-фiльм вiд вiдео компанiї. Повернiться i покажiть його Айзеку."
 			"Type"		"incomplete"
 			"AwardXP"	"Tape02"
 		}
@@ -655,7 +655,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"5" // Isaac 791
-			"Description"	"You have brought the complete snuff film back to Isaac."
+			"Description"	"Ви принесли повний фiльм з вбивством назад до Ісаака."
 			"Type"		"success"
 			"AwardXP"	"Tape03"
 		}
@@ -663,14 +663,14 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"6" // Anon_Caller
-			"Description"	"The anonymous caller has told you to go to the Hollywood Luckee Star motel, Room 2."
+			"Description"	"Анонiмний дзвiнокер порадив вам пiти до мотелю Hollywood Luckee Star, Номер 2."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
-			"ID"		"7" // Got key to Internet cafй
-			"Description"	"There was no one waiting for you at the Hollywood Luckee Star motel, but you did find a key to the Internet cafй."
+			"ID"		"7" // Got key to Internet caf
+			"Description"	"Нiкого не чекало на вас у мотелi Hollywood Luckee Star, але ви знайшли ключ до Інтернет-кафе."
 			"Type"		"incomplete"
 		}
 	}
@@ -678,19 +678,19 @@ QuestTable
 	Quest
 	{
 		"Title"		"Kings Way"
-		"DisplayName"	"Going The Way Of Kings"
+		"DisplayName"	"Ідучи шляхом королiв"
 
 		CompletionState
 		{
 			"ID"		"1" // Isaac 801
-			"Description"	"Isaac has identified the house in the snuff film as a house in the hills on King's Way. He has also surmised that you will need to confront the film's creator to gain access to the Nosferatu."
+			"Description"	"Ісаак визначив будинок у фiльмi зi снуфом як будинок на пагорбах на Королiвському шляху. Вiн також припустив, що вам доведеться зiткнутися з творцем фiльму, щоб отримати доступ до Носферату."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // "killing" Andrei, changed by wesp
-			"Description"	"You have defeated the Tzimisce in his lair at 609 King's Way, and gained access to the sewers that will hopefully lead you to the Nosferatu. Now go on and find them! You should also tell Isaac about this later."
+			"Description"	"Ви перемогли Цимiсця в його лiгвi на вулицi Кiнга, 609, i отримали доступ до каналiзацiї, яка, сподiваємося, приведе вас до Носферату. Тепер iдiть i знайдiть їх! Також потiм повiдомте Ісааку про це."
 			"Type"		"incomplete"
 			"AwardXP"	"Kings01"
 		}
@@ -698,21 +698,21 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3" // added by wesp
-			"Description"	"You have told Isaac that you defeated the Tzimisce in his lair at 609 King's Way, and he promised you a gift in return."
+			"Description"	"Ви повiдомили Ісааку, що перемогли Цимiсцi у його лiгвi на вулицi Кiнгс Уей, 609, i вiн обiцяв вам подарунок в обмiн."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"4" // added by wesp
-			"Description"	"You have told Isaac that you defeated the Tzimisce in his lair at 609 King's Way, and he promised you a gift in return. You still need to get back into the sewers to find the Nosferatu though."
+			"Description"	"Ви повiдомили Ісааку, що перемогли Цимiсцi у його лiгвi на вулицi Кiнгс Уей, 609, i вiн обiцяв вам подарунок у вiдповiдь. Проте вам все ще потрiбно повернутися у каналiзацiю, щоб знайти Носферату."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"5" // added by wesp
-			"Description"	"You have told Isaac that you defeated the Tzimisce in his lair at 609 King's Way, and he gave you a gift for your help."
+			"Description"	"Ви повiдомили Ісааку, що перемогли Цимiсцi у його лiгвi на вулицi Кiнгс Уей, 609, i вiн подарував вам подяку за допомогу."
 			"Type"		"success"
 		}
 
@@ -721,19 +721,19 @@ QuestTable
 	Quest
 	{
 		"Title"		"Barabus"
-		"DisplayName"	"I Spy Barabus"
+		"DisplayName"	"Я шпигуню за Барабусом"
 
 		CompletionState
 		{
 			"ID"		"1" // Gary 621
-			"Description"	"Gary wants you to find his spy Barabus, who was sent to Chinatown and disappeared. He has also told you your first stop should be to talk to Ming-Xiao at the Golden Temple."
+			"Description"	"Ґерi хоче, щоб ви знайшли його шпигуна Барабуса, який був вiдправлений до Чайнатауну i зник. Вiн також сказав вам, що ваш перший зупинка повинна бути розмова з Мiн-Сяо в Золотому Храмi."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Barabus
-			"Description"	"You have rescued Barabus from the Fu Syndicate. Find the payphone outside to get Gary's call."
+			"Description"	"Ви врятували Барабуса вiд Фу Сiндикату. Знайдiть телефонну будку надворi, щоб отримати дзвiнок вiд Гарi."
 			"Type"		"incomplete"
 			"AwardXP"	"Barabus01"
 		}
@@ -741,7 +741,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3" // Gary
-			"Description"	"You have rescued Barabus from the Fu Syndicate and received Gary's call."
+			"Description"	"Ви врятували Барабуса вiд Фу Сiндикату та отримали дзвiнок вiд Герi."
 			"Type"		"success"
 			"AwardXP"	"Barabus02"
 		}
@@ -749,7 +749,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4" // Ming-Xiao
-			"Description"	"Ming-Xiao has suggested you look for a businessman named Wong Ho at the Red Dragon restaurant. He may have information that could lead you to Barabus, Gary's spy."
+			"Description"	"Мiн-Сяо порадила вам звернутися до бiзнесмена на iм'я Вонг Хо в ресторанi Червоний Дракон. Вiн може мати iнформацiю, яка допоможе вам знайти Барабуса, шпигуна Гарi."
 			"Type"		"incomplete"
 		}
 	}
@@ -757,68 +757,68 @@ QuestTable
 	Quest	// added by wesp
 	{
 		"Title"		"Gary"
-		"DisplayName"	"Poster Session"
+		"DisplayName"	"Сесiя постерiв"
 
 		CompletionState
 		{
 			"ID"		"1"
-			"Description"	"Gary will swap a poster of Jeanette Voerman for an old movie of his called Tap Hotel. Just put it in the mailbox and check your haven and emails later."
+			"Description"	"Ґерi обмiняє плакат Жанетт Вуерман на свiй старий фiльм пiд назвою "Тап-готель". Просто покладiть його в поштову скриньку i перевiрте своє притулок та електронну пошту пiзнiше."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2"
-			"Description"	"Gary offers a poster of VV in exchange for a revealing photo he saw on Haunted LA. Just put the photo in the mailbox and check your haven and emails later."
+			"Description"	"Ґерi пропонує постер ВВ в обмiн на розкривальне фото, яке вiн побачив на Haunted LA. Просто покладiть фото в поштову скриньку i перевiрте своє притулок та електронну пошту пiзнiше."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"3"
-			"Description"	"Gary will trade a poster of Ming-Xiao for a tape of last year's Jock Shot magazine's swimsuit shoot. Just put the tape in the mailbox and check your haven and emails later."
+			"Description"	"Гарi обмiняє плакат Мiн-Сяо на стрiчку з минулорiчного випуску журналу "Jock Shot" з фотосесiї у купальниках. Просто положiть стрiчку в поштову скриньку i перевiрте вашу обитель та електронну пошту пiзнiше."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"4"
-			"Description"	"Gary offers a poster of Damsel in exchange for a wooden pull toy that might be in Metalhead Industries. Just put the toy in the mailbox and check your haven and emails later."
+			"Description"	"Гарi пропонує плакат Демсел в обмiн на дерев'яну тягову iграшку, яка може бути в Metalhead Industries. Просто покладiть iграшку в поштову скриньку i перевiрте вашу обiтову та електронну пошту пiзнiше."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"5"
-			"Description"	"Gary will trade a poster of Imalia for a special name plate with transponder. Just put the plate in the mailbox and check your haven and emails later."
+			"Description"	"Ґерi обмiняє плакат з Імалiєю на спецiальну iменну табличку з транспондером. Просто покладiть табличку у поштову скриньку i перевiрте вашу обитель та електронну пошту пiзнiше."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"6"
-			"Description"	"Gary offers a poster of Tawni Sessions for a throwing star. Just put the star in the mailbox and check your haven and emails later."
+			"Description"	"Ґерi пропонує плакат Тонi Сешнс за кидкову зiрку. Просто покладiть зiрку в поштову скриньку i перевiрте вашу обiту та електронну пошту пiзнiше."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"7"
-			"Description"	"Gary will swap a poster of Claira Killenbach for a squashed Odious Chalice seen in the Fu Syndicate. Just put the thing in the mailbox and check your haven and emails later."
+			"Description"	"Ґерi обмiняє плакат Клайри Кiлленбах на роздавлений Одiозний Келих, який був помiчений у Фу Синдикатi. Просто покладiть рiч у поштову скриньку i перевiрте вашу лiгву та електронну пошту пiзнiше."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"8"
-			"Description"	"Gary will swap a poster of another girl for a fleshy Tzimisce ball. Just put the ball in the mailbox and check your haven and emails later."
+			"Description"	"Ґерi обмiняє плакат iз зображенням iншої дiвчини на м'ясисту кулю Тзiмiсе. Просто покладiть кулю у поштову скриньку i перевiрте вашу лiгу та електронну пошту пiзнiше."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"9"
-			"Description"	"You found all the items Gary was looking for."
+			"Description"	"Ви знайшли всi предмети, якi шукав Гарi."
 			"Type"		"success"
 			"AwardXP"	"Poster01"
 		}

@@ -32,33 +32,33 @@ QuestTable
 	Quest
 	{
 		"Title"		"Plague"
-		"DisplayName"	"Fun With Pestilence"
+		"DisplayName"	"Розваги з Чумою"
 
 		CompletionState
 		{
 			"ID"		"1" // Regent 211
-			"Description"	"The regent has asked you to find the cause of the LA epidemic and put an end to it. He has suggested you speak with the Anarchs at the Last Round to get more information."
+			"Description"	"Регент попросив вас знайти причину епiдемiї в ЛА та припинити її. Вiн порадив вам поговорити з Анархами в Останньому Кругу, щоб отримати бiльше iнформацiї."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Damsel 221
-			"Description"	"Damsel has set you on the trail of the plaguebearer, the Kindred responsible for the outbreak of the LA epidemic. She has suggested going to speak with the ghoul Paul at the Skyeline Apartments, or talking to some of the bums around the city."
+			"Description"	"Дамзель вказала вам на шлях до чумоносця, Кiндрiда, вiдповiдального за вибух епiдемiї в ЛА. Вона запропонувала поговорити з гулом Полом у Скайлайн Апартаментах або поспiлкуватися з деякими безпритульними по мiсту."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"3" // heard Hannah's message on Paul's answering machine
-			"Description"	"Paul the ghoul is dead, presumably another victim of the epidemic sweeping LA. You heard a message from someone named Hannah on his answering machine, asking him to come to her apartment, also in the Skyeline building. Her key code is 1203."
+			"Description"	"Пол, гуль, помер, ймовiрно, ще одна жертва епiдемiї, яка охопила Лос-Анджелес. Ви почули повiдомлення вiд когось на iм'я Ганна на його автовiдповiдачi, де вона просить його прийти до її квартири, також у будiвлi Скайлайн. Її код ключа - 1203."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"4" // Hannah 141, 146
-			"Description"	"Hannah has pointed you in the direction of one Jezebel Locke as a possible link in the plaguebearer chain. She makes her residence at the Empire Arms hotel."
+			"Description"	"Ганна вказала вам на Джезебель Лок як можливе зв'язок у ланцюгу плейгбiрерiв. Вона мешкає в готелi Empire Arms."
 			"Type"		"incomplete"
 			"AwardXP"	"Plague01"
 		}
@@ -66,14 +66,14 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"5" // bum_disease_male/female 31,61
-			"Description"	"A helpful homeless person has pointed out Tin Can Bill as a possible link in the plaguebearer chain. He can be found in the alley across from the Last Round."
+			"Description"	"Допомiжна бездомна особа вказала на Бiлла "Консервний Бiлл" як можливе зв'язку в ланцюгу плейгбiрерiв. Його можна знайти в переулку навпроти "Останнього Раунду"."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"6" // Tin Can Bill 91,151, changed by wesp
-			"Description"	"Tin Can Bill has pointed you in the direction of the sewers near where he took his last breath as the possible home of the plaguebearer."
+			"Description"	"Тiн Кен Бiлл вказав вам напрямок до каналiзацiї поблизу мiсця свого останнього подиху як можливого притулку для чумоносця."
 			"Type"		"incomplete"
 			"AwardXP"	"Plague04"
 		}
@@ -81,7 +81,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"7"
-			"Description"	"You have killed Jezebel Locke."
+			"Description"	"Ви вбили Джезебель Лок."
 			"Type"		"incomplete"
 			"AwardXP"	"Plague03"
 		}
@@ -89,7 +89,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"8"
-			"Description"	"You have killed Brother Kanker."
+			"Description"	"Ви вбили Брата Канкера."
 			"Type"		"incomplete"
 			"AwardXP"	"Plague05"
 		}
@@ -97,21 +97,21 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"9" // Damsel 261, changed by wesp
-			"Description"	"You have reported back to Damsel that you have killed the plaguebearer, but she has informed you that there are others...."
+			"Description"	"Ви повiдомили Дамзель, що вбили чумоносця, але вона повiдомила вам, що iншi..."
 			"Type"		"success"
 		}
 
 		CompletionState
 		{
 			"ID"		"10"
-			"Description"	"You have so pissed off Damsel that she won't talk to you. Dumbshit."
+			"Description"	"Ти так розлютив Дамзель, що вона не хоче з тобою розмовляти. Дурень."
 			"Type"		"failure"
 		}
 
 		CompletionState
 		{
 			"ID"		"11"
-			"Description"	"You have killed Brother Kanker and Jezebel Locke. Report back to Damsel."
+			"Description"	"Ви вбили Брата Канкера та Жезебель Лок. Повiдомте Дамзель."
 			"Type"		"incomplete"
 			"AwardXP"	"Plague06"
 		}
@@ -119,7 +119,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"12"
-			"Description"	"You have killed Brother Kanker. Report back to Damsel."
+			"Description"	"Ви вбили Брата Канкера. Повернiться до Дамзель."
 			"Type"		"incomplete"
 			"AwardXP"	"Plague05"
 		}
@@ -127,7 +127,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"13"
-			"Description"	"You have killed Jezebel Locke. Report back to Damsel."
+			"Description"	"Ви вбили Джезебель Лок. Повiдомте Дамзель."
 			"Type"		"incomplete"
 			"AwardXP"	"Plague03"
 		}
@@ -135,14 +135,14 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"14"
-			"Description"	"You have killed Brother Kanker and Jezebel Locke, and found a flyer with a strange symbol on it. You should go talk to Damsel about this."
+			"Description"	"Ви вбили Брата Канкера та Джезебель Лок, i знайшли листiвку з дивним символом на нiй. Вам слiд поговорити з Дамзель про це."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"15" // first time feeding on diseased bum
-			"Description"	"You became ill after feeding on a bum who turned out to be diseased. You wonder if this has anything to do with the CDC guys dressed in their blue containment suits scattered around downtown."
+			"Description"	"Ви захворiли пiсля того, як поїлися безхатька, який виявився хворим. Ви думаєте, чи має це щось спiльного з хлопцями з Центру з контролю за захворюваннями, якi розкиданi по центру мiста в своїх синiх захисних костюмах."
 			"Type"		"incomplete"
 		}
 	}
@@ -150,26 +150,26 @@ QuestTable
 	Quest
 	{
 		"Title"		"AllPlague"
-		"DisplayName"	"More Fun With Pestilence"
+		"DisplayName"	"Бiльше задоволення з Чумою"
 
 		CompletionState
 		{
 			"ID"		"1" // Damsel 261
-			"Description"	"Damsel has informed you that there is more than one plaguebearer in the city - and they all need to be destroyed."
+			"Description"	"Дамзель повiдомила вас, що в мiстi є бiльше одного носiя чуми - i всi вони повиннi бути знищенi."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Damsel 271
-			"Description"	"Damsel has told you that the symbol on the flyer you found when you killed the second plaguebearer is also on one of the buildings in town."
+			"Description"	"Дамзель повiдомила вам, що символ на листiвцi, яку ви знайшли, коли вбили другого чумного носiя, також є на однiй з будiвель у мiстi."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"3" // killed Vick
-			"Description"	"You have killed Bishop Vick, the head of the plaguebearer doomsday cult, thus ending their disease spreading religion. Report back to Damsel."
+			"Description"	"Ви вбили Єпископа Вiка, голову культу погрiбника-чуми, тим самим завершивши їх релiгiю поширення хвороби. Повiдомте Дамзель."
 			"Type"		"incomplete"
 			"AwardXP"	"AllPlague03"
 		}
@@ -177,7 +177,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4" // damsel 281
-			"Description"	"You have eradicated the plaguebearers from Los Angeles."
+			"Description"	"Ви знищили носiї чуми в Лос-Анджелесi."
 			"Type"		"success"
 			"AwardXP"	"AllPlague04"
 		}
@@ -185,35 +185,35 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"5"
-			"Description"	"You have so pissed off Damsel that she won't talk to you. Dumbshit."
+			"Description"	"Ти так розлютив Дамзель, що вона не хоче з тобою розмовляти. Дурень."
 			"Type"		"failure"
 		}
 
 		CompletionState
 		{
 			"ID"		"6" // changed by wesp
-			"Description"	"Damsel has informed you that there is more than one plaguebearer in the city - and they all need to be destroyed. She had previously suggested going to speak with the ghoul Paul at the Skyeline Apartments."
+			"Description"	"Дамзель повiдомила вас, що в мiстi є бiльше одного носiя чуми - i всi вони повиннi бути знищенi. Вона ранiше запропонувала звернутися до гуля Пола в апартаментах Skyeline."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"7" // changed by wesp
-			"Description"	"Damsel has informed you that there is more than one plaguebearer in the city - and they all need to be destroyed. She had previously suggested talking to some of the bums around the city."
+			"Description"	"Дамзель повiдомила вас, що в мiстi є бiльше одного носiя чуми - i всi вони повиннi бути знищенi. Вона ранiше порадила поговорити з деякими безпритульними по мiсту."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"8" // heard Hannah's message on Paul's answering machine
-			"Description"	"Paul the ghoul is dead, presumably another victim of the epidemic sweeping LA. You heard a message from someone named Hannah on his answering machine, asking him to come to her apartment, also in the Skyeline building. Her key code is 1203."
+			"Description"	"Пол, гуль, помер, ймовiрно, ще одна жертва епiдемiї, яка охопила Лос-Анджелес. Ви почули повiдомлення вiд когось на iм'я Ганна на його автовiдповiдачi, де вона просить його прийти до її квартири, також у будiвлi Скайлайн. Її код ключа - 1203."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"9" // Hannah 141, 146
-			"Description"	"Hannah has pointed you in the direction of one Jezebel Locke as a possible link in the plaguebearer chain. She makes her residence at the Empire Arms hotel."
+			"Description"	"Ганна вказала вам на Джезебель Лок як можливе зв'язок у ланцюгу плейгбiрерiв. Вона мешкає в готелi Empire Arms."
 			"Type"		"incomplete"
 			"AwardXP"	"Plague01"
 		}
@@ -221,14 +221,14 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"10" // bum_disease_male/female 31,61
-			"Description"	"A helpful homeless person has pointed out Tin Can Bill as a possible link in the plaguebearer chain. He can be found in the alley across from the Last Round."
+			"Description"	"Допомiжна бездомна особа вказала на Бiлла "Консервний Бiлл" як можливе зв'язку в ланцюгу плейгбiрерiв. Його можна знайти в переулку навпроти "Останнього Раунду"."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"11" // Tin Can Bill 91,151, changed by wesp
-			"Description"	"Tin Can Bill has pointed you in the direction of the sewers near where he took his last breath as the possible home of the plaguebearer."
+			"Description"	"Тiн Кен Бiлл вказав вам напрямок до каналiзацiї поблизу мiсця свого останнього подиху як можливого притулку для чумоносця."
 			"Type"		"incomplete"
 			"AwardXP"	"Plague04"
 		}
@@ -236,14 +236,14 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"12"
-			"Description"	"You've killed a second plaguebearer and found a flyer with a strange symbol on it. You should go talk to Damsel about this."
+			"Description"	"Ви вбили другого чумоносця i знайшли листiвку з дивним символом на нiй. Вам слiд поговорити з Дамзель про це."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"13"
-			"Description"	"You've killed a second plaguebearer."
+			"Description"	"Ви вбили другого чумоносця."
 			"Type"		"incomplete"
 			"AwardXP"	"Plague06"
 		}
@@ -252,19 +252,19 @@ QuestTable
 	Quest
 	{
 		"Title"		"Traffik"
-		"DisplayName"	"Traffik"
+		"DisplayName"	"Трафiк"
 
 		CompletionState
 		{
 			"ID"		"1" // Larry 121, changed by wesp
-			"Description"	"Fat Larry, businessman extraordinaire, wants you to acquire a briefcase being exchanged between the Tong and a local gang. The exchange will take place in a nearby parking garage. Get the briefcase undetected if possible."
+			"Description"	"Фет Ларрi, винятковий бiзнесмен, хоче, щоб ви здобули портфель, який обмiнюється мiж Тонгами та мiсцевою бандою. Обмiн вiдбудеться на парковцi поруч. Спробуйте отримати портфель непомiченим, якщо це можливо."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Got Briefcase, changed by wesp
-			"Description"	"You have acquired the briefcase Larry sent you for. Time for a special delivery to Fat Larry."
+			"Description"	"Ви отримали чемодан, який вам вiдправив Ларрi. Час для особливої доставки Фет Ларрi."
 			"Type"		"incomplete"
 			"AwardXP"	"Traffik01"
 		}
@@ -272,7 +272,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3" // Larry 181,191, changed by wesp
-			"Description"	"You have delivered the stolen briefcase to Larry."
+			"Description"	"Ви доставили викрадену портфель Ларрi."
 			"Type"		"success"
 			"AwardXP"	"Traffik02"
 		}
@@ -280,7 +280,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4" // Larry death, changed by wesp
-			"Description"	"Larry is dead, no need anymore of delivering his briefcase."
+			"Description"	"Ларрi мертвий, бiльше не потрiбно доставляти його портфель."
 			"Type"		"failure"
 		}
 	}
@@ -288,26 +288,26 @@ QuestTable
 	Quest
 	{
 		"Title"		"Confession"
-		"DisplayName"	"A Confession"
+		"DisplayName"	"Зiзнання"
 
 		CompletionState
 		{
 			"ID"		"1" // Larry 221
-			"Description"	"Fat Larry told you that the owner of the club Confession is looking for someone with your mad skills."
+			"Description"	"Фет Ларрi сказав вам, що власник клубу «Сповiдь» шукає когось з вашими безумовними навичками."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Venus 71
-			"Description"	"Venus Dare wants you to go to the parking lot next to the Empire Arms hotel and tell the Russians that she doesn't have their money."
+			"Description"	"Венера Дер хоче, щоб ви пiшли на парковку поруч з готелем Empire Arms i сказали росiянам, що вона не має їхнiх грошей."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"3" // Igor 41, changed by wesp
-			"Description"	"You convinced the Russians to come back next month for Venus' money."
+			"Description"	"Ви переконали росiян повернутися наступного мiсяця за грошима Венери."
 			"Type"		"incomplete"
 			"AwardXP"	"Confession01"
 		}
@@ -315,7 +315,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4" // kill Igor, changed by wesp
-			"Description"	"You killed the Russians, thereby fixing Venus' money problem."
+			"Description"	"Ти вбив росiян, тим самим вирiшивши проблему грошей у Венери."
 			"Type"		"incomplete"
 			"AwardXP"	"Confession01"
 		}
@@ -323,7 +323,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"5" // Venus, changed by wesp
-			"Description"	"You solved Venus' money problems with the Russians."
+			"Description"	"Ви вирiшили проблеми з грошима Венери з росiянами."
 			"Type"		"success"
 			"AwardXP"	"Confession02"
 		}
@@ -331,7 +331,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"6" // Kill Venus
-			"Description"	"You killed Venus, thereby making it rather difficult to conclude your business with her."
+			"Description"	"Ви вбили Венеру, тим самим ускладнили завершення вашого бiзнесу з нею."
 			"Type"		"failure"
 		}
 	}
@@ -339,19 +339,19 @@ QuestTable
 	Quest
 	{
 		"Title"		"Venus"
-		"DisplayName"	"And Her Name Was Venus"
+		"DisplayName"	"І її iм'я було Венера"
 
 		CompletionState
 		{
 			"ID"		"1" // Venus 201
-			"Description"	"Venus wants you to \"persuade\" Boris so she won't have to pay his \"late fee\" any more. He is in the penthouse level of the Empire Arms hotel."
+			"Description"	"Венера хоче, щоб ти \"persuade\" Boris so she won't have to pay his \"late fee\" any more. He is in the penthouse level of the Empire Arms hotel."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Boris 141
-			"Description"	"You have persuaded Boris to call off Venus' debt."
+			"Description"	"Ви переконали Бориса скасувати борг Венери."
 			"Type"		"incomplete"
 			"AwardXP"	"Venus01"
 		}
@@ -359,7 +359,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3" // kill Boris
-			"Description"	"You have killed Boris, thereby nullifying Venus' debt to him."
+			"Description"	"Ви вбили Бориса, тим самим анулюючи борг Венери перед ним."
 			"Type"		"incomplete"
 			"AwardXP"	"Venus01"
 		}
@@ -367,7 +367,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4"
-			"Description"	"You have successfully solved Venus' Boris problem. Don't forget to visit her periodically to get your share of the club's profits."
+			"Description"	"Ви успiшно вирiшили проблему Бориса Венери. Не забудьте перiодично вiдвiдувати її, щоб отримувати свою частку в прибутках клубу."
 			"Type"		"success"
 			"AwardXP"	"Venus02"
 		}
@@ -375,14 +375,14 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"5" // kill Venus
-			"Description"	"You have killed Venus, thereby making her request of you irrelevant."
+			"Description"	"Ви вбили Венеру, тим самим зробивши її запит до вас неактуальним."
 			"Type"		"failure"
 		}
 
 		CompletionState
 		{
 			"ID"		"6" // told Venus you accepted Boris offer to kill her
-			"Description"	"You have informed Venus that Boris made you a better offer."
+			"Description"	"Ви повiдомили Венерi, що Борис запропонував вам кращу угоду."
 			"Type"		"failure"
 		}
 	}
@@ -390,19 +390,19 @@ QuestTable
 	Quest
 	{
 		"Title"		"Kill Venus"
-		"DisplayName"	"Venucide"
+		"DisplayName"	"Венуцид"
 
 		CompletionState
 		{
 			"ID"		"1" // Boris 91
-			"Description"	"Boris wants you to turn the tables on Venus and kill her."
+			"Description"	"Борис хоче, щоб ви перевернули ситуацiю на Венерi та вбили її."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // kill Venus
-			"Description"	"You have killed Venus for Boris."
+			"Description"	"Ви вбили Венеру за Бориса."
 			"Type"		"incomplete"
 			"AwardXP"	"Kill01"
 		}
@@ -410,7 +410,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3" // Boris 181
-			"Description"	"You have killed Venus and told Boris about it."
+			"Description"	"Ви вбили Венеру i розповiли про це Борису."
 			"Type"		"success"
 			"AwardXP"	"Kill02"
 		}
@@ -418,14 +418,14 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4" // kill boris
-			"Description"	"You have killed Boris before your business with him was completed."
+			"Description"	"Ви вбили Бориса до завершення вашого дiла з ним."
 			"Type"		"failure"
 		}
 
 		CompletionState
 		{
 			"ID"		"5" // boris 191
-			"Description"	"You have pissed Boris off before your business with him was completed."
+			"Description"	"Ви розлютили Бориса до завершення вашого дiла з ним."
 			"Type"		"failure"
 		}
 	}
@@ -433,19 +433,19 @@ QuestTable
 	Quest
 	{
 		"Title"		"Junky"
-		"DisplayName"	"Attention Whore"
+		"DisplayName"	"Увага-примхливець"
 
 		CompletionState
 		{
 			"ID"		"1" // Skelter 251
-			"Description"	"Skelter wants you to make Patty disappear. She's a ghoul who has been bugging everyone about her master and won't believe them when they tell her he's dead. Not only is she getting tiresome, Skelter is concerned about the implications for the Masquerade if she keeps shooting her mouth off. She can usually be found whining at the club Confession to anyone unfortunate enough to talk to her."
+			"Description"	"Скелтер хоче, щоб ти зробив Петтi зникнути. Вона - гуль, яка нудить всiх про свого майстра i не вiрить їм, коли вони кажуть, що вiн мертвий. Крiм того, вона стає втомливою, i Скелтер турбується про наслiдки для Маскераду, якщо вона продовжуватиме вiдкривати рота. Зазвичай її можна знайти, скаржачись в клубi "Сповiдь" перед ким-небудь, хто нещасливий розмовляти з нею."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Patty 91 (PC responses set) or kill Patty
-			"Description"	"You have \"solved\" the Patty problem. Report back to Skelter."
+			"Description"	"У вас є \"solved\" the Patty problem. Report back to Skelter."
 			"Type"		"incomplete"
 			"AwardXP"	"Junky01"
 		}
@@ -453,7 +453,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3" // Skelter 271, changed by wesp
-			"Description"	"You have informed Skelter that Patty will no longer be a problem."
+			"Description"	"Ви повiдомили Скелтеру, що Петтi бiльше не буде проблемою."
 			"Type"		"success"
 			"AwardXP"	"Junky03"
 		}
@@ -461,14 +461,14 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4" // Skelter 576
-			"Description"	"You tried to tell Skelter you'd taken care of Patty, but she's still shooting her mouth off around town."
+			"Description"	"Ти намагався сказати Скелтеру, що ти позбувся Петтi, але вона все ще говорить непотрiб по мiсту."
 			"Type"		"failure"
 		}
 
 		CompletionState
 		{
 			"ID"		"5" // Patty 91 San Diego, added by wesp
-			"Description"	"You have convinced Patty to leave town. Report back to Skelter."
+			"Description"	"Ви переконали Петтi покинути мiсто. Повiдомте Скелтеру."
 			"Type"		"incomplete"
 			"AwardXP"	"Junky02"
 		}
@@ -476,21 +476,21 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"6" // added by wesp
-			"Description"	"You have convinced Patty to leave town, but then killed her. Report back to Skelter."
+			"Description"	"Ви переконали Петтi покинути мiсто, але потiм вбили її. Повiдомте Скелтеру."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"7" // Patty 91 alley, added by wesp
-			"Description"	"You have convinced Patty to go to some dark back alley. Now what?"
+			"Description"	"Ви переконали Петтi пiти в якусь темну вуличку. Що далi?"
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"8" // added by wesp
-			"Description"	"You have pissed off Skelter to the point where he won't talk to you anymore."
+			"Description"	"Ви настiльки розлютили Скелтера, що вiн бiльше не хоче з вами розмовляти."
 			"Type"		"failure"
 		}
 
@@ -499,26 +499,26 @@ QuestTable
 	Quest
 	{
 		"Title"		"Necromantic"
-		"DisplayName"	"Necromantic"
+		"DisplayName"	"Некромантичний"
 
 		CompletionState
 		{
 			"ID"		"1" // Pisha 111, changed by wesp
-			"Description"	"Pisha, the flesh eating, uh, woman in the basement of the abandoned hospital wants you to send the TV \"reporter\" down to her lair so she can kill him, as he's seen too much."
+			"Description"	"Пiша, пожера плотi, емм, жiнка в пiдвалi залишеного госпiталю хоче, щоб ви вiдправили телевiзор."reporter\" down to her lair so she can kill him, as he's seen too much."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // getting Milligan's business card
-			"Description"	"Milligan, the reporter Pisha wants sent down to her, is gone, but you have found his business card. It seems he resides in the Skyeline Apartments."
+			"Description"	"Мiллiган, журналiст, якого хоче побачити Пiша, зник, але ви знайшли його вiзитну картку. Здається, вiн проживає в апартаментах Skyeline."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"3" // Milligan 71,91, 111, 151 / killing Milligan, changed by wesp
-			"Description"	"You have dealt with the reporter for Pisha. Go back to the abandoned hospital and tell her."
+			"Description"	"Ви вже займалися журналiсткою для Пiшi. Повертайтеся до залишеного госпiталю i повiдомте їй."
 			"Type"		"incomplete"
 			"AwardXP"	"Necro01"
 		}
@@ -526,7 +526,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4" // Pisha, changed by wesp
-			"Description"	"You told Pisha that the reporter has been dealt with."
+			"Description"	"Ви повiдомили Пiшi, що з журналiстом вже розiбралися."
 			"Type"		"success"
 			"AwardXP"	"Necro02"
 		}
@@ -534,14 +534,14 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"5" // Pisha going hostile/ being killed
-			"Description"	"Pisha is in no state to communicate with you any more, so any arrangements you had with her are no longer relevant."
+			"Description"	"Пiша не в змозi спiлкуватися з вами бiльше, тому будь-якi домовленостi, якi ви мали з нею, бiльше не мають значення."
 			"Type"		"failure"
 		}
 
 		CompletionState
 		{
 			"ID"		"6" // Pisha 161
-			"Description"	"You have failed to eliminate Milligan for Pisha, thereby putting the Masquerade at risk."
+			"Description"	"Ви не змогли усунути Мiллiгана на користь Пiшi, тим самим поклавши Маскарад пiд загрозу."
 			"Type"		"failure"
 		}
 	}
@@ -549,19 +549,19 @@ QuestTable
 	Quest
 	{
 		"Title"		"Occult"
-		"DisplayName"	"Occultish Personality"
+		"DisplayName"	"Окультна особистiсть"
 
 		CompletionState
 		{
 			"ID"		"1" // Pisha
-			"Description"	"Pisha wants you to find two occult items and bring them back to her. One of them is a fetish in the museum, and the other is a book located in the Giovanni mansion."
+			"Description"	"Пiша хоче, щоб ви знайшли два оккультнi предмети i принесли їх їй. Один з них - фетиш у музеї, а iнший - книга, що знаходиться в особняку Джованнi."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // got fetish, don't have Giovanni book
-			"Description"	"You have retrieved the fetish from the museum for Pisha. You still need to find the book from the Giovanni mansion."
+			"Description"	"Ви витягли фетиш з музею для Пiшi. Вам все ще потрiбно знайти книгу у маєтку Джованнi."
 			"Type"		"incomplete"
 			"AwardXP"	"Occult01"
 		}
@@ -569,7 +569,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3" // got Voce del Morte book from Giovanni, don't have fetish, changed by wesp
-			"Description"	"You have retrieved the \"Voce del Morte\" tome from the Giovanni mansion for Pisha. You still need to find the fetish from the museum."
+			"Description"	"Ви вилучили \"Voce del Morte\" tome from the Giovanni mansion for Pisha. You still need to find the fetish from the museum."
 			"Type"		"incomplete"
 			"AwardXP"	"Occult01"
 		}
@@ -577,7 +577,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4" // got both items, changed by wesp
-			"Description"	"You have retrieved both occult items for Pisha. You should visit her again."
+			"Description"	"Ви вилучили обидва предмети оккультизму для Пiшi. Вам слiд знову вiдвiдати її."
 			"Type"		"incomplete"
 			"AwardXP"	"Occult03"
 		}
@@ -585,7 +585,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"5" // Pisha
-			"Description"	"You have brought Pisha her occult items and received yours in return."
+			"Description"	"Ви принесли Пiше її предмети оккультизму i отримали свої в обмiн."
 			"Type"		"success"
 			"AwardXP"	"Occult02"
 		}
@@ -593,7 +593,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"6" // Pisha going hostile/ being killed
-			"Description"	"Pisha is in no state to communicate with you any more, so any arrangements you had with her are no longer relevant."
+			"Description"	"Пiша не в змозi спiлкуватися з вами бiльше, тому будь-якi домовленостi, якi ви мали з нею, бiльше не мають значення."
 			"Type"		"failure"
 		}
 	}
@@ -601,61 +601,61 @@ QuestTable
 	Quest
 	{
 		"Title"		"Regent"
-		"DisplayName"	"A Plague For The Angels"
+		"DisplayName"	"Чума для ангелiв"
 
 		CompletionState
 		{
 			"ID"		"1" // Regent 211
-			"Description"	"The regent has asked you to find the cause of the LA epidemic and put an end to it. He has suggested you speak with the Anarchs at the Last Round to get more information."
+			"Description"	"Регент попросив вас знайти причину епiдемiї в ЛА та припинити її. Вiн порадив вам поговорити з Анархами в Останньому Кругу, щоб отримати бiльше iнформацiї."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Damsel 221
-			"Description"	"You have spoken with the Anarchs and they have put you on the trail of the plaguebearer."
+			"Description"	"Ви говорили з Анархами, i вони вказали вам на слiд за Посланцем чуми."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"3"
-			"Description"	"You have dispatched the plaguebearer."
+			"Description"	"Ви вбили носiя чуми."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"4" // Damsel 261
-			"Description"	"You must kill all the plaguebearers."
+			"Description"	"Вам потрiбно вбити всiх чумоносцiв."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"5"
-			"Description"	"You have killed all the plaguebearers. Report back to the regent."
+			"Description"	"Ви убили всiх чумоносцiв. Повертайтеся до регента."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"6" // Regent 331
-			"Description"	"You have killed all the plaguebearers and reported back to the regent."
+			"Description"	"Ви убили всiх чумоносцiв i повiдомили регента."
 			"Type"		"success"
 		}
 
 		CompletionState
 		{
 			"ID"		"7"
-			"Description"	"You have been forbidden to enter the Tremere chantry ever again."
+			"Description"	"Вам було заборонено будь-коли знову входити в Чантрi Тремерiв."
 			"Type"		"failure"
 		}
 
 		CompletionState
 		{
 			"ID"		"8" // Regent 194, 203
-			"Description"	"You are looking into the cause of the epidemic for the Camarilla as well as the Anarchs."
+			"Description"	"Ви розглядаєте причину епiдемiї для Камарiли, а також для Анархiв."
 			"Type"		"incomplete"
 		}
 	}
@@ -663,19 +663,19 @@ QuestTable
 	Quest
 	{
 		"Title"		"Tutorial"	
-		"DisplayName"	"Jyhad For Beginners"
+		"DisplayName"	"Джихад для початкiвцiв"
 
 		CompletionState
 		{
 			"ID"		"1"	// changed by wesp
-			"Description"	"You have survived the vampire gathering."
+			"Description"	"Ви вижили на зiбраннi вампiрiв."
 			"Type"		"success"
 		}
 
 		CompletionState
 		{
 			"ID"		"2"
-			"Description"	"You have survived the Sabbat assault."
+			"Description"	"Ви вижили напад Саббату."
 			"Type"		"success"
 			"AwardXP"	"Tutor01"
 		}
@@ -683,84 +683,84 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3"
-			"Description"	"Feed on the mortal around the corner and return to Jack."
+			"Description"	"Живись на смертному за кутом i повертайся до Джека."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"4"
-			"Description"	"Head inside the building, meet Jack upstairs."
+			"Description"	"Вiдправляйся всередину будiвлi, зустрiнься з Джеком нагорi."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"5"	// changed by wesp
-			"Description"	"A vicious vampire faction known as the Sabbat has launched an assault on the secret Camarilla gathering downtown. You and Jack are caught in the middle. To escape you must obtain entry into the office."
+			"Description"	"Жорстока фракцiя вампiрiв, вiдома як Саббат, розпочала напад на секретне зiбрання Камарiли в центрi мiста. Ви разом з Джеком опинилися посеред цього. Щоб втекти, вам потрiбно потрапити в офiс."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"6"
-			"Description"	"Find a key to the door."
+			"Description"	"Знайдiть ключ до дверей."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"7"
-			"Description"	"Go outside and meet Jack around back."
+			"Description"	"Вийди назовнi i зустрiнься з Джеком ззаду."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"8"
-			"Description"	"Feed on the bum at the bottom of the stairs."
+			"Description"	"Живись на бездомному внизу сходiв."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"9"
-			"Description"	"Feed on some rats."
+			"Description"	"Живись кiлькома пацюками."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"10"
-			"Description"	"Sneak past the lone Sabbat member and go through the double doors."
+			"Description"	"Протягом ворожого члена Саббату та пройдiть через подвiйнi дверi."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"11"
-			"Description"	"Kill the Sabbat member outside."
+			"Description"	"Вбийте члена Саббату ззовнi."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"12"
-			"Description"	"Head downstairs and through the building."
+			"Description"	"Спустiться вниз i пройдiть через будiвлю."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"13"
-			"Description"	"Make your way past the Sabbat inside the building."
+			"Description"	"Пройдiть повз Саббат всерединi будiвлi."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"14"	// changed by wesp
-			"Description"	"Ride elevator up and fight the gang members."
+			"Description"	"Пiднiмiться лiфтом i борiться з учасниками банди."
 			"Type"		"incomplete"
 		}
 	}
@@ -768,26 +768,26 @@ QuestTable
 	Quest
 	{
 		"Title"		"Dane"
-		"DisplayName"	"Elizabethan Rendezvous"
+		"DisplayName"	"Елiзабетинське побачення"
 
 		CompletionState
 		{
 			"ID"		"1" // Prince 1 231, Nines 101
-			"Description"	"The prince wants you to investigate the Elizabeth Dane. You need to go to the beach in Santa Monica where a boat will be waiting to take you out to the ship. You are to examine the Ankaran Sarcophagus, find out what the police have discovered, and take the cargo manifest for the ship. And above all, try not to go on a killing spree."
+			"Description"	"Князь хоче, щоб ви розслiдували Елiзабет Дейн. Вам потрiбно пiти на пляж у Санта-Монiцi, де човен буде чекати, щоб вiдвезти вас на корабель. Вам слiд дослiдити Анкаранський саркофаг, дiзнатися, що виявила полiцiя, i взяти вантажну манiфестацiю для корабля. І головне, намагайтеся не розпочинати вбивчу резню."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // completed requirements for quest
-			"Description"	"You have successfully completed your tasks aboard the Elizabeth Dane. Report back to the prince."
+			"Description"	"Ви успiшно виконали свої завдання на борту Елiзабет Дейн. Повiдомте князю."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"3" // Prince 1 571
-			"Description"	"You have successfully completed your tasks aboard the Elizabeth Dane and reported back to the prince."
+			"Description"	"Ви успiшно виконали свої завдання на борту Елiзабет Дейн i повiдомили про це князю."
 			"Type"		"success"
 			"AwardXP"	"Dane04"
 		}
@@ -795,21 +795,21 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4" // Prince 282 283
-			"Description"	"The prince wants you to investigate the Elizabeth Dane, but before you do, he wants you to contact Nines Rodriguez at the bar called the Last Round and find out why he wants to talk to you."
+			"Description"	"Князь хоче, щоб ви розслiдували Елiзабет Дейн, але перед цим вiн хоче, щоб ви зв'язалися з Найнсом Родрiгесом у барi пiд назвою Останнiй Раунд i дiзналися, чому вiн хоче поговорити з вами."
 			"Type"		"incomplete"
 		}
 
 		CompletionState	// added by wesp
 		{
 			"ID"		"5" // Nines 102 103
-			"Description"	"You contacted Nines. After you are finished talking to him report back to the prince before you go on investigating the Elizabeth Dane."
+			"Description"	"Ви зв'язалися з Найнсом. Пiсля того, як закiнчите розмову з ним, повiдомте принцу, перш нiж розпочнете розслiдування Елiзабет Дейн."
 			"Type"		"incomplete"
 		}
 
 		CompletionState	// added by wesp
 		{
 			"ID"		"6" // Prince 1 233
-			"Description"	"The prince wants you to investigate the Elizabeth Dane. Tell him when you are ready to go."
+			"Description"	"Князь хоче, щоб ви розслiдували Елiзабет Дейн. Скажiть йому, коли будете готовi поїхати."
 			"Type"		"incomplete"
 		}
 
@@ -818,19 +818,19 @@ QuestTable
 	Quest
 	{
 		"Title"		"Grout"
-		"DisplayName"	"Calling Dr. Grout"
+		"DisplayName"	"Закликаю Доктора Граута"
 
 		CompletionState
 		{
 			"ID"		"1" // Prince 1 651, changed by wesp
-			"Description"	"The prince wishes you to contact Alistair Grout, the Malkavian Primogen. You should try looking for him at his mansion on the outskirts of town."
+			"Description"	"Князь бажає, щоб ви зв'язалися з Алiстером Граутом, Малкавiанським Примогеном. Вам слiд спробувати знайти його у його особняку на околицi мiста."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Saw Grout ashes
-			"Description"	"You have viewed the charred remains of Alistair Grout. You should probably inform the prince about his demise."
+			"Description"	"Ви оглянули вугiльнi залишки Алiстера Граута. Ймовiрно, вам слiд повiдомити князя про його загибель."
 			"Type"		"incomplete"
 			"AwardXP"	"Grout01"
 		}
@@ -838,7 +838,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3" // Prince 1 701
-			"Description"	"You have viewed the charred remains of Alistair Grout and informed the prince of his demise."
+			"Description"	"Ви оглянули вугiльнi залишки Алiстера Граута та повiдомили князя про його загибель."
 			"Type"		"success"
 			"AwardXP"	"Grout02"
 		}
@@ -846,14 +846,14 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4"	// Talked to Ming-as-Nines
-			"Description"	"You encountered Nines at Grout's mansion, and he seemed a bit out of sorts."
+			"Description"	"Ви зустрiлися з Найнсом в особняку Граута, i вiн здавався трохи не в собi."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"5"	// Entered Mansion
-			"Description"	"You just entered Grout's mansion and something about it doesn't feel quite right."
+			"Description"	"Ви тiльки що увiйшли до особняка Граута, i щось у ньому вам не подобається."
 			"Type"		"incomplete"
 		}
 	}
@@ -861,19 +861,19 @@ QuestTable
 	Quest
 	{
 		"Title"		"Museum"
-		"DisplayName"	"Patron Of The Ancient Arts"
+		"DisplayName"	"Покровитель стародавнiх мистецтв"
 
 		CompletionState
 		{
 			"ID"		"1" // Prince 1 811, changed by wesp
-			"Description"	"The prince would appreciate your taking the Ankaran Sarcophagus from the museum and bringing it to him for safekeeping. And do it without killing anyone if possible."
+			"Description"	"Князь буде вдячний, якщо ви заберете Саркофаг Анкара з музею i привезете його до нього для зберiгання. І зробiть це без вбивства кого-небудь, якщо це можливо."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Beckett 131
-			"Description"	"You have found where the sarcophagus was being stored - but someone got there first. It has been stolen. You'd best tell the prince of this turn of events."
+			"Description"	"Ви знайшли мiсце, де зберiгався саркофаг, але хтось вас опередив. Вiн був викрадений. Вам краще повiдомити князя про цей поворот подiй."
 			"Type"		"incomplete"
 			"AwardXP"	"Museum02"
 		}
@@ -881,7 +881,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3" // Prince 2 91
-			"Description"	"You told the prince the sarcophagus had been stolen from the museum."
+			"Description"	"Ви сказали князю, що саркофаг був викрадений з музею."
 			"Type"		"success"
 			"AwardXP"	"Museum03"
 		}
@@ -889,7 +889,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4" // added by wesp
-			"Description"	"You have discovered that the keycode to the area where the Ankaran Sarcophagus is kept at the museum is 2358. Now get it from there and bring it to the prince."
+			"Description"	"Ви виявили, що код доступу до зони, де зберiгається Анкаранський саркофаг у музеї, - 2358. Тепер отримайте його та принесiть князю."
 			"Type"		"incomplete"
 		}
 	}
@@ -897,19 +897,19 @@ QuestTable
 	Quest
 	{
 		"Title"		"Sarcophagus"
-		"DisplayName"	"The Epic Of The Ankaran Sarcophagus"
+		"DisplayName"	"Епос про Анкаранський саркофаг"
 
 		CompletionState
 		{
 			"ID"		"1" // Prince 2 161
-			"Description"	"The prince wants the sarcophagus NOW! First step: Find Gary. The prince has suggested speaking with Isaac Abrams, the Baron of Hollywood. Isaac can usually be found in his jewelry store."
+			"Description"	"Князь хоче саркофаг ПРЯМО ЗАРАЗ! Крок перший: Знайдiть Гарi. Князь порадив звернутися до Ісаака Абрамса, Барона Голлiвуду. Ісаак зазвичай можна знайти у своєму ювелiрному магазинi."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Gary 1
-			"Description"	"The prince wants the sarcophagus NOW!"
+			"Description"	"Князь хоче саркофага ЗАРАЗ!"
 			"Type"		"incomplete"
 			"AwardXP"	"Sarc01"
 		}
@@ -917,7 +917,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3" // Gary 431
-			"Description"	"Gary has informed you that the sarcophagus is at the Giovanni mansion. He's even drawn you a map. How sweet."
+			"Description"	"Ґерi повiдомив вам, що саркофаг знаходиться в особняку Джованнi. Вiн навiть намалював вам карту. Як мило."
 			"Type"		"incomplete"
 			"AwardXP"	"Sarc02"
 		}
@@ -925,7 +925,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4" // Prince 2 171, 181
-			"Description"	"You have returned the Ankaran Sarcophagus to the prince."
+			"Description"	"Ви повернули Саркофаг Анкарану князю."
 			"Type"		"success"
 			"AwardXP"	"Sarc03"
 		}
@@ -933,7 +933,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"5" // added by wesp
-			"Description"	"You have killed Bruno Giovanni. You still need to deliver the Ankaran Sarcophagus to the prince."
+			"Description"	"Ви вбили Бруно Джованнi. Вам все ще потрiбно доставити Анкаранський саркофаг князю."
 			"Type"		"incomplete"
 		}
 	}
@@ -941,33 +941,33 @@ QuestTable
 	Quest
 	{
 		"Title"		"Johansen"
-		"DisplayName"	"Society For The Preservation Of Professors"
+		"DisplayName"	"Товариство збереження професорiв"
 
 		CompletionState
 		{
 			"ID"		"1" // Beckett 561
-			"Description"	"Beckett wants you to find Professor Johansen, who is being held by the Society of Leopold. You'll need to find a way to get inside and locate him."
+			"Description"	"Бекет хоче, щоб ви знайшли професора Йогансена, який утримується Суспiльством Леопольда. Вам потрiбно знайти спосiб потрапити всередину i знайти його."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Johansen 101,371
-			"Description"	"You have spoken with Johansen and found out about the sarcophagus key. You should report your findings to the prince."
+			"Description"	"Ви розмовляли з Йогансеном i дiзналися про ключ до саркофагу. Вам слiд повiдомити свої вiдкриття князю."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"3" // Johansen 101,371
-			"Description"	"You have spoken with Johansen and found out about the sarcophagus key. You also saved the professor from the cave-in at the Society of Leopold. You should report your findings to the prince."
+			"Description"	"Ви розмовляли з Йогансеном i дiзналися про ключ до саркофагу. Також ви врятували професора вiд обвалу в Суспiльствi Леопольда. Вам слiд повiдомити свої вiдкриття князю."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"4" // Prince 541
-			"Description"	"You have reported back to the prince what Johansen told you about the sarcophagus key."
+			"Description"	"Ви повiдомили князю про те, що розповiв вам Йогансен про ключ до саркофагу."
 			"Type"		"success"
 			"AwardXP"	"Society02"
 		}
@@ -976,19 +976,19 @@ QuestTable
 	Quest
 	{
 		"Title"		"Shangrila"
-		"DisplayName"	"Hell At The Hallowbrook Hotel"
+		"DisplayName"	"Ад у Готелi Холлобрук"
 
 		CompletionState
 		{
 			"ID"		"1" // Prince 2 501
-			"Description"	"The prince has bidden you to kill the leader of the Sabbat (and any other Sabbat that may get in the way). They have made their headquarters in the old burned-out Hallowbrook hotel in downtown Los Angeles."
+			"Description"	"Князь наказав вам вбити лiдера Саббату (i будь-якого iншого саббату, який може встати на вашому шляху). Вони облаштували свою штаб-квартиру в старому вигорiлому готелi Холлобрук в центрi Лос-Анджелеса."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2"
-			"Description"	"You have located the lair of the Sabbat leader."
+			"Description"	"Ви знайшли лiгво лiдера Саббату."
 			"Type"		"incomplete"
 			"AwardXP"	"Shangrila01"
 		}
@@ -996,7 +996,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3"	// changed by wesp
-			"Description"	"You have brought the Sabbat leader's pitiful existence to a violent end. The prince will be as happy as a little girl when you tell him."
+			"Description"	"Ви зробили жалке iснування лiдера Саббату насильницьким кiнцем. Князь буде щасливий, як маленька дiвчинка, коли ви розповiсте йому."
 			"Type"		"incomplete"
 			"AwardXP"	"Shangrila02"
 		}
@@ -1004,7 +1004,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4"	// changed by wesp
-			"Description"	"You have told the prince that the Sabbat leader is dead. And, as predicted, he is as happy as a little girl."
+			"Description"	"Ви повiдомили князю, що лiдер Саббату мертвий. І, як передбачалося, вiн щасливий, як маленька дiвчинка."
 			"Type"		"success"
 			"AwardXP"	"Shangrila03"
 		}
@@ -1012,7 +1012,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"5"	// added by wesp
-			"Description"	"You have struck a deal with the Sabbat leader. The prince will be as happy as a little girl when you lie about this to him."
+			"Description"	"Ви уклали угоду з лiдером Саббату. Князь буде щасливий, як маленька дiвчинка, коли ви надурите його у цьому."
 			"Type"		"incomplete"
 		}
 	}
@@ -1020,26 +1020,26 @@ QuestTable
 	Quest
 	{
 		"Title"		"Alliance"
-		"DisplayName"	"The Enemy Of My Enemy"
+		"DisplayName"	"Ворог мого ворога"
 
 		CompletionState
 		{
 			"ID"		"1" // Prince 2 771
-			"Description"	"The prince has sent you to the Last Round to find out where Nines Rodriguez is hiding out. His plan is to have you find Nines and unite the Anarchs and the Camarilla in a war against the Kuei-jin."
+			"Description"	"Князь вiдправив вас до Останнього Кругу, щоб дiзнатися, де приховується Найнс Родрiгес. Його план полягає в тому, щоб ви знайшли Найнса i об'єднали Анархiв та Камарiлью в вiйнi проти Куей-джинiв."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2" // Damsel 681, 691
-			"Description"	"Damsel has revealed to you that Nines is hiding in Griffith Park. You need to go there and find him to unite the Anarchs with the Camarilla in a war against the Kuei-jin."
+			"Description"	"Дамзель розкрила вам, що Найнс приховується в Грiффiт-парку. Вам потрiбно пiти туди i знайти його, щоб об'єднати Анархiв з Камарiллою в вiйнi проти Куей-джинiв."
 			"Type"		"incomplete"
 			"AwardXP"	"Alliance01"
 		}
 		CompletionState
 		{
 			"ID"		"3" // Nines 521, 531, 541
-			"Description"	"You have made contact with Nines Rodriguez in Griffith Park. But something's wrong."
+			"Description"	"Ви зв'язалися з Найнсом Родрiгесом у Грiфiт-парку. Але щось пiшло не так."
 			"Type"		"incomplete"
 			"AwardXP"	"Alliance02"
 		}
@@ -1047,7 +1047,7 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"4" // got to tram
-			"Description"	"Against all odds, you have made it out of Griffith Park alive. Someone set you and Nines up."
+			"Description"	"Незважаючи на всi обставини, вам вдалося вижити у Грiффiт-парку. Хтось пiдставив вас i Найнса."
 			"Type"		"success"
 			"AwardXP"	"Alliance03"
 		}
@@ -1056,19 +1056,19 @@ QuestTable
 	Quest	// added by wesp
 	{
 		"Title"		"Ash"
-		"DisplayName"	"Ash To Ashes"
+		"DisplayName"	"Зола до попелу"
 
 		CompletionState
 		{
 			"ID"		"1"
-			"Description"	"You found Ash captured and tortured at the Society of Leopold. Why don't you help him once more?"
+			"Description"	"Ти знайшов Аша, захопленого та катованого в Суспiльствi Леопольда. Чому б не допомогти йому ще раз?"
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2"
-			"Description"	"You have rescued Ash from the hunters... again."
+			"Description"	"Ви знову врятували Еша вiд мисливцiв..."
 			"Type"		"success"
 			"AwardXP"		"Ash01"
 		}
@@ -1076,14 +1076,14 @@ QuestTable
 		CompletionState
 		{
 			"ID"		"3"
-			"Description"	"Ash died at the Society of Leopold."
+			"Description"	"Еш помер у Суспiльствi Леопольда."
 			"Type"		"failure"
 		}
 
 		CompletionState	// added by wesp
 		{
 			"ID"		"4"
-			"Description"	"You found Ash captured and tortured at the Society of Leopold. Why don't you help him this time?"
+			"Description"	"Ви знайшли Еша, який був захоплений i катований у Суспiльствi Леопольда. Чому цього разу ви не допомагаєте йому?"
 			"Type"		"incomplete"
 		}
 	}
@@ -1091,60 +1091,60 @@ QuestTable
 	Quest	// added by wesp
 	{
 		"Title"		"Library"
-		"DisplayName"	"Night At The Library"
+		"DisplayName"	"Нiч у бiблiотецi"
 
 		CompletionState
 		{
 			"ID"		"1"
-			"Description"	"Beckett asked you to find out what the Sabbat is doing in the Downtown Public Library. First you need to meet his friend Scott in the Santa Monica Smoke Shop."
+			"Description"	"Бекет попросив вас дiзнатися, що робить Саббат у Центральнiй Бiблiотецi. Спочатку вам потрiбно зустрiтися з його другом Скоттом у крамницi тютюнових виробiв у Санта-Монiцi."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"2"
-			"Description"	"You went to the Smoke Shop, but Beckett's friend wasn't there. Scott did leave a note though, suggesting that something is going down at the end of the Santa Monica Pier."
+			"Description"	"Ви вiдвiдали Магазин Диму, але друг Бекетта там не був. Скотт залишив записку, вказуючи, що щось вiдбувається в кiнцi пiра Санта-Монiки."
 			"Type"		"incomplete"
 		}
 		CompletionState
 		{
 			"ID"		"3"
-			"Description"	"At the end of the Santa Monica pier you found signs of a bloody fight and a hastily scrawled paper telling you to investigate the \"shop on the move\" in Santa Monica. And a password is supposed to be the \"city of the coffin\"."
+			"Description"	"На кiнцi пiрсу Санта-Монiки ви знайшли слiди кровавої битви та поспiшно накреслений папiр, що закликає вас розслiдувати \."shop on the move\" in Santa Monica. And a password is supposed to be the \"city of the coffin\"."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"4"
-			"Description"	"You searched the Santa Monica Coffee Shop and found Scott's laptop. His journal noted it's possible to enter the Downtown Public Library using a sewer access. Time to do that."
+			"Description"	"Ви обшукали кав'ярню у Санта-Монiцi i знайшли ноутбук Скотта. У його щоденнику зазначено, що можна потрапити до Центральної Бiблiотеки через каналiзацiю. Час це зробити."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"5"
-			"Description"	"You have repaired the elevator up into the main library area. Now you can continue to look for the Sabbat, but you better refrain from attracting attention by killing everyone."
+			"Description"	"Ви вiдремонтували лiфт, що веде до головної бiблiотеки. Тепер ви можете продовжити пошуки Саббату, але вам краще утриматися вiд привертання уваги, вбиваючи всiх."
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"6"
-			"Description"	"The backroom library computer unlocked a hidden switch. Sounds like this could open a secret entrance nearby!"
+			"Description"	"Комп'ютер у бiблiотецi у заднiй кiмнатi розблокував прихований вимикач. Здається, це може вiдкрити секретний вхiд поблизу!"
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"7"
-			"Description"	"You discovered a ritual chamber below the downtown public library. What is going on here?"
+			"Description"	"Ви виявили ритуальну камеру пiд громадською бiблiотекою в центрi мiста. Що тут вiдбувається?"
 			"Type"		"incomplete"
 		}
 
 		CompletionState
 		{
 			"ID"		"8"
-			"Description"	"You have stopped the Sabbat trial and saved Beckett's friend Scott too."
+			"Description"	"Ви зупинили суд Саббату i також врятували друга Бекетта, Скотта."
 			"Type"		"success"
 			"AwardXP"		"Library01"
 		}

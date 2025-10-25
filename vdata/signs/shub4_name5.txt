@@ -18,7 +18,7 @@ SignData
 
 	TextBlock
 	{
-		"Text"		"L. ькеоо╡м"
+		"Text"		"     к. ькеоо╡м"
 		"Font"		"Headline"
 		"XPos"		"30"
 		"YPos"		"30"

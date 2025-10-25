@@ -10,7 +10,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"ÏÎØÓÊ Ó ÊÀÍÀË²ÇÀÖ²¯!"
+		"Text"				"ÊÀÍÀË²ÇÀÖ²ÉÍÈÉ ÏÎËŞÂÀÍÍß!"
 		"Font"				"Headline"
 		"XPos"				"230"
 		"YPos"				"145"

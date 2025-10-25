@@ -23,7 +23,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"якюбермхи еь п╡бепя бхундхрэ фхбхл г ялепрекэмн╞ юбюп╡╞!"		// changed by wesp
+		"Text"				"якюбермхи еь п╡бепя бхундхрэ фхбхл г онд╡╞ юбюп╡╞!"		// changed by wesp
 		"Font"				"Newsprint"
 		"XPos"				"233"
 		"YPos"				"200"

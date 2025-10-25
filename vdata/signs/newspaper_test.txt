@@ -10,7 +10,7 @@ NewspaperData	// changed by wesp & psycho-a
 
 	TextBlock	// Head line 1
 	{
-		"Text"				"б╡днлхи к╡йюп"
+		"Text"				"   б╡днлхи к╡йюп"
 		"Font"				"Headline"
 		"XPos"				"233"
 		"YPos"				"155"	// 160
@@ -23,7 +23,7 @@ NewspaperData	// changed by wesp & psycho-a
 
 	TextBlock	// Head line 2
 	{
-		"Text"				"цхме б дро"
+		"Text"				"   онлхпю╙ б дро"
 		"Font"				"Headline"
 		"XPos"				"233"
 		"YPos"				"205"	// 210
@@ -36,7 +36,7 @@ NewspaperData	// changed by wesp & psycho-a
 
 	TextBlock	// Text line 1
 	{
-		"Text"				"28  кчр  1925  мебо╡гмюме р╡кн б╡днлнцн"
+		"Text"				"         28  FEB  1925  мебо╡гмюме р╡кн  б╡днлнцн"
 		"Font"				"Newsprint"
 		"XPos"				"233"
 		"YPos"				"260"	// 290
@@ -49,7 +49,7 @@ NewspaperData	// changed by wesp & psycho-a
 
 	TextBlock	// Text line 2
 	{
-		"Text"				"         гмхфеммъ  д-п  юк╡яреп  цпюср  асб  гмюидемхи  с  ябн╙лс  цнпъвнлс"
+		"Text"				"         глемьемхи  д-п  ек╡яреп  цпюср  асб  гмюидемхи  с  ябн╙лс  цнпъвнлс"
 		"Font"				"Newsprint"
 		"XPos"				"233"
 		"YPos"				"280"	// 310
@@ -62,7 +62,7 @@ NewspaperData	// changed by wesp & psycho-a
 
 	TextBlock	// Text line 3
 	{
-		"Text"				"юбрнлна╡кэ, ъй б╡м пнгахбяъ яэнцндм╡ б цнкк╡бсдяэйху оюцнпаюу!!!"
+		"Text"				"         люьхмю  ъй  бнмю  пнгахкюяъ  б  цнкк╡бсдяэйху  оюцнпаюу  яэнцндм╡!!!"
 		"Font"				"Newsprint"
 		"XPos"				"233"
 		"YPos"				"300"	// 330

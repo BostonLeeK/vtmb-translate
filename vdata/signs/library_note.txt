@@ -19,7 +19,7 @@ SignData	// added by wesp
 	TextBlock
 	{
 		"Text"		"Лi,
-хтось змiнив пароль до комп'ютера у заднiй кiмнатi галереї на "awaken"! Що за чорт?
+хтось змiнив пароль до комп'ютера в заднiй кiмнатi галереї на "awaken"! Що за чорт?
 Девiд"
 		"Font"		"Vamp_Handwriting1"
 		"XPos"		"103"

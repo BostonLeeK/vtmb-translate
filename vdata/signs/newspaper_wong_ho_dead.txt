@@ -10,7 +10,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"демэ бахбярб!"
+		"Text"				"SLAUGHTERDAY!"
 		"Font"				"Headline"
 		"XPos"				"230"
 		"YPos"				"145"

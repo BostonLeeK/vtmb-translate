@@ -10,7 +10,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"бхйпюдемхи опнт!"
+		"Text"				"PILFERED PROF!"
 		"Font"				"Headline"
 		"XPos"				"230"
 		"YPos"				"145"
@@ -23,7 +23,7 @@ NewspaperData
 
 	TextBlock
 	{
-		"Text"				"бхйпюдемн б╡дйпхбювю яюпйнтюцс юмйюпюмю г цнрекч!"
+		"Text"				"б╡дйпхбюв яюпйнтюцс юмйюпю асб бхйпюдемхи г цнрекч!"
 		"Font"				"Newsprint"
 		"XPos"				"233"
 		"YPos"				"200"

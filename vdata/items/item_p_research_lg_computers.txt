@@ -9,7 +9,7 @@ WeaponData
 	
 	"anim_prefix"		" "
 
-	"printname"			"Computers for Grandma"
+	"printname"			"Комп'ютери для Бабусi"
 	"description"		"\"To begin, put the 'foot pedal' on the desk and push the power button on the metal box. This is the 'house' for your friend computer 'Chip', the enchanted, electronic pixie that can do 4.8 billion calculations per second (WOW, that's fast, Chip!). Do you see an image on the 'magical computer window'...?\" Reading this will boost your Computer knowledge."
 
 	"camera_class"		"noswitch"

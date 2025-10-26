@@ -9,7 +9,7 @@ WeaponData
 
 	"anim_prefix"	" "
 
-	"printname"	"Bubble Bum"
+	"printname"	"Бульбуль Бам"
 	"description"	"Just an ordinary pack of chewing gum."
 //	"viewmodel"				"models/w_null.mdl"
 //	"wieldmodel_f"			"models/w_null.mdl"

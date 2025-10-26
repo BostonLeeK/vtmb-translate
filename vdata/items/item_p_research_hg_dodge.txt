@@ -10,7 +10,7 @@ WeaponData
 	"wieldmodel_m"		"models/w_null.mdl"
 	"anim_prefix"		" "
 
-	"printname"		"Bad Monkey No Banana"	// changed by wesp
+	"printname"		"Поганий Мавпа Без Банана"	// changed by wesp
 	"description"		"A handbook from Les Assasins de Roullents, a Quйbecois terrorist organization hidden under an innocent cover. This manual holds the secrets to dodging bullets, trains, and other projectiles. Raises your Dodge talent."	// changed by wesp
 
 	"weight"			"3"

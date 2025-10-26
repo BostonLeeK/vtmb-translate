@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Records Room Key"
-	"description"	"Key to the Elizabeth Dane's records room."
+	"printname"	"Ключ вiд кiмнати з записами"
+	"description"	"Ключ до кiмнати з записами Елiзабет Дейн."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

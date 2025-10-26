@@ -10,7 +10,7 @@ WeaponData
 	"wieldmodel_m"		"models/w_null.mdl"
 	"anim_prefix"		" "
 
-	"printname"			"The Cowboy's Guide to Cyberspace by Case"
+	"printname"			"Посiбник ковбоя по кiберпростору вiд Кейса"
 	"description"		"Cowboys and Cyberspace don't mix. Now that we've got that outta the way.... Raises your Computer knowledge."
 
 	"weight"			"3"

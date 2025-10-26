@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"		"models/w_null.mdl"
 	"anim_prefix"		" "
 
-	"printname"		"Braid Talisman"	// changed by wesp
-	"description"		"When wearing this shamanistic fetish, your feel your spirit move fast like an eagle. Plus one to Wits."	// changed by wesp
+	"printname"		"Талiсман Заплiтання"	// changed by wesp
+	"description"		"Коли ви носите цей шаманський фетиш, ваш дух рухається швидко, як орел. Додає один бал до Інтелекту."	// changed by wesp
 
 	"weight"			"3"
 	"item_flags"		"1"

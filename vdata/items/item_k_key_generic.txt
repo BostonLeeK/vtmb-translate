@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Museum Front Door Keys"	// changed by wesp
-	"description"	"These are the keys to the front door of the Museum of Natural History."	// changed by wesp
+	"printname"	"Ключi до вхiдних дверей музею"	// changed by wesp
+	"description"	"Це ключi до переднiх дверей Музею Природної Історiї."	// changed by wesp
 
 	"bucket"		"1"
 	"bucket_position"	"2"

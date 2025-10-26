@@ -17,8 +17,8 @@ WeaponData
 	"origin_y"		"-2"
 	"origin_z"		"68"
 
-	"printname"		"Thaumaturgy"
-	"description"	""
+	"printname"		"Тауматургiя"
+	"опис"	""
 
 	"bucket"		"0"
 	"bucket_position"	"6"

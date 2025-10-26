@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Museum Workroom Key"
-	"description"	"Key to the museum's workroom."
+	"printname"	"Ключ до робочої кiмнати музею"
+	"description"	"Ключ до робочої кiмнати музею."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

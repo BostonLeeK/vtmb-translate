@@ -2,7 +2,7 @@
 
 WeaponData
 {
-	"printname"	"Broadsword"
+	"printname"	"Бродський меч"
 	"description"	"This medieval double-edged straight broadsword can be used single handed, and it's quite deadly if used with knowledge and skill."	// changed by wesp
 
 	"viewmodel"	"models/weapons/w_null.mdl"

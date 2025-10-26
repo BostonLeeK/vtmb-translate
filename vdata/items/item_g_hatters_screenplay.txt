@@ -9,7 +9,7 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Screenplay"
+	"printname"	"—ценарiй"
 	"description"	"An envelope with David Hatter's screenplay. It is tentatively titled \"Humanity vs. The Vampire Lords\"."	// changed by wesp
 
 	"bucket"		"1"

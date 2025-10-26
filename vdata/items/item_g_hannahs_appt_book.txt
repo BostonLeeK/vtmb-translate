@@ -9,7 +9,7 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Appointment Book"
+	"printname"	" нига призначень"
 	"description"	"This looks like a standard appointment book:
 
 			9/05/04 - Arthur Kilpatrick - meet Arthur at his place in Santa Monica. Remember to bring the handcuffs and the orange jumpsuit, as he likes to play \"Lock Down at the Women's Prison\". This guy is sick.

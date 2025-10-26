@@ -10,8 +10,8 @@ WeaponData
 	"infomodel"		"models\scenery\misc\armor\LeatherLight\LeatherLight.mdl"
 	"anim_prefix"	"lt_leather"
 
-	"printname"		"Light Leather"
-	"description"	"This is a set of light leather clothing. Light leather clothing has an armor rating of 2, but hinders movement slightly, resulting in a -1 to Dexterity. Some examples of light leather clothing are leather jackets, leather skirts, and leather gloves and boots."	// changed by wesp
+	"printname"		"Свiтла шкiра"
+	"description"	"Це комплект легкої шкiряної одягу. Легка шкiряна одяг має бронювальний рейтинг 2, але трохи утруднює рух, що призводить до -1 до Ловкостi. Деякi приклади легкої шкiряної одягу - це шкiрянi куртки, шкiрянi спiдницi, а також шкiрянi рукавички та черевики."	// changed by wesp
 
 	"bucket"		"1"
 	"bucket_position"	"2"

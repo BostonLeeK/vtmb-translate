@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Video Tape"
-	"description"	"Jock Shot's Swimsuit Shoot. 98 percent chance that someone has gone wild."
+	"printname"	"Вiдеокасета"
+	"description"	"Зйомка купальникiв Jock Shot. Ймовiрнiсть 98 вiдсоткiв, що хтось вийшов з-пiд контролю."
 
 
 	"bucket"		"1"

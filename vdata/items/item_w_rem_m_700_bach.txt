@@ -2,7 +2,7 @@
 
 WeaponData
 {
-	"printname"			"Remington M700P" // changed by Wesp
+	"printname"			"Ремiнгтон М700Р" // changed by Wesp
 	"description"			"This is a standard tactical rifle most commonly employed by SWAT teams. It features a 10x scope to pick beads of sweat off the target's forehead. It has to be reloaded after each shot." // changed by Wesp
 	"viewmodel"			"models/weapons/rifle_rem700/view/v_Rem700_bach.mdl"
 	"playermodel"			"models/weapons/rifle_rem700/ground/g_rifle_rem700_bach.mdl"

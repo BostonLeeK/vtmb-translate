@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Ocean House Sewer Key"	// changed by wesp
-	"description"	"This looks like someone's spare key."
+	"printname"	"Ключ вiд каналiзацiї Оушен Хаус"	// changed by wesp
+	"description"	"Це схоже на запасний ключ когось."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

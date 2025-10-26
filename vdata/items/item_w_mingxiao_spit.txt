@@ -2,7 +2,7 @@
 
 WeaponData
 {
-	"printname"              "Ming Xiao Spit"	// changed by wesp
+	"printname"              "Ìií Ñÿî Ñïiò"	// changed by wesp
 	"description"            "Toxic Spit attack by Ming."	// changed by wesp
 
 	"viewmodel"              "models/weapons/w_null.mdl"

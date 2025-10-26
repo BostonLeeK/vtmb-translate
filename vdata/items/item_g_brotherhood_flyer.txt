@@ -9,7 +9,7 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Brotherhood Flyer"
+	"printname"	"Братство Лiтак"
 	"description"	"The writing on this flyer reads \"I am Enlightened\"."
 
 

@@ -2,7 +2,7 @@
 
 WeaponData
 {
-	"printname"		"Chang Energy Ball"	// changed by wesp
+	"printname"		"Куля енергiї Чанга"	// changed by wesp
 	"description"		"Energy Ball thrown by Chang Brother."	// changed by wesp
 	"item_worth"		"200"
 
@@ -47,7 +47,7 @@ WeaponData
 	Magazine
 	{
 		//printname description and ammo_worth should be the same as in WeaponData
-		"printname"		"Fragmentation Grenade"
+		"printname"		"Граната фрагментацiї"
 		"description"		"Pull pin for fun and profit."
 		"ammo_worth"		"200"
 
@@ -265,7 +265,7 @@ WeaponData
 //
 //WeaponData
 //{
-//	"printname"			"Chang Bros' Energy Ball"
+//	"printname"			"Енергетична куля братiв Чангiв"
 //	"description"		"For use by Chang Bros' boss only"
 //	"item_worth"		"200"
 //
@@ -305,7 +305,7 @@ WeaponData
 ////	Magazine
 //	{
 //		//printname description and ammo_worth should be the same as in WeaponData
-//		"printname"			"Chang Bros' Energy Ball"
+//		"printname"			"Енергетична куля братiв Чангiв"
 //		"description"		"For use by Chang Bros' boss only"
 //		"ammo_worth"		"200"
 //

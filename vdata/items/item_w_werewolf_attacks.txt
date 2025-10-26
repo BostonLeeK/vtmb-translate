@@ -10,7 +10,7 @@ WeaponData
 	"wieldmodel_m"         "models/weapons/w_null.mdl"
 	"anim_prefix"          ""
 
-	"printname"		"Unknown"	// added by wesp
+	"printname"		"Невiдомо"	// added by wesp
 	"description"	"You haven't seen one of these before, but Bun Bun left it here, so it can't be good news.
 
 You need a Research skill of at least 6 to use this item."	// added by wesp

@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Internet Cafй Key"
-	"description"	"Key to the office of the Internet Cafй."
+	"printname"	"Ключ до Інтернет-кафе"
+	"description"	"Ключ до офiсу Інтернет-кафе."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

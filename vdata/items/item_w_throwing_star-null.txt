@@ -17,7 +17,7 @@ WeaponData
 	"impact_snd_group"	""
 
 
-	"printname"				"Throwing Star"
+	"printname"				"«iрка-кидальниц€"
 	"description"			"When you wish upon a throwing star, you wish you had infomodel, wieldmodels and a projectile model so you could finish implemented the damn thing."
 	"activation0"			"Attack"
 	"activation1"			""

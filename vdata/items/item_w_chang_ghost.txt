@@ -2,7 +2,7 @@
 
 WeaponData
 {
-	"printname"		"Chang Explosion"	// changed by wesp
+	"printname"		"Вибух Чанга"	// changed by wesp
 	"description"		"Explosion that is created by floating Chang Brothers."	// changed by wesp
 	"item_worth"		"200"
 
@@ -49,7 +49,7 @@ WeaponData
 	Magazine
 	{
 		//printname description and ammo_worth should be the same as in WeaponData
-		"printname"		"Fragmentation Grenade"
+		"printname"		"Граната фрагментацiї"
 		"description"		"Pull pin for fun and profit."
 		"ammo_worth"		"200"
 

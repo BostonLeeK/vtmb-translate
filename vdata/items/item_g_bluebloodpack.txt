@@ -2,8 +2,8 @@
 
 WeaponData
 {
-	"printname"				"Blue Blood Pack"
-	"description"			"A bag of blood from only the finest human specimens. Drinking it restores 5 blood points."	// changed by wesp
+	"printname"				"Синя кровна зграя"
+	"description"			"Мiшок кровi вiд лише найкращих людських екземплярiв. Випивши його, вiдновлюється 5 кровi."	// changed by wesp
 	"item_worth"			"110"
 
 	"viewmodel"			"models/w_null.mdl"

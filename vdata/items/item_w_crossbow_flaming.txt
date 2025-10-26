@@ -2,7 +2,7 @@
 
 WeaponData
 {
-	"printname"		"Dragon's Breath"
+	"printname"		"Дихання дракона"
 	"description"		"In accordance with the Protocol to the Geneva Convention of 1983 the use of phosphorous munitions in populated areas is prohibited. This sawed off shotgun fires them nevertheless."	// changed by wesp
 
 	"viewmodel"		"models/weapons/breath/view/v_dragonbreath.mdl"

@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Photo"
-	"description"	"A blurry photo of what looks to be a Nosferatu."
+	"printname"	"Фото"
+	"description"	"Розмите фото того, що, здається, є Носферату."
 
 
 	"bucket"		"1"

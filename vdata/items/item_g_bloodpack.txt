@@ -2,8 +2,8 @@
 
 WeaponData
 {
-	"printname"			"Blood Pack"
-	"description"			"A bag of blood routinely used in hospitals for transfusions. Using it restores 3 blood points."	// changed by wesp
+	"printname"			"Кровний пакт"
+	"description"			"Мiшок кровi, який регулярно використовується в лiкарнях для переливання. Використання його вiдновлює 3 кровi."	// changed by wesp
 	"item_worth"			"55"
 
 	

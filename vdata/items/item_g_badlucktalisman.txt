@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Bad Luck Talisman"
-	"description"	"A talisman that you were asked to put in a marked locker at the Lotus Blossom."	// changed by wesp
+	"printname"	"Талiсман Невдачi"
+	"description"	"Талiсман, який вам було попросили покласти в позначений шафцi в Лотосовому Квiтцi."	// changed by wesp
 
 	"bucket"		"1"
 	"bucket_position"	"2"

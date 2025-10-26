@@ -10,7 +10,7 @@ WeaponData
 	"wieldmodel_m"		"models/w_null.mdl"
 	"anim_prefix"		" "
 
-	"printname"		"Bustin' It: Harmful If Swallowed Hint Book"
+	"printname"		"Розкриття: Шкiдливо, якщо ковтати Пiдказка до гри"
 	"description"		"The only official strategy guide with all the hottest tricks and tips for Bustin' It: Harmful If Swallowed, the first-ever fighting game designed by fashion impresario Hiram Oceros! With stupid-dope street style and hip hop flava! Raises your Melee skill."
 
 	"weight"			"3"

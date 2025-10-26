@@ -2,7 +2,7 @@
 
 WeaponData
 {
-	"printname"	"Sheriff Sword"
+	"printname"	"Меч Шерифа"
 	"description"	"You shouldn't have this! But now it's all yours."	// changed by wesp 
 	"item_worth"	"100"
 

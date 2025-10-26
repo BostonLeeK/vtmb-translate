@@ -9,16 +9,16 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Mercurio's Journal"
-	"description"	"Prince wants me to help some fresh punk blow up that Sabbat warehouse. 
+	"printname"	"Журнал Меркурiо"
+	"description"	"Князь хоче, щоб я допомiг цьому свiжому панку пiдiрвати той склад Саббату.
 
-Don't forget to pick up the Astrolite from Dennis. 
+Не забудь забрати астролiт у Деннiса.
 
-Note: Find out how to get to the warehouse from Bertram Tung.
+Примiтка: Дiзнайся, як дiстатися до складу вiд Бертрама Танга.
 
-Damn vampire political bullshit. Tung is hiding out because of a feud with Therese. 
+Чортова вампiрська полiтична чуш. Танг ховається через сварку з Терезою.
 
-Remember to go talk to Therese at The Asylum before the new blood gets here."
+Не забудь поговорити з Терезою в Безумствi, перш нiж сюди прийде нова кров."
 
 
 

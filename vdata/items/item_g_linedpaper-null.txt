@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
  
-	"printname"	"Lined Paper"
-	"description"	"This looks like a pad of lined paper."
+	"printname"	"Лiнiйковий папiр"
+	"description"	"Це схоже на блокнот з лiнiйковим папером."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

@@ -9,8 +9,8 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Briefcase"
-	"description"	"A briefcase with contents unknown. Larry asked you to grab this from an exchange in the parking garage, which you obviously did."
+	"printname"	"Саквояж"
+	"description"	"Кейс з невiдомим вмiстом. Ларрi попросив вас забрати його з обмiну на парковцi, що ви, очевидно, i зробили."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

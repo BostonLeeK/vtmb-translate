@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"		"models/w_null.mdl"
 	"anim_prefix"		" "
 
-	"printname"			"Bloodstar"
-	"description"		"All Kindred have the innate power to push their undead bodies to the height of mortal capacity, but only for a moment and at a dire cost of blood. This eldritch talisman was crafted to boost this ability. Bloodbuff has twice the duration."	// changed by wesp
+	"printname"			"Кров'яна зiрка"
+	"description"		"Усi Кiндрi мають вроджену здатнiсть пiднiмати свої мертвi тiла до межi смертної здатностi, але лише на мить i за велику цiну кровi. Цей ельдрiчний талiсман був створений, щоб пiдсилити цю здатнiсть. Кровобуст має подвоєний час дiї."	// changed by wesp
 	"weight"			"3"
 	"item_flags"		"1"
 	"item_type"			"powerup"

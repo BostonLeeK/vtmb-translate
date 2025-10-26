@@ -2,7 +2,7 @@
 
 WeaponData
 {
-	"printname"	"Katana"
+	"printname"	"Катана"
 	"description"	"A light, slightly curved traditional Japanese sword designed for quick slashing attacks. To Kindred, a competent swordsman is far more dangerous than a sharpshooter."
 
 //	"viewmodel"	"models/weapons/katana/view/v_katana.mdl"

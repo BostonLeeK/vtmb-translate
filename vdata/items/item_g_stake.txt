@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Wooden Stake"
-	"description"	"A wooden stake."
+	"printname"	"Δεπεβ'ÿνθι κiλεφό"
+	"description"	"Δεπεβ'ÿνθι κiλ."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

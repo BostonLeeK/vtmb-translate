@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Fu Syndicate Office Key"
-	"description"	"An office key card."
+	"printname"	"Ключ до офiсу Фу Синдикату"
+	"description"	"Офiсна картка доступу."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

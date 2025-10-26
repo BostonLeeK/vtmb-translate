@@ -10,7 +10,7 @@ WeaponData
 	"wieldmodel_m"		"models/w_null.mdl"
 	"anim_prefix"		" "
 
-	"printname"			"Key of Alamut"
+	"printname"			"Ключ Аламуту"
 	"description"		"These wands have been carried by the feared assassins of Clan Assamite for millennia. One of only a handful still in existence, this Key of Alamut gives its owner extraordinary resilience to damage. Increases all Soak ratings by one."
 
 	"weight"			"3"

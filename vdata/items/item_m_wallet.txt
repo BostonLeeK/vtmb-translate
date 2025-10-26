@@ -11,8 +11,8 @@ WeaponData
 
 	"anim_prefix"			"none"
 
-	"printname"			"Wallet"
-	"description"			"Not your wallet."
+	"printname"			"Гаманець"
+	"description"			"Не ваш гаманець."
 
 	"bucket"				"0"
 	"bucket_position"		"2"

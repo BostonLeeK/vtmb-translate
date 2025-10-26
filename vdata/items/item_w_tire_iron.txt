@@ -2,8 +2,8 @@
 
 WeaponData
 {
-	"printname"		"Tire Iron"
-	"description"		"Heavy, metal, blunt. Could be used for fixing a flat, sure."
+	"printname"		"Залiзний лом"
+	"description"		"Важкий, металевий, тупий. Може бути використаний для виправлення проколу, безперечно."
 //	"viewmodel"		"models/weapons/tireiron/view/v_tireiron.mdl"
 //"viewmodel"	""
 "viewmodel"	"models/weapons/w_null.mdl"

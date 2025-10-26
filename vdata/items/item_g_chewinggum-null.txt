@@ -9,8 +9,8 @@ WeaponData
 
 	"anim_prefix"	" "
 
-	"printname"	"Chewing Gum"
-	"description"	"Just an ordinary pack of Chewing Gum."
+	"printname"	"Жувальна гумка"
+	"description"	"Звичайна пачка жувальної гумки."
 	"viewmodel"				"models/w_null.mdl"
 	"wieldmodel_f"			"models/w_null.mdl"
 	"wieldmodel_m"			"models/w_null.mdl"

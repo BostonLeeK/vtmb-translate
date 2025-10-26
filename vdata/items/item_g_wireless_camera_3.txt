@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"		"models/w_null.mdl"
 	"anim_prefix"		" "
 
-	"printname"			"Squashed Odious Chalice"
-	"description"		"This perverse Tzimisce fleshcrafter creation appears to have been extensively experimented on to the point of it being unusable."
+	"printname"			"Роздавлений огидний келих"
+	"description"		"Ця вiдразлива створiння-флешкрафтер Тзiмiсця, здається, була об'єктом численних експериментiв до такої мiри, що вона стала непридатною для використання."
 
 	"weight"			"3"
 	"item_flags"		"1"

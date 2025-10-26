@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Tawni's Apartment Key"
-	"description"	"Key to Tawni Sessions' apartment."
+	"printname"	"Ключ вiд квартири Тонi"
+	"description"	"Ключ до квартири Тонi Сешнс."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
  
-	"printname"	"Animal Training Book"
-	"description"	"Gallery Noir's Charity Money."
+	"printname"	"Книга з дресирування тварин"
+	"description"	"Грошi благодiйностi Галереї Нуар."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

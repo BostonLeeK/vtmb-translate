@@ -9,7 +9,7 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"VV's Autographed Photo"
+	"printname"	"Автографоване фото ВВ"
 	"description"	"\"I may be delivering a memento of moi to your haven computer, but this should tide you over for now. Love, VV\""	// changed by wesp
 
 	"bucket"		"1"

@@ -2,7 +2,7 @@
 
 WeaponData
 {
-	"printname"		"Knife"
+	"printname"		"Íiæ"
 	"description"		"Some knives, throughout their entire existence, are never used for any malicious purpose. This ain't one of them."
 //	"viewmodel"		"models/weapons/knife/view/v_knife.mdl"
 //"viewmodel"	""

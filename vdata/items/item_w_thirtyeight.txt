@@ -2,7 +2,7 @@
 
 WeaponData
 {
-	"printname"		"Colt Police Positive Special"	// changed by wesp
+	"printname"		"Кольт Полiс Позитив Спешл"	// changed by wesp
 	"description"		"This 'Thirty-Eight' is a cheap, small-caliber handgun used by start-up hoods in alleys across the country. Also known as a purse gun."	// changed by wesp
 
 	"viewmodel"		"models/weapons/ThirtyEight/view/v_ThirtyEight.mdl"

@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Film Canister"
-	"description"	"A battered film cannister. Tap Hotel. Shuffle Step."
+	"printname"	"Плiвковий банкiвський пакет"
+	"description"	"Пошкоджений кiнокасета. Готель "Тап". Шафл-степ."
 
 
 	"bucket"		"1"

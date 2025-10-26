@@ -10,7 +10,7 @@ WeaponData
 //"anim_prefix"	"anaconda"
 
 	"impact_snd_group"	""
-	"printname"		"Hands"	// added by wesp
+	"printname"		"Руки"	// added by wesp
 	"description"	"Your hands."	// added by wesp
 
 //	"viewmodel"		"models/weapons/Fists/view/v_fists.mdl"

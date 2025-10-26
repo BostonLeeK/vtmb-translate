@@ -9,8 +9,8 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Bail Bond"
-	"description"	"This is the receipt for a bail bond. The bail bond was for one Rolf Toten."
+	"printname"	"Вiдшкодування за поруку"
+	"description"	"Це квитанцiя за заставу. Застава була взята на iм'я Рольфа Тотена."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

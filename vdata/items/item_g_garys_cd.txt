@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Pull toy"
-	"description"	"A wooden pull toy shaped like a duck."
+	"printname"	"Іграшка на шнурку"
+	"description"	"Дерев'яна iграшка-тягач у формi качки."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

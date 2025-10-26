@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"		"models/w_null.mdl"
 	"anim_prefix"		" "
 
-	"printname"			"Fae Charm"
-	"description"		"This grim totem makes you feel light as a bird. Plus one to Dexterity."
+	"printname"			"Феїчний обман"
+	"description"		"Цей мрачний тотем дає вам вiдчуття легкостi, як у птаха. +1 до Ловкостi."
 
 	"weight"			"3"
 	"item_flags"		"1"

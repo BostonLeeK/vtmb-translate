@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Name Plate"
-	"description"	"This is a silver-bronze name plate including a special and very expensive transponder chip."
+	"printname"	"Табличка з iм'ям"
+	"description"	"Це срiбло-бронзова нашивка з вбудованим спецiальним i дуже дорогим транспондерним чiпом."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

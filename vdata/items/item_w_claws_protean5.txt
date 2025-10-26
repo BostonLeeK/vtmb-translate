@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/weapons/claw/wield/w_m_claws.mdl"
 	"anim_prefix"	"claw"
  
-	"printname"	"Vacuum Tubes"
-	"description"	"This is a box with a few old vacuum tubes inside."
+	"printname"	"Вакуумнi лампи"
+	"description"	"Це коробка з декiлькома старими вакуумними лампами всерединi."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

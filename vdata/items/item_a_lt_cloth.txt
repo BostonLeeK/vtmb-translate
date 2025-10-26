@@ -10,8 +10,8 @@ WeaponData
 	"infomodel"		"models\scenery\misc\armor\ClothesLight\ClothesLight.mdl"
 	"anim_prefix"	"lt_cloth"
 
-	"printname"		"Light Clothing"
-	"description"	"This is the most basic and unrestrictive clothing. Examples would be t-shirts, khakis, sun dresses, and pleated skirts."	// changed by wesp
+	"printname"		"Ћегка од€г"
+	"description"	"÷е найбiльш базовий i нерегульований од€г. ѕрикладами можуть бути футболки, хакi, сон€чнi сукнi та спiдницi зi складками."	// changed by wesp
 
 	"bucket"		"1"
 	"bucket_position"	"2"

@@ -2,7 +2,7 @@
 
 WeaponData
 {
-	"printname"		"Baseball Bat"
+	"printname"		"Бейсбольна бита"
 	"description"		"Once, the signature crack of this equipment conjured images of America's pastime. Now, it has evolved into the brutal chorus of a thugsong."	// changed by wesp 
 //	"viewmodel"		"models/weapons/baseball_bat/view/v_baseball_bat.mdl"
 //"viewmodel"	""

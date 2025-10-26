@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"		" "
 
 	"printname"			"Weekapaug Thistle"
-	"description"		"This petrified reed was not meant to fall into the hands of the Damned, but vampires can benefit from its shamanistic magick all the same. Increases Defense by one point."
+	"description"		"Цей окам'янiлий тростник не був призначений для падiння в руки Проклятих, але вампiри все одно можуть скористатися його шаманською магiєю. Збiльшує Захист на один пункт."
 
 	"weight"			"3"
 	"item_flags"		"1"

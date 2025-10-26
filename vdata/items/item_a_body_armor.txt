@@ -10,8 +10,8 @@ WeaponData
 	"infomodel"		"models\scenery\misc\armor\RiotGear\RiotGear.mdl"
 	"anim_prefix"	"riot_gear"
 
-	"printname"		"Body Armor"
-	"description"	"Most of these protective compounds are worn under clothing, for that extra ounce of \"not gonna die tonight\". Their armor rating is 4 with -2 to Dexterity."	// changed by wesp
+	"printname"		"Бронежилет"
+	"description"	"Бiльшiсть цих захисних засобiв носиться пiд одягом, для додаткової порцiї "не помру сьогоднi ввечерi". Їх броня має рейтинг 4 зi зниженням -2 до Ловкостi."	// changed by wesp
 
 	"bucket"		"1"
 	"bucket_position"	"2"

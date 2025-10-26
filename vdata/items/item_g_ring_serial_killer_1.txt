@@ -2,8 +2,8 @@
 
 WeaponData
 {
-	"printname"	"Pearl of Dubai"
-	"description"	"This jewel is the famous Pearl of Dubai. It's very precious and full of a magical vibrancy that gives you a boost to your Charisma."
+	"printname"	"Перлина Дубая"
+	"description"	"Цей коштовний камiнь - вiдомий Жемчуг Дубая. Вiн дуже цiнний i наповнений магiчною енергiєю, яка додає вам бонус до вашого Харизми."
 
 	// added by wesp
 	"infomodel"	"models/items/pearl_of_dubai/Info/pearl_of_dubai.mdl"

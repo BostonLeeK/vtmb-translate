@@ -10,8 +10,8 @@ WeaponData
 	"infomodel"		"models/scenery/misc/armor/LeatherHeavy/LeatherHeavy.mdl"
 	"anim_prefix"	"hvy_leather"
 
-	"printname"		"Heavy Leather"
-	"description"	"This is a set of heavy leather clothing. Heavy leather clothing has an armor rating of 3, but hinders movement, resulting in a -1 penalty to Dexterity. Some examples of heavy leather clothing are studded or reinforced leather jackets, girded leather pants, and hard leather gloves and boots." // changed by wesp
+	"printname"		"Тверда шкiра"
+	"description"	"Це комплект важкої шкiряної одягу. Важкий шкiряний одяг має бронювальний рейтинг 3, але обмежує рух, що призводить до штрафу -1 до Ловкостi. Деякi приклади важкого шкiряного одягу: оксамитовi або посилених шкiрянi куртки, пояснi шкiрянi штани та твердi шкiрянi рукавички та черевики." // changed by wesp
 
 	"bucket"		"0"
 	"bucket_position"	"2"

@@ -2,7 +2,7 @@
 
 WeaponData
 {
-	"printname"		"A severed arm"
+	"printname"		"Вiдiрвана рука"
 	"description"		"Although the previous owner probably misses it, you can still put it to good use."
 	"item_worth"		"0"
 

@@ -10,7 +10,7 @@ WeaponData
 	"wieldmodel_m"		"models/w_null.mdl"
 	"anim_prefix"		" "
 
-	"printname"			"Galdjum"
+	"printname"			"Гальджум"
 	"description"		"Holding this rough-hewn amber stone gives you a sense of peace, and even a glimmer of hope for salvation. You are able to hold the effect of most passive Disciplines longer as long as you possess Galdjum. Their durations are increased by twenty-five percent."	// changed by wesp
 
 	"weight"			"3"

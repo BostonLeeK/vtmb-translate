@@ -9,8 +9,8 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Fancy Watch"
-	"description"	"The faceplate says Quantum Limited Edition. This is the kind of watch that comes with its own matching luxury vehicle."	// changed by wesp
+	"printname"	"Елiтний годинник"
+	"description"	"На лицьовiй панелi написано Quantum Limited Edition. Це той вид годинника, який поставляється з власним вiдповiдним розкiшним автомобiлем."	// changed by wesp
 
 	"bucket"		"1"
 	"bucket_position"	"2"

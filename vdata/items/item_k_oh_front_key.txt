@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Ocean House Front Door Key"
-	"description"	"This key is labeled OCEAN HOUSE FRONT DOOR."
+	"printname"	"Ключ вiд вхiдних дверей Оушен Хаус"
+	"description"	"Цей ключ позначений як ДВЕРІ ОСЕНІВСЬКОГО БУДИНКУ."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Metalhead Access Card"
-	"description"	"Key to the door of Metalhead Industries."
+	"printname"	"Карта доступу Металхеда"
+	"description"	"Ключ до дверей Metalhead Industries."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

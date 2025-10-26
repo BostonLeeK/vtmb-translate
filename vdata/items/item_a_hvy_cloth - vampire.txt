@@ -10,8 +10,8 @@ WeaponData
 	"infomodel"		"models\scenery\misc\armor\ClothesHeavy\ClothesHeavy.mdl"
 	"anim_prefix"	"hvy_cloth"
 
-	"printname"		"Heavy Clothing"
-	"description"	"This is a set of heavy clothing, which acts as armor. Heavy clothing has an armor rating of 1, there are no stat penalties for equipping it. Examples would be jackets, coats, thick sweaters and sturdy trousers."	// changed by wesp
+	"printname"		"¬ажка од€г"
+	"description"	"÷е набiр важкого од€гу, €кий дiЇ €к брон€. ¬ажкий од€г маЇ бронювальний рейтинг 1, немаЇ штрафiв до статистики при його од€ганнi. ѕрикладами можуть бути куртки, пальта, товстi светри та мiцнi штани."	// changed by wesp
 
 	"bucket"		"1"
 	"bucket_position"	"2"

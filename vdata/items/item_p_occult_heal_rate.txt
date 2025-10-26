@@ -10,7 +10,7 @@ WeaponData
 	"wieldmodel_m"		"models/w_null.mdl"
 	"anim_prefix"		" "
 
-	"printname"			"Mummywrap Fetish"
+	"printname"			"Фетиш мумiї"
 	"description"		"Gazing upon this mummified fetish, you feel a rush of vitality to your undead flesh. Increases passive healing rate by twenty percent."	// changed by wesp
 
 	"weight"			"3"

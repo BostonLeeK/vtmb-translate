@@ -2,8 +2,8 @@
 
 WeaponData
 {
-	"printname"		"Thaumaturgy"
-	"description"	"Thaumaturgy casting"		// changed by wesp
+	"printname"		"Тауматургiя"
+	"description"	"Тауматургiйне заклинання"		// changed by wesp
 
 	"viewmodel"            "models/weapons/thaumaturgy/view/v_thaumaturgy.mdl"	// changed by Entenschreck
 	"playermodel"          "models/weapons/w_null.mdl"

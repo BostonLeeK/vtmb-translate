@@ -9,8 +9,8 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Gold Ring"
-	"description"	"This looks to be a class ring. Go North Brea Tech Iguanodons!"
+	"printname"	"Золоте кiльце"
+	"description"	"Це, схоже, кiльце вiд класу. Вперед, Технiчнi Ігуанодонти Бреа!"
 
 	"bucket"		"1"
 	"bucket_position"	"2"

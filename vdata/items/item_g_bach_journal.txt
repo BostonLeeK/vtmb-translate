@@ -9,7 +9,7 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Journal"
+	"printname"	"Журнал"
 	"description"	"This journal is inscribed with the initials \"G.B.\"
 
 			We have tracked LaCroix to Los Angeles. He has made his lair in the penthouse of the Venture Tower, hiding behind some legitimate business front while commanding his legion of demons by cover of night. I pray to the Lord for strength in the coming days, but there is a shadow that hangs over my heart like the dark wings of Lucifer himself. It is not LaCroix I fear, nor his underlings, but there is fear in my heart nonetheless. An ancient evil is stirring. May God grant me the strength to overcome it.

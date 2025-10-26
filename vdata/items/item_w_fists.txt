@@ -15,7 +15,7 @@ WeaponData
 
 	"impact_snd_group"	"fist"
 
-	"printname"		"Fists"	// changed by wesp
+	"printname"		"Кулаки"	// changed by wesp
 	"description"	"No weapon readied."
 	"activation0"	"Attack"
 	"activation1"	""

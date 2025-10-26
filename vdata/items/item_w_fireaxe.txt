@@ -2,7 +2,7 @@
 
 WeaponData
 {
-	"printname"		"Fire Axe"
+	"printname"		"Вогняний топiр"
 	"description"		"Truly, a tool for madmen. Who else would attack fire with a blade?"
 	"item_worth"		"180"
 	"player_sell"		"60"		// added by wesp

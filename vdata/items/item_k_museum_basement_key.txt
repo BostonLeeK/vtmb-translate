@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Museum Basement Key"
-	"description"	"Key to the museum basement."
+	"printname"	"Ключ до пiдвалу музею"
+	"description"	"Ключ до пiдвалу музею."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

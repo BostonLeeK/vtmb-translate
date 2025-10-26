@@ -2,8 +2,8 @@
 
 WeaponData
 {
-	"printname"			"Werewolf Blood"
-	"description"			"Blood allegedly taken from a werewolf."
+	"printname"			"Кров вовка"
+	"description"			"Кров, яку, як стверджують, взяли у вовкулаки."
 	"item_worth"			"0"
 
 	"playermodel"			"models/items/bloodvial/ground/bloodvial.mdl"	// changed by wesp

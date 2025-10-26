@@ -9,33 +9,33 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Diary"
-	"description"	"This seems to be a woman's diary:
-			4/30/03 - I met a guy today at The Asylum. He's SO beautiful, oh my god. His name is Rolf and he is from Germany. European men are just so classy compared to boring California boys. He asked to see me tomorrow night. I wonder if he's rich. He looks rich. I'm going to go shopping tomorrow and pick up something that won't make me look like a big, fat pig. Can't wait to see him.
+	"printname"	"Щоденник"
+	"description"	"Це, здається, щоденник жiнки:
+			4/30/03 - Сьогоднi я познайомилася з хлопцем в The Asylum. Вiн ТАКИЙ красивий, о мiй боже. Його звуть Рольф, i вiн з Нiмеччини. Європейськi чоловiки такi стильнi порiвняно з нудними хлопцями з Калiфорнiї. Вiн попросив мене побачитися завтра ввечерi. Цiкаво, чи вiн багатий. Вiн виглядає багатим. Завтра пiду пошоплюся i куплю щось, що не зробить мене великим, товстим поросям. Не можу дочекатися зустрiчi з ним.
 
-			5/21/03 - I think it's getting serious with Rolf. He told me he wanted to give me something very special next week and if it's what I think it is, it's about damn time. I thought Europeans were supposed to be less uptight about this sort of thing.
+			5/21/03 - Менi здається, що з Рольфом стає серйозно. Вiн сказав, що хоче подарувати менi щось дуже особливе наступного тижня, i якщо це те, про що я думаю, то вже пора. Я думала, що європейцi повиннi бути менш зацикленi на цi речi.
 			
-			6/06/03 - I woke up at 9 PM today. That would be strange in itself, except I don't remember going to sleep last night. In fact, I don't remember anything since last Saturday night when Rolf was over....
-			
-			6/10/03 - I woke up late again. I haven't eaten anything in four days. I don't know what's wrong with me....
-			
-			6/11/03 - Rolf came over last night. He said the reason I hadn't eaten anything was because I needed blood. He said it was all I could eat now, that I wouldn't feel hungry any more if I drank some. He had a bag of it from the local blood bank. I tried to refuse but I couldn't. What's happening to me?
-			
-			7/26/03 - Rolf said he's going to have to leave soon. He said people are trying to force him out of the country. He didn't say anything about taking me with him.
-			
-			8/22/03 - I had to bail Rolf out of jail today. He was arrested because his visa expired. He looked frightened. I'm afraid he's going to leave.
-			
-			12/07/03 - I haven't seen or heard from Rolf since the night I bailed him out. I don't know what to do. I thought he cared about me. Why did he do this to me...?
-			
-			4/15/04 - I talked with this guy I met in the Surfside until five this morning. When I told him I had to go, I felt like Cinderella. He seemed like a prince.
-			
-			4/16/04 - I met that guy from the Surfside again. He has no idea what I am....
-			
-			4/24/04 - I brought E, the guy from the Surfside, back to my apartment last night. He said he's going back to Australia in a few days, now that the tournament's coming to an end. I don't want him to leave. I've never felt this way about someone before, not even Rolf.
-			
-			4/25/04 - E kissed me last night and I couldn't stop myself from biting into his neck. But I drank too much and... I gave him my blood to save him. When I explained it all to him, he said he never wanted to see me again. What have I done?
-			
-			5/08/04 - I haven't been able to feed since that night with E. I'm afraid of what will happen. I remember Rolf brought blood from the blood bank. Maybe if I can sneak in, I can grab a few bags and get out before anyone catches me."
+			6/06/03 - Сьогоднi я прокинулася о 9 вечора. Це було б дивно само по собi, якби я не пам'ятала, що заснула вчора вночi. Насправдi, я не пам'ятаю нiчого з минулої суботи, коли був Рольф у гостях....
+
+			6/10/03 - Я знову прокинулася пiзно. Я не їла вже чотири днi. Я не розумiю, що зi мною не так....
+
+			6/11/03 - Рольф завiтав вчора ввечерi. Вiн сказав, що причина, чому я не їла, полягає в тому, що менi потрiбна кров. Вiн сказав, що це єдине, що я можу їсти тепер, що я не буду вiдчувати голоду, якщо я трохи вип'ю. У нього була пакет кровi з мiсцевого кровобанку. Я намагалася вiдмовитися, але не змогла. Що зi мною вiдбувається?
+
+			7/26/03 - Рольф сказав, що йому доведеться скоро виїхати. Вiн сказав, що люди намагаються вигнати його з країни. Вiн нiчого не сказав про те, щоб взяти мене з собою.
+
+			8/22/03 - Сьогоднi я викупила Рольфа з в'язницi. Його заарештували через закiнчення вiзи. Вiн виглядав наляканим. Я боюся, що вiн пiде.
+
+			12/07/03 - Я не бачила i не чула вiд Рольфа з того часу, як я його викупила. Я не знаю, що робити. Я думала, що вiн турбується про мене. Чому вiн це зробив менi...?
+
+			4/15/04 - Я розмовляла з хлопцем, якого я зустрiла в Surfside, до п'ятої ранку. Коли я сказала, що маю йти, я вiдчувала себе як Попелюшка. Вiн здавався принцом.
+
+			4/16/04 - Я знову зустрiла того хлопця з Surfside. Вiн не має уявлення, що я є....
+
+			4/24/04 - Я привела Е, хлопця з Surfside, до себе в апартаменти вчора ввечерi. Вiн сказав, що через кiлька днiв вiн повертається в Австралiю, оскiльки турнiр закiнчується. Я не хочу, щоб вiн вiд'їжджав. Я нiколи не вiдчувала так до когось, навiть не до Рольфа.
+
+			4/25/04 - Е поцiлував мене вчора ввечерi, i я не могла стримати себе вiд укусу в його шию. Але я випила занадто багато i... я дала йому свою кров, щоб врятувати його. Коли я пояснила йому все це, вiн сказав, що бiльше нiколи не хоче бачити мене. Що я зробила?
+
+			5/08/04 - Я не можу нiяк поживитися з того часу з Е. Я боюся, що станеться. Я пам'ятаю, що Рольф принiс кров з кровобанку. Можливо, якщо менi вдасться проникнути, я можу взяти кiлька пакетiв i втекти, поки на мене нiхто не натрапить."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

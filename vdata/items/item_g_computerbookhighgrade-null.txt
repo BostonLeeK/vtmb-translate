@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Computer Book High Grade"
-	"description"	"Gallery Noir's Charity Money."
+	"printname"	"Комп'ютерна книга високого класу"
+	"description"	"Грошi благодiйностi Галереї Нуар."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

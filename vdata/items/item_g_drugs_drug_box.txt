@@ -9,7 +9,7 @@ WeaponData
 
 	"anim_prefix"	" "
 
-	"printname"	"Drug Box"
+	"printname"	"Коробка наркотикiв"
 	"description"	"Vivitrazac. Take one before \"relations\". Allow six to eight hours for swelling to subside."
 
 	"bucket"		"1"

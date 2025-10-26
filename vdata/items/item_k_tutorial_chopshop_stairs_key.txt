@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Chopshop Key"
-	"description"	"Key to the stairwell at the back of the chopshop."
+	"printname"	"Ключ до автовiдсiчки"
+	"description"	"Ключ до сходової клiтини ззаду автосервiсу."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

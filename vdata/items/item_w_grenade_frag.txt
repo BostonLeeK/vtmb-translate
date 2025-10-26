@@ -2,7 +2,7 @@
 
 WeaponData
 {
-	"printname"			"Fragmentation Grenade"
+	"printname"			"Граната фрагментацiї"
 	"description"			"Pull pin for fun and profit. Or more likely blow yourself up."	// changed by wesp
 	"item_worth"			"200"
 

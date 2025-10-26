@@ -2,7 +2,7 @@
 
 WeaponData
 {
-	"printname"		"Flamethrower"
+	"printname"		"Вогнемет"
 	"description"		"Flamethrowers, in one form or another, have been used since ancient times. This one propels burning fuel in a several-foot arc, scorching everything in its path."
 	"viewmodel"		"models/weapons/flamethrower/view/v_flamethrower.mdl"
 	"playermodel"		"models/weapons/flamethrower/ground/g_flamethrower_r.mdl"

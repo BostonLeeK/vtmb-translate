@@ -2,8 +2,8 @@
 
 WeaponData
 {
-	"printname"	"Fleshy Ball"	// added by wesp
-	"description"	"A weird and disgusting fleshy ball."	// added by wesp
+	"printname"	"М'ясна куля"	// added by wesp
+	"description"	"Дивний i огидний м'ясистий шар."	// added by wesp
 
 	// added by wesp
 	"playermodel"	"models/scenery/misc/changball/changball.mdl"

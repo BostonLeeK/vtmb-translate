@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Ocean House Upstairs Key"		// changed by wesp
-	"description"	"A room key."
+	"printname"	"Ключ на верхнiй поверх Оушен Хаус."		// changed by wesp
+	"description"	"Ключ вiд кiмнати."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

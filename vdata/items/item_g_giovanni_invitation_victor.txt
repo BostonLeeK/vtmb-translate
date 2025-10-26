@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Giovanni Invitation"
-	"description"	"Victor Rossellini's invitation."	// changed by wesp
+	"printname"	"Запрошення вiд Джованнi"
+	"description"	"Запрошення Вiктора Роселлiнi."	// changed by wesp
 
 	"bucket"		"1"
 	"bucket_position"	"2"

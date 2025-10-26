@@ -9,8 +9,8 @@ WeaponData
 
 	"anim_prefix"	" "
 
-	"printname"	"Pill Bottle"
-	"description"	"Estrogen. Caution: Do not take if male."
+	"printname"	"Пляшка з таблетками"
+	"description"	"Естроген. Увага: не приймати, якщо чоловiк."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

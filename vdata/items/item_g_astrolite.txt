@@ -9,8 +9,8 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Astrolite"
-	"description"	"A powerful liquid explosive made from over-the-counter chemicals."
+	"printname"	"Астролiт"
+	"description"	"Потужний рiдкий вибуховий матерiал, виготовлений з хiмiкатiв, якi можна придбати без рецепта."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

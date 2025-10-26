@@ -9,7 +9,7 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Diary"
+	"printname"	"ўоденник"
 	"description"	"This is the charred remains of what looks like a diary:
 
 			05/30/1958 - Just arrived here, at the Ocean House. We have a week-long holiday here in Santa Monica, and Ed has booked us a room for the hotel's grand opening. It's a wonderful place, almost magical. The children have been swimming all afternoon.

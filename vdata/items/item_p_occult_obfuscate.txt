@@ -10,7 +10,7 @@ WeaponData
 	"wieldmodel_m"		"models/w_null.mdl"
 	"anim_prefix"		" "
 
-	"printname"			"Zharalketh"
+	"printname"			"«гаралкет."
 	"description"		"Sliding on this ring you feel the same stomach-dropping sensation you had when you first invoked Obfuscate. As long as you wear Zharalketh you will be able to maintain Obfuscate forty percent longer."	// changed by wesp
 
 	"weight"			"3"

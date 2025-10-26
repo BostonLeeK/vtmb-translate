@@ -2,7 +2,7 @@
 
 WeaponData
 {
-	"printname"	"Ming Close Melee"	// added by wesp
+	"printname"	"Ближнiй бiй Мiнгiв"	// added by wesp
 	"description"	"Close quarter attack by Ming."	// added by wesp
 
 	// Weapon data is loaded by both the Game and Client DLLs.

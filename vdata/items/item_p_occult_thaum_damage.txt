@@ -10,7 +10,7 @@ WeaponData
 	"wieldmodel_m"		"models/w_null.mdl"
 	"anim_prefix"		" "
 
-	"printname"			"Daimonori"
+	"printname"			"Демонорi."
 	"description"		"This pendant is hot to the touch, a heat that seeps into your core and fills you with a new confidence. You're unsure if this power is entirely your own, but its intoxicating lure is seemingly beyond your power to resist. Increases the damage of all Thaumaturgy effects by forty percent."	// changed by wesp
 
 	"weight"			"3"

@@ -2,7 +2,7 @@
 
 WeaponData
 {
-	"printname"		"GLOCK 19"	// changed by wesp
+	"printname"		"Ґлок 19"	// changed by wesp
 	"description"		"A 9 mm standard pistol with a polymer grip and guide rod (instead of metal) that makes it lighter than other pistols. It can be found in use by most law enforcement agencies."	// changed by wesp
 
 	"viewmodel"		"models/weapons/pistol_glock/view/v_pistol_glock.mdl"

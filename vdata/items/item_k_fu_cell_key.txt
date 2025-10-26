@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Fu Syndicate Cell Key"		// changed by wesp
-	"description"	"Key to a locked cell."		// changed by wesp
+	"printname"	"Ключ вiд клiтини Фу Синдикату"		// changed by wesp
+	"description"	"Ключ до закритої камери."		// changed by wesp
 
 	"bucket"		"1"
 	"bucket_position"	"2"

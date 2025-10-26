@@ -9,8 +9,8 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Pearl of Dubai"
-	"description"	"This jewel is the famous Pearl of Dubai."	//changed by wesp
+	"printname"	"Перлина Дубая"
+	"description"	"Цей коштовний камiнь - вiдомий Перлина Дубая."	//changed by wesp
 
 	"bucket"		"1"
 	"bucket_position"	"2"

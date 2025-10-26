@@ -9,8 +9,8 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Gold Ring"
-	"description"	"This looks to be a class ring... for the SERIEL KILLAH! #2"
+	"printname"	"Золоте кiльце"
+	"description"	"Це схоже на каблучку класу... для СЕРІЙНОГО ВБИЦІ! #2"
 
 	"bucket"		"1"
 	"bucket_position"	"2"

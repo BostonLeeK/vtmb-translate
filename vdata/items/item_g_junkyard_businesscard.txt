@@ -9,7 +9,7 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Brothers Salvage"
+	"printname"	"Брати Спасiння"
 	"description"	"The card reads \"Brothers Salvage, Santa Monica\"."
 
 

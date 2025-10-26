@@ -10,7 +10,7 @@ WeaponData
 	"wieldmodel_m"		"models/w_null.mdl"
 	"anim_prefix"		" "
 
-	"printname"			"Art of the Quick-Draw by Ned Nederlander"
+	"printname"			"Мистецтво швидкого витягування вiд Неда Недерландера"
 	"description"		"Don't think, just shoot! It's that simple. This book raises your Firearms skill."
 
 	"weight"			"3"

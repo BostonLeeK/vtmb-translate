@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Pawnshop Lodgings Spare Key"	// changed by wesp
-	"description"	"This looks like someone's spare key."
+	"printname"	"Запасний ключ до крамницi зброярiв "Ломбард""	// changed by wesp
+	"description"	"Це схоже на запасний ключ когось."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

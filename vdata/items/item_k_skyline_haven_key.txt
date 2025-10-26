@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Skyeline Apartments Key, Unit 4"	// changed by wesp
-	"description"	"This is the key to your haven downtown."
+	"printname"	"Ключ вiд квартири Skyeline, одиниця 4."	// changed by wesp
+	"description"	"Це ключ до вашого притулку в центрi мiста."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

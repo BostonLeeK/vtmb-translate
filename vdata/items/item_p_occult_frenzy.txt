@@ -10,7 +10,7 @@ WeaponData
 	"wieldmodel_m"		"models/w_null.mdl"
 	"anim_prefix"		" "
 
-	"printname"			"Tarulfang"
+	"printname"			"Тарульфанг"
 	"description"		"This heavy fang could only have belonged to a ferocious predatory beast. You feel at ease knowing there's one less of those in the world. Decreases your chance to frenzy."
 
 	"weight"			"3"

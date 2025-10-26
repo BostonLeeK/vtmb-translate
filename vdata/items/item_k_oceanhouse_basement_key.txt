@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Ocean House Boiler Room Key"		// changed by wesp
-	"description"	"This key is labeled BOILER ROOM."
+	"printname"	"Ключ до котельнi Оушен Хаус"		// changed by wesp
+	"description"	"Цей ключ позначений як КОТЕЛЬНЯ."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

@@ -9,7 +9,7 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Business Card"
+	"printname"	"Вiзитна картка"
 	"description"	"This is a business card for \"Haunted LA\". The name on the card is Simon Milligan. The address listed is Skyeline Apartments, Apt. 1, Downtown Los Angeles, CA"
 
 	"bucket"		"1"

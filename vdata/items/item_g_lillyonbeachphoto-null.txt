@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
  
-	"printname"	"Lilly on the Beach Photo"
-	"description"	"Gallery Noir's Charity Money."
+	"printname"	"Фото Лiлi на пляжi"
+	"description"	"Грошi благодiйностi Галереї Нуар."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

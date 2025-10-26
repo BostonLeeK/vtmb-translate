@@ -2,7 +2,7 @@
 
 WeaponData
 {
-	"printname"		"Ingram MAC-10"	// changed by wesp
+	"printname"		"≤Ì„‡Ï Ã¿ -10"	// changed by wesp
 	"description"		"Aka 'Braddock', a small, light machine pistol that fires 9 mm pistol rounds, not made for accuracy as much as to deliver the largest amount of ordinance in the shortest period of time. Bursts are more accurate but due to the high cyclic rate and low weight of the weapon, it is still seen as mainly a \"spray and pray\" gun."	// changed by wesp
 	"viewmodel"		"models/weapons/submachine_mac10/view/v_submachine_mac10.mdl"
 	"playermodel"		"models/weapons/submachine_mac10/ground/g_submachine_mac10.mdl"

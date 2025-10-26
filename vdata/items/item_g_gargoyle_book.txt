@@ -9,12 +9,12 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Thaumaturgical Creatures"
-	"description"	"E. Bankins, Regent, Chicago
-	
-			Gargoyles: During the medieval conflict with the Tzimisce, Clan Tremere delved further into secret blood magicks and created a race of protectors known as Gargoyles. Since their inception, Gargoyles have been used as scouts, warriors, and sentries. Gargoyles are monsters, vampires by virtue of the blood and flesh through which they are created. They are no more than the detritus of other clans, given a second chance to serve their Tremere creators. Unfortunately, many have wrongly come to view their service as slavery, and have fled their masters in search of some delusional Utopia. Most escaped Gargoyles live in isolation, preferring solitude to even the company of their own kind.
+	"printname"	"Тауматургiчнi створiння"
+	"description"	"Е. Банкiнс, Регент, Чикаго
 
-			Homunculi: For the most menial and mindless tasks, many Tremere create what is called a Homunculus. These are mindless creatures which take many forms, winged, many-legged, or otherwise. Homunculi are unfailingly loyal, but their appearance makes them a serious threat to breaking the Masquerade."
+	1. Гаргойли: Пiд час середньовiчного конфлiкту з Тзiмiсце, Клан Тремер глибше поринув у таємнi кров'янi магiї i створив расу захисникiв, вiдомих як Гаргойлi. З моменту їх створення, Гаргойлi використовувалися як розвiдники, воїни та сторожi. Гаргойлi - це монстри, вампiри завдяки кровi та плотi, через яку вони створенi. Вони не бiльше, нiж вiдходи iнших кланiв, яким було надано другий шанс служити своїм Тремере-творцям. Нажаль, багато з них неправильно почали сприймати свою службу як рабство i втекли вiд своїх господарiв у пошуках якоїсь утопiї. Бiльшiсть втiкачiв-Гаргойлi живуть у самотностi, вiддаючи перевагу самотностi навiть компанiї свого власного виду.
+
+	2. Гомункули: Для найпростiших i бездумних завдань багато Тремере створюють так званий Гомункул. Це бездумнi створiння, якi набирають рiзнi форми: з крилами, багатонiжками або iншi. Гомункули завжди вiрнi, але їх зовнiшнiй вигляд становить серйозну загрозу порушенню Маскраду."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

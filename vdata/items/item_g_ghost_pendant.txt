@@ -9,8 +9,8 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Pendant"
-	"description"	"This exquisite pendant looks polished, though it was found in the charred ruins of the Ocean House. When you hold it in your palm for a few seconds, you're overwhelmed with a sense of profound sadness."
+	"printname"	"Пiдвiска"
+	"description"	"Цей вишуканий кулон виглядає вiдполiрованим, хоча був знайдений в опалених руїнах Оушен-Хаус. Коли тримаєте його в долонi кiлька секунд, вас охоплює вiдчуття глибокої суму."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

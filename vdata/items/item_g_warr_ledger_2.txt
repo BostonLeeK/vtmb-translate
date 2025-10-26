@@ -9,7 +9,7 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Ledger"
+	"printname"	"Журнал"
 	"description"	"This looks to be the weekly log of Douglas Streets, foreman of the Los Angeles Department of Water and Power, 1957:
 
 			07/09/57 - The disappearance of sewermen Whitman, Price and Haddad has launched an attack in the papers on the Department. It has fallen to me to try and ascertain their fate. I will do so to the best of my ability.

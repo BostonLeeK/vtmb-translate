@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"		"models/w_null.mdl"
 	"anim_prefix"		" "
 
-	"printname"		"Rune of the Third Eye"
-	"description"		"This strange talisman is unusually heavy, emanating a palpable power. It reduces the amount of damage done by Gargoyles."
+	"printname"		"Руна Третього Ока"
+	"description"		"Цей дивний талiсман надзвичайно важкий, випромiнюючи вiдчутну силу. Вiн зменшує кiлькiсть завданого шкоди Гаргуль."
 
 	"weight"		"3"
 	"item_flags"		"1"

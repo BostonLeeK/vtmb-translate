@@ -10,8 +10,8 @@ WeaponData
 	"wieldmodel_m"	"models/w_null.mdl"
 	"anim_prefix"	" "
 
-	"printname"	"Sewer Works Manual"
-	"description"	"A guide to sewer mains in the greater Los Angeles area. With references such as these, Nosferatu turn sluiceways and sludgepools into highways and havens. For global travel, enter the sewers and use one of the maps found on the wall."
+	"printname"	"Посiбник з Каналiзацiйних Робiт"
+	"description"	"Посiбник з каналiзацiйних магiстралей у великому Лос-Анджелесi. З такими джерелами, Носферату перетворюють шлюзи та вiдстiйнi басейни на шосе та притулки. Для глобальних подорожей, увiйдiть у каналiзацiю та скористайтеся однiєю з карт, знайдених на стiнi."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

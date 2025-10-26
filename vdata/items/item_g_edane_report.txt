@@ -8,8 +8,8 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Police Report"
-	"description"	"A copy of the Initial Police Report for the Elizabeth Dane, signed by members of the USCG, NCIS, and LAHP agencies. Despite strong evidence of amazing physical violence, not a single body has been found, no survivors have been located, and there are no signs of large-scale theft."
+	"printname"	"Звiт полiцiї"
+	"description"	"Копiя Початкового Полiцейського Звiту щодо корабля "Елiзабет Дейн", пiдписана представниками USCG, NCIS та LAHP. Незважаючи на велику кiлькiсть доказiв надзвичайного фiзичного насильства, жодного тiла не знайдено, виживших не виявлено, i немає ознак масштабної крадiжки."
 
 
 	"bucket"		"1"

@@ -2,7 +2,7 @@
  
 WeaponData
 {
-	"printname"	"Tiger's Claws"	// changed by wesp
+	"printname"	"Кiготь Тигра"	// changed by wesp
 	"description"	"These are devious looking metal claws with a wooden handle. They even deal aggravated damage."	// changed by wesp
 
 	"viewmodel"	"models/weapons/w_null.mdl"

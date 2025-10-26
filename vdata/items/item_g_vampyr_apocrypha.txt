@@ -9,7 +9,7 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Vampyr Apocrypha"
+	"printname"	"Вампiрська апокрифа"
 	"description"	"This book is titled \"Vampyr Apocrypha\":
 			Unidentified Sarcophagus
 			Discovered by Julius of Gaul, 1068 AD

@@ -12,7 +12,7 @@ WeaponData
 	"anim_prefix"	"katana"
 	"impact_snd_group"	"blade"
 
-	"printname"	"Tal'mahe'Ra Blade"
+	"printname"	"Меч Тал'махе'Ра"
 	"description"	"This sword was forged by the Tal'mahe'Ra, a vanished sect of Kindred that purportedly ventured into the lands of the dead. It seems unaturally light and causes aggravated damage."	// changed by wesp
 	"activation0"	"Attack"
 	"activation1"	""

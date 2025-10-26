@@ -9,7 +9,7 @@ WeaponData
 	
 	"anim_prefix"	" "
 
-	"printname"	"Ledger"
+	"printname"	"Журнал"
 	"description"	"This looks to be the weekly log of the Los Angeles Department of Water and Power, 1972:
 
 			03/03/72 - Reports concerning the recent \"hauntings\" in the sewer system have prompted the mayor to request a weekly log of all operations in the lower sewer sections 453 - 500. Log begins today. Nothing to note, although I will say that I find the stories to be unsubstantiated and ridiculous.

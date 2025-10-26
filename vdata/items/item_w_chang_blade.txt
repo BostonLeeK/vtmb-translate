@@ -3,7 +3,7 @@
 WeaponData
 {
 	"printname"	"Бродський меч"
-	"description"	"This medieval double-edged straight broadsword can be used single handed, and it's quite deadly if used with knowledge and skill."	// changed by wesp
+	"description"	"Цей середньовiчний двостороннiй прямий широкий меч можна використовувати однiєю рукою, i вiн досить смертоносний, якщо використовувати знання та вмiння."	// changed by wesp
 
 	"viewmodel"	"models/weapons/w_null.mdl"
 	"playermodel"	"models/weapons/broadsword/world/g_sword.mdl"	// changed by wesp

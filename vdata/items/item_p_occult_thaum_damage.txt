@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"		" "
 
 	"printname"			"Демонорi."
-	"description"		"This pendant is hot to the touch, a heat that seeps into your core and fills you with a new confidence. You're unsure if this power is entirely your own, but its intoxicating lure is seemingly beyond your power to resist. Increases the damage of all Thaumaturgy effects by forty percent."	// changed by wesp
+	"description"		"Цей кулон гарячий на дотик, тепло, що проникає в ваше ядро i наповнює вас новою впевненiстю. Ви не впевненi, чи ця сила цiлком ваша, але її сп'янiючий спокуса, схоже, поза вашою силою вiдсторонитися. Збiльшує пошкодження всiх ефектiв Тауматургiї на сорок вiдсоткiв."	// changed by wesp
 
 	"weight"			"3"
 	"item_flags"		"1"

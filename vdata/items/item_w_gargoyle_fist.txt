@@ -11,9 +11,9 @@ WeaponData
 	"anim_prefix"          ""
 
 	"printname"			"Невiдомо"	// added by wesp
-	"description"		"You can't identify this item, but it has a 'Made in Hell' label on the bottom.
+	"description"		"Ви не можете iдентифiкувати цей предмет, але на днi є напис "Виготовлено в Аду".
 
-You need a Research skill of at least 4 to use this item."	// added by wesp
+Для використання цього предмета вам потрiбно мати навичку Дослiдження не менше нiж 4."	// added by wesp
 
 	"impact_snd_group"	"fist"
 

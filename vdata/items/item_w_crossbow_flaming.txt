@@ -3,7 +3,7 @@
 WeaponData
 {
 	"printname"		"Дихання дракона"
-	"description"		"In accordance with the Protocol to the Geneva Convention of 1983 the use of phosphorous munitions in populated areas is prohibited. This sawed off shotgun fires them nevertheless."	// changed by wesp
+	"description"		"Згiдно з Протоколом до Женевської конвенцiї 1983 року використання фосфорних боєприпасiв у населених районах заборонено. Проте ця обрiзана рушниця вiдстрiлює їх незважаючи на це."	// changed by wesp
 
 	"viewmodel"		"models/weapons/breath/view/v_dragonbreath.mdl"
 	"playermodel"		"models/weapons/breath/world/g_dragonbreath.mdl"	// changed by wesp

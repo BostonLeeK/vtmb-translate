@@ -10,7 +10,7 @@ WeaponData
 	"anim_prefix"	" "
 
 	"printname"	"Автографоване фото ВВ"
-	"description"	"\"I may be delivering a memento of moi to your haven computer, but this should tide you over for now. Love, VV\""	// changed by wesp
+	"description"	""Я можу доставити пам'ятку вiд мене на ваш комп'ютер у притулок, але цього повинно вистачити вам наразi. Любов, VV""	// changed by wesp
 
 	"bucket"		"1"
 	"bucket_position"	"2"

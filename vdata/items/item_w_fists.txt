@@ -16,7 +16,7 @@ WeaponData
 	"impact_snd_group"	"fist"
 
 	"printname"		"Кулаки"	// changed by wesp
-	"description"	"No weapon readied."
+	"description"	"Зброя не готова."
 	"activation0"	"Attack"
 	"activation1"	""
 

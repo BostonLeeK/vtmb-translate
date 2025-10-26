@@ -11,9 +11,9 @@ WeaponData
 	"anim_prefix"          ""
 
 	"printname"			"Невiдомо"	// added by wesp
-	"description"		"You cannot identify this item, perhaps you should finish eating the soul doughnut?
+	"description"		"Ви не можете iдентифiкувати цей предмет, можливо, вам слiд закiнчити з'їдання душевного пончика?
 
-You need a Research skill of at least 2 to use this item."	// added by wesp
+Для використання цього предмету вам потрiбно мати навичку Дослiдження не менше нiж 2."	// added by wesp
 
 	"impact_snd_group"	"fist"
 

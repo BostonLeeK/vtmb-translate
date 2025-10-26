@@ -3,7 +3,7 @@
 WeaponData
 {
 	"printname"	"Кiготь Тигра"	// changed by wesp
-	"description"	"These are devious looking metal claws with a wooden handle. They even deal aggravated damage."	// changed by wesp
+	"description"	"Це хитро виглядаючi металевi кiгтi з дерев'яною рукояткою. Вони навiть завдають ураження вiд агравованого пошкодження."	// changed by wesp
 
 	"viewmodel"	"models/weapons/w_null.mdl"
 	"playermodel"	"models/weapons/handleclaws/ground/g_handleclaws.mdl"

@@ -3,7 +3,7 @@
 WeaponData
 {
 	"printname"	"Ближнiй бiй Мiнгiв"	// added by wesp
-	"description"	"Close quarter attack by Ming."	// added by wesp
+	"description"	"Атака в ближньому бою Мiнґа."	// added by wesp
 
 	// Weapon data is loaded by both the Game and Client DLLs.
 	"viewmodel"            "models/weapons/w_null.mdl"

@@ -10,19 +10,17 @@ WeaponData
 	"anim_prefix"	" "
 
 	"printname"	"Журнал"
-	"description"	"This looks to be the weekly log of Douglas Streets, foreman of the Los Angeles Department of Water and Power, 1957:
+	"description"	"1. 07/09/57 - Зникнення каналiзаторiв Уiтмена, Прайса та Хадада спричинило напад у газетах на Департамент. Менi довелося спробувати встановити їх долю. Я зроблю це найкращим чином, який зможу.
 
-			07/09/57 - The disappearance of sewermen Whitman, Price and Haddad has launched an attack in the papers on the Department. It has fallen to me to try and ascertain their fate. I will do so to the best of my ability.
+2. 07/10/57 - Виходи в невiдомi регiони каналiзацiї поки що були безплiдними. Мiська рада не змогла надати креслення цих дiлянок, тому ми продовжуємо йти вперед слiпо.
 
-			07/10/57 - Forays into the uncharted regions of the sewers have been fruitless as of yet. City Hall has been unable to produce blueprints of these sections, and so we continue forth blindly.
-			
-			07/11/57 - I have been witness to many strange and inexplicable sounds and events in what can only be the very oldest sections of the Los Angeles sewers. I found a rusted plaque that read \"LADWP, 1902\". The events I can only describe as otherwordly, both in sound and texture, as well as in the feeling it gave upon my skin. A coldness. Shadows and whispers. I have no explanation for these, except, perhaps, the creations of my own overtaxed mind. We will continue tomorrow.
-			
-			07/12/57 - Still no sign of the missing men, but the fear grows in my mind that something truly evil resides in the lowest sections of those sewers. Though I wish not to tell some Lovecraftian tale, I can only say what lies in my heart. I wish no longer to travel down those dark corridors, and my opinion is that those poor men fell victim to some old and ancient evil that resides there. I will tell the mayor what I have seen, and pray that he does not take me for a madman.
-			
-			07/15/57 - The mayor has listened to my report with the utmost earnestness, and has decided, most wisely, to brick up those lowest sections of the sewers in which I witnessed those frightening, phantasmal events. The public will be told that Whitman, Price and Haddad were lost to these sections because they were old and unsafe, and therefore he will justify his closing of them through the unfortunate vehicle of their unexplained deaths. So be it. I pray their souls find safe haven in some lighter refuge of the afterlife. I, myself, have resigned from the Department. I no longer have the wish to delve into the dark places of the earth. I leave this ledger here, unseen and bricked away from human eyes, so that perhaps the memory of these things will disappear as well.
-				
-				   Sincerely, Douglas Streets, Foreman, LADWP"
+3. 07/11/57 - Я був свiдком багатьох дивних i незрозумiлих звукiв та подiй в тому, що може бути лише найстарiшими дiлянками каналiзацiї Лос-Анджелеса. Я знайшов заржавiлу дошку, на якiй було написано "LADWP, 1902". Подiї я можу описати лише як надприроднi, як звук i текстура, так i вiдчуття на моїй шкiрi. Холод. Тiнi та шепiт. Я не маю пояснення для цього, крiм, можливо, створень мого перенапруженого розуму. Ми продовжимо завтра.
+
+4. 07/12/57 - Досi немає слiду вiд зниклих чоловiкiв, але страх росте в моїй уявi, що щось справдi зле проживає в найнижчих дiлянках тих каналiзацiй. Хоча я не бажаю розповiдати якусь лавкрафтiвську казку, я можу лише сказати, що лежить у моєму серцi. Я бiльше не бажаю подорожувати цими темними коридорами, i моєю думкою є те, що цi бiднi чоловiки стали жертвами якогось старого та давнього зла, яке там проживає. Я розповiм меру про те, що я бачив, i молюся, щоб вiн не вважав мене божевiльним.
+
+5. 07/15/57 - Мер уважно вислухав мiй звiт i вирiшив, дуже мудро, замуровати тi найнижчi дiлянки каналiзацiї, в яких я бачив тi лякаючi, фантомнi подiї. Громадськiсть буде повiдомлено, що Уiтмен, Прайс та Хадад загинули в цих дiлянках через їх старiсть та небезпеку, i тому вiн виправдає своє закриття через нещасливий випадок їх невизначених смертей. Так нехай буде. Молюся, щоб їхнi душi знайшли безпечне пристановище в якомусь свiтлiшому пристановищi загробного життя. Я, сам, покидаю Департамент. Я бiльше не бажаю пiдкопувати в темнi мiсця землi. Я залишаю цей журнал тут, невидимим i замурованим вiд людських очей, щоб, можливо, пам'ять про цi речi також зникла.
+
+   З повагою, Дуглас Стрiтс, Формен, LADWP"
 			
 			
 	"bucket"		"1"

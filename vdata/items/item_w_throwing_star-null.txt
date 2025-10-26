@@ -18,7 +18,7 @@ WeaponData
 
 
 	"printname"				"Зiрка-кидальниця"
-	"description"			"When you wish upon a throwing star, you wish you had infomodel, wieldmodels and a projectile model so you could finish implemented the damn thing."
+	"description"			"Коли ти бажаєш на зiрку-кидальце, ти бажаєш мати iнфомодель, моделi зброї та модель снаряду, щоб ти мiг завершити реалiзацiю цього проклятого речення."
 	"activation0"			"Attack"
 	"activation1"			""
 

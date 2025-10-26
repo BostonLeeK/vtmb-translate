@@ -3,7 +3,7 @@
 WeaponData
 {
 	"printname"		"Куля енергiї Чанга"	// changed by wesp
-	"description"		"Energy Ball thrown by Chang Brother."	// changed by wesp
+	"description"		"Енергетична куля, кинута братом Чангом."	// changed by wesp
 	"item_worth"		"200"
 
 	"viewmodel"		"models/scenery/misc/changball/changball.mdl"
@@ -48,7 +48,7 @@ WeaponData
 	{
 		//printname description and ammo_worth should be the same as in WeaponData
 		"printname"		"Граната фрагментацiї"
-		"description"		"Pull pin for fun and profit."
+		"description"		"Витягнiть шпильку для задоволення та прибутку."
 		"ammo_worth"		"200"
 
 		"Size"			"-1"
@@ -266,7 +266,7 @@ WeaponData
 //WeaponData
 //{
 //	"printname"			"Енергетична куля братiв Чангiв"
-//	"description"		"For use by Chang Bros' boss only"
+//	"description"		"Тiльки для використання керiвником братiв Чангiв"
 //	"item_worth"		"200"
 //
 //	"viewmodel"			"models/weapons/grenade/pineapple/view/v_pineapple.mdl"
@@ -306,7 +306,7 @@ WeaponData
 //	{
 //		//printname description and ammo_worth should be the same as in WeaponData
 //		"printname"			"Енергетична куля братiв Чангiв"
-//		"description"		"For use by Chang Bros' boss only"
+//		"description"		"Тiльки для використання керiвником братiв Чангiв"
 //		"ammo_worth"		"200"
 //
 //		"Size"			"-1"

@@ -17,7 +17,7 @@ WeaponData
 	"anim_prefix"		"lockpick"
 
 	"printname"		"Вiдмикання"
-	"description"		"Tool of the trade for locksmiths and burglars. A lockpick is used to push the pins inside a lock into their correct position until the lock is \"open\". It takes a lot of experience to use these well."
+	"description"		"Інструмент у роботi для замкових майстрiв та злодiїв. Замковий вiдмичка використовується для того, щоб торкнутися штифтiв всерединi замка у правильне положення, поки замок не "вiдкриється". Для вмiлого використання цих iнструментiв потрiбно багато досвiду."
 
 	"bucket"		"0"
 	"bucket_position"	"2"

@@ -10,19 +10,19 @@ WeaponData
 	"anim_prefix"	" "
 
 	"printname"	"Книга призначень"
-	"description"	"This looks like a standard appointment book:
+	"description"	"Це схоже на звичайну книгу зустрiчей:
 
-			9/05/04 - Arthur Kilpatrick - meet Arthur at his place in Santa Monica. Remember to bring the handcuffs and the orange jumpsuit, as he likes to play \"Lock Down at the Women's Prison\". This guy is sick.
+1. 9/05/04 - Артур Кiлпатрiк - зустрiч з Артуром у його мiсцi в Санта-Монiцi. Не забудьте взяти кайдани та помаранчевий комбiнезон, оскiльки вiн любить грати "Закриття в жiночому в'язницi". Цей хлопець хворий.
 
-			9/07/04 - Vandal C. - 7:30 at the Blood Bank. Bring pliers and the blowtorch.
+2. 9/07/04 - Вандал С. - 7:30 в Кровобанку. Вiзьмiть кусачки та газову лампу.
 
-			9/12/04 - David Hatter - Room 413 at the Luckee Star in Hollywood. He likes that weird umbrella and water balloon thing.
+3. 9/12/04 - Девiд Хаттер - Кiмната 413 в готелi Лакi Стар в Голлiвудi. Вiн любить той дивний парасоль та водяну кулю.
 
-			9/15/04 - Simon Milligan - Downstairs in his room. God I hate that guy.
+4. 9/15/04 - Саймон Мiллiган - Нижче, у його кiмнатi. Боже, я ненавиджу цього хлопця.
 
-			9/17/04 - Jezebel Locke? - New client, responded to my ad in the paper. She has a suite at the Empire Hotel. I don't know what to think of this one, but there's something about her... her voice... I don't know. She's offering big bucks so I guess I can't pass it up.
+5. 9/17/04 - Джезебель Лок? - Новий клiєнт, вiдгукнулася на моє оголошення в газетi. У неї є люкс в готелi "Імперiя". Я не знаю, що думати про цю, але є щось в нiй... її голос... Я не знаю. Вона пропонує великi грошi, тому, мабуть, я не можу вiдмовитися.
 
-			9/20/04 - Paul Anderson - An honest to god date! I can't believe he asked me out! I'm so excited!"	// changed by wesp
+6. 9/20/04 - Пол Андерсон - Справжнiй побачення! Я не можу повiрити, що вiн запросив мене! Я так рада!"	// changed by wesp
 
 
 	"bucket"		"1"

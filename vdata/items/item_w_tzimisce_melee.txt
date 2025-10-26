@@ -11,9 +11,9 @@ WeaponData
 	"anim_prefix"          ""
 
 	"printname"			"Невiдомо"	// added by wesp
-	"description"		"If Ozzy were here, I'm sure he could tell you what this is.
+	"description"		"Якби Оззi був тут, вiн би точно змiг сказати вам, що це.
 
-You need a Research skill of at least 8 to use this item."	// added by wesp
+Вам потрiбно мати навичку Дослiдження не менше нiж 8, щоб використовувати цей предмет."	// added by wesp
 
 	"impact_snd_group"	"fist"
 

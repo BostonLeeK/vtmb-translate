@@ -3,7 +3,7 @@
 WeaponData
 {
 	"printname"		"Вогнемет"
-	"description"		"Flamethrowers, in one form or another, have been used since ancient times. This one propels burning fuel in a several-foot arc, scorching everything in its path."
+	"description"		"Вогнемети, у рiзних виглядах, використовувалися з давнiх часiв. Цей пристрiй викидає горюче паливо в декiлькох футах дуги, вигоряючи все на своєму шляху."
 	"viewmodel"		"models/weapons/flamethrower/view/v_flamethrower.mdl"
 	"playermodel"		"models/weapons/flamethrower/ground/g_flamethrower_r.mdl"
 	"wieldmodel_f"		"models/weapons/flamethrower/wield/w_f_flamethrower.mdl"

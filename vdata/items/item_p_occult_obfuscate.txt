@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"		" "
 
 	"printname"			"Згаралкет."
-	"description"		"Sliding on this ring you feel the same stomach-dropping sensation you had when you first invoked Obfuscate. As long as you wear Zharalketh you will be able to maintain Obfuscate forty percent longer."	// changed by wesp
+	"description"		"Повзучи на цьому кiльцi ви вiдчуваєте той самий вiдчуття падiння в живiт, яке ви вiдчули, коли вперше викликали Обфускацiю. Поки ви носите Жаралкет, ви зможете пiдтримувати Обфускацiю на сорок вiдсоткiв довше."	// changed by wesp
 
 	"weight"			"3"
 	"item_flags"		"1"

@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"		" "
 
 	"printname"			"Мистецтво швидкого витягування вiд Неда Недерландера"
-	"description"		"Don't think, just shoot! It's that simple. This book raises your Firearms skill."
+	"description"		"Не думай, просто стрiляй! Все дуже просто. Ця книга пiдвищує ваш навик Стрiльби."
 
 	"weight"			"3"
 	"item_flags"		"1"

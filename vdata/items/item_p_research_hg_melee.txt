@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"		" "
 
 	"printname"		"Розкриття: Шкiдливо, якщо ковтати Пiдказка до гри"
-	"description"		"The only official strategy guide with all the hottest tricks and tips for Bustin' It: Harmful If Swallowed, the first-ever fighting game designed by fashion impresario Hiram Oceros! With stupid-dope street style and hip hop flava! Raises your Melee skill."
+	"description"		"Єдиний офiцiйний стратегiчний посiбник з усiма найгарячiшими хитрощами та порадами для Bustin' It: Harmful If Swallowed, першої в iсторiї файтинг-гри, розробленої модним iмпрезарiо Гiрамом Осеросом! З дурнуватим стрiт-стилем та хiп-хоповим смаком! Пiдвищує ваш навик Ближнього бою."
 
 	"weight"			"3"
 	"item_flags"		"1"

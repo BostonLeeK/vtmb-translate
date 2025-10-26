@@ -11,9 +11,9 @@ WeaponData
 	"anim_prefix"          ""
 
 	"printname"			"Невiдомо"	// added by wesp
-	"description"		"You have no clue what this thing is, but it looks eeeeeevil.
+	"description"		"Ви не маєте уявлення, що це за рiч, але вона виглядає дуже зловiсно.
 
-You need a Research skill of at least 6 to use this item."	// added by wesp
+Вам потрiбно мати навичку Дослiдження не менше 6, щоб використовувати цей предмет."	// added by wesp
 
 	"impact_snd_group"	"fist"
 

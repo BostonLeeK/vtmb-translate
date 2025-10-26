@@ -9,7 +9,7 @@
 WeaponData
 {
 	"printname"		"IMI Desert Eagle"	// changed by wesp
-	"description"		"This heavy gun, aka 'McLusky', was originally designed as a sport pistol for target shooting competitions. Due to the intimidating look of this massive .50 cal, it has been adopted as a favorite in movies and on TV shows as the all-purpose Big Gun. The Desert Eagle is one of the few gas-operated handguns ever produced, and one of the most powerful and heavy pistols available on the market."	// changed by wesp
+	"description"		"Цей важкий пiстолет, вiдомий як "МакЛаскi", спочатку був розроблений як спортивний пiстолет для змагань зi стрiльби по мiшенях. Завдяки вражаючому вигляду цього масивного .50 калiбру, вiн став улюбленим в кiно та на телевiзiйних шоу як унiверсальна Велика Зброя. Desert Eagle є одним з небагатьох газовими пiстолетами, що коли-небудь вироблялися, i одним з найпотужнiших та важких пiстолетiв, доступних на ринку."	// changed by wesp
 	"viewmodel"		"models/weapons/desert_eagle/view/v_desert_eagle.mdl"
 	"playermodel"		"models/weapons/desert_eagle/ground/g_desert_eagle.mdl"
 // WIP! We don't have a female model currently!!!

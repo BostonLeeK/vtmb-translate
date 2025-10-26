@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"		" "
 
 	"printname"		"Так ви хочете стрiляти?"
-	"description"		"Using a gun is simple, easy, and fun for the whole family. First, get a gun - preferably something for home defense, like an automatic rifle. Second, check to see if the gun is loaded; if not, do so. Third, find a target - we recommend inanimate objects if no muggers are around. Fourth, shoot - feel the power.... This book raises your Firearms skill."
+	"description"		"Використання зброї є простим, легким та веселим для всiєї родини. По-перше, отримайте зброю - найкраще щось для захисту вдома, наприклад, автоматичну гвинтiвку. По-друге, перевiрте, чи зброя заряжена; якщо нi, зарядiть її. По-третє, знайдiть цiль - ми рекомендуємо безжиттєвi об'єкти, якщо поруч немає грабiжникiв. По-четверте, вистрiлiть - вiдчуйте потужнiсть.... Ця книга пiдвищує ваш навик Вогнепальної зброї."
 
 	"weight"			"3"
 	"item_flags"		"1"

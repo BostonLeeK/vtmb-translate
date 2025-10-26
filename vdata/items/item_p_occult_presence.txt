@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"		" "
 
 	"printname"			"Ключ Аламуту"
-	"description"		"These wands have been carried by the feared assassins of Clan Assamite for millennia. One of only a handful still in existence, this Key of Alamut gives its owner extraordinary resilience to damage. Increases all Soak ratings by one."
+	"description"		"Цi жезли були несенi страхiтливими вбивцями Клану Ассамiтiв протягом тисячолiть. Один з небагатьох, що залишилися в наявностi, цей Ключ Аламуту надає своєму власнику надзвичайну стiйкiсть до пошкоджень. Збiльшує всi показники поглинання на одиницю."
 
 	"weight"			"3"
 	"item_flags"		"1"

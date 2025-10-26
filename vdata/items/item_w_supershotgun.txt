@@ -3,7 +3,7 @@
 WeaponData
 {
 	"printname"		"Franchi SPAS-15"	// changed by wesp
-	"description"		"The SPAS-15 automatic shotgun, aka 'Jaegerspas XV', looks and fires more like an assault rifle than a traditional shotgun. It delivers bursts of deadly shot at a devastating pace. The SPAS-15 has both automatic and pump action functionality."	// changed by wesp
+	"description"		"Самозарядний дробовик SPAS-15, вiдомий як 'Jaegerspas XV', виглядає та стрiляє бiльше схоже на штурмову гвинтiвку, нiж на традицiйний дробовик. Вiн видає порцiї смертельних пострiлiв з руйнiвною швидкiстю. SPAS-15 має як автоматичну, так i насосну функцiональнiсть."	// changed by wesp
 	"viewmodel"		"models/weapons/supershotgun/view/v_supershotgun.mdl"
 	"playermodel"		"models/weapons/supershotgun/ground/g_supershotgun.mdl"
 	"wieldmodel_f"		"models/weapons/supershotgun/wield/w_f_supershotgun.mdl"

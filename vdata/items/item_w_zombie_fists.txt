@@ -15,9 +15,9 @@ WeaponData
 	"impact_snd_group"	"fist"
 
 	"printname"		"Невiдомо"	// changed by wesp
-	"description"	"Hmm, when you gaze upon this object, the skies darken and lightning flashes. Those aren't good clues to what this is though.
+	"description"	"Гм, коли ви дивитеся на цей об'єкт, небо затемнюється i блимає блискавка. Проте це не є хорошими вказiвками щодо того, що це.
 
-You need a Research skill of at least 4 to use this item."	// added by wesp
+Для використання цього предмета вам потрiбно мати навичку Дослiдження не менше нiж на рiвнi 4."	// added by wesp
 
 	"activation0"	"Attack"
 	"activation1"	""

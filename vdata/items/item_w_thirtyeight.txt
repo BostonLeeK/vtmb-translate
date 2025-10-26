@@ -3,7 +3,7 @@
 WeaponData
 {
 	"printname"		"Кольт Полiс Позитив Спешл"	// changed by wesp
-	"description"		"This 'Thirty-Eight' is a cheap, small-caliber handgun used by start-up hoods in alleys across the country. Also known as a purse gun."	// changed by wesp
+	"description"		"Цей "Тридцять Вiсiм" - це дешевий, малокалiберний пiстолет, яким користуються початкiвцi-гангстери в переулках по всiй країнi. Також вiдомий як сумочний пiстолет."	// changed by wesp
 
 	"viewmodel"		"models/weapons/ThirtyEight/view/v_ThirtyEight.mdl"
 	"playermodel"		"models/weapons/ThirtyEight/ground/g_ThirtyEight.mdl"

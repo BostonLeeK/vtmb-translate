@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"		" "
 
 	"printname"			"Гальджум"
-	"description"		"Holding this rough-hewn amber stone gives you a sense of peace, and even a glimmer of hope for salvation. You are able to hold the effect of most passive Disciplines longer as long as you possess Galdjum. Their durations are increased by twenty-five percent."	// changed by wesp
+	"description"		"Утримання цього необробленого янтарного каменю дарує вам вiдчуття миру, а навiть промiнчик надiї на спасiння. Ви здатнi утримувати ефект бiльшостi пасивних Дисциплiн довше, поки володiєте Гальджумом. Їх тривалiсть збiльшується на двадцять п'ять вiдсоткiв."	// changed by wesp
 
 	"weight"			"3"
 	"item_flags"		"1"

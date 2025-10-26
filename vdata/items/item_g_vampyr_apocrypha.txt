@@ -10,12 +10,12 @@ WeaponData
 	"anim_prefix"	" "
 
 	"printname"	"Вампiрська апокрифа"
-	"description"	"This book is titled \"Vampyr Apocrypha\":
-			Unidentified Sarcophagus
-			Discovered by Julius of Gaul, 1068 AD
-			Near Ankara, Ottoman Empire
+	"description"	"Ця книга має назву "Vampyr Apocrypha":
+			Невiдомий саркофаг
+			Виявлений Юлiєм з Галiї, 1068 рiк н.е.
+			Поблизу Анкари, Османська iмперiя
 
-			The origin of this dark and mysterious talisman is largely unknown, and is mostly considered a myth. If not for the etchings of Julius of Gaul, who first discovered and then subsequently re-entombed the artifact, there would be almost no historical record of the artifact, save for various unfounded legends of its evilness scattered throughout the writings of the brotherhood. Historians and theologians alike have been unable to ascertain its exact age or place of origin, although the symbols and inscriptions seem to hint that the artifact is from the area of ancient Sumer or Mesopotamia. It has never been opened, and therefore any myths pertaining to who or what might be encased in it are total speculation. Vampiric origins have not been ruled out, although many scholars within the Church seem to think that it may hold the remains of an ancient king, whose name so far has been lost to the ages. Let it be said, though, that the writings of Julius Gaul describe the artifact as being \"a nefarious and dread thing, full of some ancient and undeniable evil\". He attributes the death of his scribe to the artifact, who, upon setting his eyes on it for the first time, began convulsing uncontrollably and promptly died."
+			Походження цього темного та загадкового талiсману в основному невiдоме i вважається переважно мiфом. Якби не рисунки Юлiя з Галiї, який спочатку виявив, а потiм знову поховав артефакт, практично не було б жодного iсторичного запису про артефакт, окрiм рiзних необґрунтованих легенд про його злiсть, розкиданих по письмах братства. Історики та богослови не змогли встановити його точний вiк або мiсце походження, хоча символи та написи здаються натякати на те, що артефакт походить з областi давнього Сумеру або Месопотамiї. Його нiколи не вiдкривали, тому будь-якi мiфи про те, хто або що може бути в ньому, є чистою спекуляцiєю. Вампiрське походження не виключено, хоча багато вчених у Церквi схильнi вважати, що вiн може мiстити залишки давнього короля, iм'я якого досi загублене вiками. Проте, слiд сказати, що записи Юлiя Галiї описують артефакт як "недобру i страшну рiч, повну давнього i невiдомого зла". Вiн приписує смерть свого писаря артефакту, який, побачивши його вперше, почав судорожно труситися i негайно помер."
 
 
 	"bucket"		"1"

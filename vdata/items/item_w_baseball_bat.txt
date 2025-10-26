@@ -3,7 +3,7 @@
 WeaponData
 {
 	"printname"		"Бейсбольна бита"
-	"description"		"Once, the signature crack of this equipment conjured images of America's pastime. Now, it has evolved into the brutal chorus of a thugsong."	// changed by wesp 
+	"description"		"Колись, характерний трiск цього обладнання викликав уявлення про нацiональний спорт Америки. Тепер вiн перетворився на жорсткий хор бандитської пiснi."	// changed by wesp 
 //	"viewmodel"		"models/weapons/baseball_bat/view/v_baseball_bat.mdl"
 //"viewmodel"	""
 "viewmodel"	"models/weapons/w_null.mdl"

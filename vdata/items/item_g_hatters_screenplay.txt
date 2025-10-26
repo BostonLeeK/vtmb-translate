@@ -10,7 +10,7 @@ WeaponData
 	"anim_prefix"	" "
 
 	"printname"	"Сценарiй"
-	"description"	"An envelope with David Hatter's screenplay. It is tentatively titled \"Humanity vs. The Vampire Lords\"."	// changed by wesp
+	"description"	"Конверт iз сценарiєм Девiда Хаттера. Поки що має робочу назву "Людство проти Вампiрських Лордiв"."	// changed by wesp
 
 	"bucket"		"1"
 	"bucket_position"	"2"

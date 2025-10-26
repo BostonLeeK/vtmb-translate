@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"		" "
 
 	"printname"			"ABC - завжди закривай угоди"	// changed by wesp
-	"description"		"Mitch & Murray's Leads to the California Real Estate Market. This book raises your Finance knowledge."	// changed by wesp
+	"description"		"Лiдери Mitch & Murray на ринку нерухомостi Калiфорнiї. Ця книга пiдвищує вашi знання з фiнансiв."	// changed by wesp
 
 	"weight"			"3"
 	"item_flags"		"1"

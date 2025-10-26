@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"	" "
 
 	"printname"	"Журнал "Guy", Весняний Випуск"
-	"description"	"This looks to be a copy of the Spring Edition of Guy Magazine. On the cover is a beautiful girl, scantily clad. The copy reads, \"IMALIA. Ruff, Tuff and in the Buff!\""	// changed by wesp
+	"description"	"Це схоже на копiю Весняного Видання журналу "Guy". На обкладинцi - красива дiвчина, малодягна. Текст говорить: "ІМАЛІЯ. Груба, Тверда i Гола!""	// changed by wesp
 
 	"bucket"		"1"
 	"bucket_position"	"2"

@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"		" "
 
 	"printname"			"Серце Елiзи"
-	"description"		"This glassy stone appears to have a liquid core. The stone itself is milky translucent, rock solid, and unlike anything you've seen. Possession of the Heart of Eliza conveys a Melee bonus of one."
+	"description"		"Цей скляний камiнь має вигляд рiдкiсного ядра. Сам камiнь має молочну прозорiсть, кам'яний, твердий i нiчим не схожий на все, що ви бачили. Володiння Серцем Елiзи надає бонус до Ближнього Бою на один."
 
 	"weight"			"3"
 	"item_flags"		"1"

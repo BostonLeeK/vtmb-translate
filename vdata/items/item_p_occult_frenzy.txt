@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"		" "
 
 	"printname"			"Тарульфанг"
-	"description"		"This heavy fang could only have belonged to a ferocious predatory beast. You feel at ease knowing there's one less of those in the world. Decreases your chance to frenzy."
+	"description"		"Цей важкий клiн може належати тiльки до жорстокої хижої тварини. Ви вiдчуваєте спокiй, знаючи, що в свiтi на одну таку тварину менше. Зменшує ваш шанс на бiсну."
 
 	"weight"			"3"
 	"item_flags"		"1"

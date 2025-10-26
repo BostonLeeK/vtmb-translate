@@ -3,7 +3,7 @@
 WeaponData
 {
 	"printname"		"Шiн Гунто"	// changed by wesp
-	"description"	"This is a mass-produced military version of the traditional Japanese katana. Not as effective as a real one, but quite dangerous nevertheless."	// changed by wesp
+	"description"	"Це серiйна вiйськова версiя традицiйного японського катани. Не так ефективна, як справжня, але все ж небезпечна."	// changed by wesp
 
 	"viewmodel"	"models/weapons/w_null.mdl"
 	"playermodel"	"models/weapons/ShinGunto/world/g_ShinGunto.mdl"	// changed by wesp

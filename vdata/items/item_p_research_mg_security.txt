@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"		" "
 
 	"printname"			"Посiбник Собчака з особистої та домашньої безпеки"	// changed by wesp
-	"description"		"A manual on how to handle locks and doors of all kinds. This book raises your Security skill."	// changed by wesp
+	"description"		"Посiбник з вiдкривання замкiв та дверей всiх видiв. Ця книга пiдвищує ваш навик Безпеки."	// changed by wesp
 
 	"weight"			"3"
 	"item_flags"		"1"

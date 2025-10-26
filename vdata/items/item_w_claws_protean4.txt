@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"	"claw"
 
 	"printname"	"Картка бiблiотеки"
-	"description"	"This card gives you access to the LA public library computers."
+	"description"	"Ця картка надає вам доступ до комп'ютерiв громадської бiблiотеки Лос-Анджелеса."
 
 	"bucket"		"1"
 	"bucket_position"	"2"

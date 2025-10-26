@@ -3,7 +3,7 @@
 WeaponData
 {
 	"printname"		"Вiдiрвана рука"
-	"description"		"Although the previous owner probably misses it, you can still put it to good use."
+	"description"		"Хоча попереднiй власник, ймовiрно, його сумує, ви все ще можете використати його на користь."
 	"item_worth"		"0"
 
 	"viewmodel"		"models/weapons/w_null.mdl"

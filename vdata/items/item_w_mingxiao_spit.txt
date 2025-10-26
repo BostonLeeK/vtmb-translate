@@ -3,7 +3,7 @@
 WeaponData
 {
 	"printname"              "Мiн Сяо Спiт"	// changed by wesp
-	"description"            "Toxic Spit attack by Ming."	// changed by wesp
+	"description"            "Атака "Токсичний плювок" Мiнґа."	// changed by wesp
 
 	"viewmodel"              "models/weapons/w_null.mdl"
 	"playermodel"            "models/weapons/w_null.mdl"

@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"	" "
 
 	"printname"	"Старовинний медальйон"	// changed by wesp
-	"description"	"This locket is old and slightly tarnished. It might be your imagination, but it seems to radiate an unnatural warmth, that quickens your fingers. Wearing it increases your Security skill by one."	// changed by wesp
+	"description"	"Цей медальйон старий i трохи потьмiлий. Можливо, це лише уява, але здається, що вiн випромiнює неприродне тепло, яке прискорює вашi пальцi. Носiння його збiльшує ваш навик Безпеки на один рiвень."	// changed by wesp
 
 	"weight"		"3"
 	"item_flags"		"1"

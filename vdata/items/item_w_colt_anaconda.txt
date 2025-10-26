@@ -3,7 +3,7 @@
 WeaponData
 {
 	"printname"		"Кольт Анаконда"
-	"description"		"A .44 magnum revolver. Feelin' lucky, punk? A large caliber monster with the power to stop almost anyone dead in his tracks. Alternate Fire Mode: Fan."	// changed by wesp
+	"description"		"Револьвер калiбру .44 магнум. Вiдчуваєш себе щасливим, панче? Великокалiберний монстр з силою припинити майже кожного на мiсцi. Альтернативний режим вогню: Вiяло."	// changed by wesp
 	"viewmodel"		"models/weapons/anaconda/view/v_anaconda.mdl"
 	"playermodel"		"models/weapons/anaconda/ground/g_anaconda.mdl"
 	"wieldmodel_f"		"models/weapons/anaconda/wield/w_f_anaconda.mdl"

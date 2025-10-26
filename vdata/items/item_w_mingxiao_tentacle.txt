@@ -10,7 +10,7 @@ WeaponData
 	"anim_prefix"	" "
 
 	"printname"	"Бульбуль Бам"
-	"description"	"Just an ordinary pack of chewing gum."
+	"description"	"Звичайна пачка жувальної гумки."
 //	"viewmodel"				"models/w_null.mdl"
 //	"wieldmodel_f"			"models/w_null.mdl"
 //	"wieldmodel_m"			"models/w_null.mdl"

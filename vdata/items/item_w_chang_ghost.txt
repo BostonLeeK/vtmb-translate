@@ -3,7 +3,7 @@
 WeaponData
 {
 	"printname"		"Вибух Чанга"	// changed by wesp
-	"description"		"Explosion that is created by floating Chang Brothers."	// changed by wesp
+	"description"		"Вибух, створений плаваючими братами Чан."	// changed by wesp
 	"item_worth"		"200"
 
 	"viewmodel"		"models/scenery/misc/gio_spirit/gio_spirit.mdl"
@@ -50,7 +50,7 @@ WeaponData
 	{
 		//printname description and ammo_worth should be the same as in WeaponData
 		"printname"		"Граната фрагментацiї"
-		"description"		"Pull pin for fun and profit."
+		"description"		"Витягнiть шпильку для задоволення та прибутку."
 		"ammo_worth"		"200"
 
 		"Size"			"-1"

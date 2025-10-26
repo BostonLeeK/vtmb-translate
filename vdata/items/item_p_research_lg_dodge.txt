@@ -10,7 +10,7 @@ WeaponData
 	"anim_prefix"		" "
 
 	"printname"			"Скарлет Торкельсон: цирковий артист"
-	"description"		"Biography of 1930s circus performer Scarlet \"the perforated lady\" Torkelson. Best known as the assistant to \"Shakey Sil\" Manfretti, the notorious epileptic knife-thrower. This book raises your Dodge talent."	// changed by wesp
+	"description"		"Бiографiя циркової артистки 1930-х рокiв Скарлет "проколена ледi" Торкельсон. Найбiльш вiдома як помiчниця "Дрiбний Сiл" Манфреттi, вiдомого епiлептичного метальника ножiв. Ця книга пiдвищує ваш талант Ухилення."	// changed by wesp
 
 	"camera_class"		"noswitch"
 	"is_wieldable"		"0"

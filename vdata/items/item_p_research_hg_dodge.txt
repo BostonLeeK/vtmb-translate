@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"		" "
 
 	"printname"		"Поганий Мавпа Без Банана"	// changed by wesp
-	"description"		"A handbook from Les Assasins de Roullents, a Quйbecois terrorist organization hidden under an innocent cover. This manual holds the secrets to dodging bullets, trains, and other projectiles. Raises your Dodge talent."	// changed by wesp
+	"description"		"Посiбник вiд Ле Ассасiн де Рулен, терористичної органiзацiї з Квебеку, яка прихована пiд невинним покривом. Цей посiбник мiстить секрети ухилення вiд куль, поїздiв та iнших снарядiв. Пiдвищує ваш талант Ухилення."	// changed by wesp
 
 	"weight"			"3"
 	"item_flags"		"1"

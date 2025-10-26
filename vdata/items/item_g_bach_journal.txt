@@ -10,27 +10,27 @@ WeaponData
 	"anim_prefix"	" "
 
 	"printname"	"Журнал"
-	"description"	"This journal is inscribed with the initials \"G.B.\"
+	"description"	"Цей журнал має написи з iнiцiалами "G.B."
 
-			We have tracked LaCroix to Los Angeles. He has made his lair in the penthouse of the Venture Tower, hiding behind some legitimate business front while commanding his legion of demons by cover of night. I pray to the Lord for strength in the coming days, but there is a shadow that hangs over my heart like the dark wings of Lucifer himself. It is not LaCroix I fear, nor his underlings, but there is fear in my heart nonetheless. An ancient evil is stirring. May God grant me the strength to overcome it.
+1. Ми вiдстежили ЛаКруа до Лос-Анджелеса. Вiн облаштував своє логово на пентхаусi Вентур Тауер, приховуючись за легiтимним бiзнесом, ведучи свою легiон демонiв пiд прикриттям ночi. Молюся до Господа за силу у наступних днях, але над моїм серцем лежить тiнь, схожа на темнi крила самого Люцифера. Я не боюся ЛаКруа або його пiдлеглих, але страх все одно живе в моєму серцi. Давнє зло прокидається. Нехай Господь дарує менi силу перемогти його.
 
-			Woke up this morning, and the sun on my face was little comfort. We lost three of the Brethren last night in a fierce battle with some hellspawn... minions of the vampire we know as Alistair Grout. We have been unable to find his lair, but it is only a matter of time. May God have mercy on the souls of our Brethren.
+2. Сьогоднi вранцi, коли сонце освiтило моє обличчя, це було малою втiхою. Ми втратили трьох Братiв минулої ночi в жорсткiй битвi з демонами... слугами вампiра, якого ми знаємо як Алiстера Граута. Ми не змогли знайти його логово, але це лише питання часу. Нехай Бог помилує душi наших Братiв.
 
-			The mystery surrounding the Ankaran Sarcophagus and the massacre on the Elizabeth Dane has my superiors troubled. I have been told to expect a package in the mail that may be helpful in shedding some light on this artifact. Its arrival seems... convenient... in light of LaCroix's recent arrival. Something is amiss, yet I cannot see what machinations are at play. I will wait and have faith that the Lord will see us through.
+3. Таємниця, що оточує Анкаранський Саркофаг та рiзанина на Елiзабет Дейн, турбує моїх начальникiв. Менi сказали очiкувати посилку поштою, яка може допомогти розкрити деякi деталi щодо цього артефакту. Її прихiд здається... зручним... у зв'язку з недавнiм прибуттям ЛаКруа. Щось не так, але я не можу побачити, якi махiнацiї вiдбуваються. Я буду чекати i вiрити, що Господь нас проведе.
 
-			We finally found the lair of Alistair Grout, but it seems we were too late... the demon had already been sent to hell before I was able to dispatch him. I ran across a younger vampire who seemed unaware of Grout's demise. No doubt one of his sucklings come to visit its master. I took care of that demon and destroyed the house. I thank God for his eternal watchfulness over me and the Brotherhood.
+4. Ми нарештi знайшли логово Алiстера Граута, але, здається, ми були занадто пiзно... демона вже вiдправили до пекла, перш нiж я змiг його знищити. Я зустрiв молодого вампiра, який, здавалося, не знав про смерть Граута. Безсумнiвно, один з його пiдлеглих прийшов вiдвiдати свого майстра. Я позбавився цього демона i знищив будинок. Я дякую Богу за Його вiчний пильний погляд на мене та Братство.
 
-			There seems a great unrest among the vampire brood here in the city. Perhaps the arrival of LaCroix was unwelcome to the rest of the Damned? I know not, nor do I care. They will all burn, whether by my hand or the Father's.
+5. Серед вампiрського роду в мiстi вiдчувається велике незадоволення. Можливо, прибуття ЛаКруа було неприйнятним для решти Проклятих? Я не знаю, i мене це не цiкавить. Вони всi згорять, чи то моєю рукою, чи то Батька.
 
-			The Ankaran Sarcophagus was stolen today from the Museum of Natural History. The police report we obtained leads me to believe that the demon spawn were behind it, and the book I received yesterday from the Vatican only reinforces that theory. I know now that these may very well be the end times, and the time of the final struggle may well be upon us.
+6. Сьогоднi Анкаранський Саркофаг був викрадений з Музею Природничої Історiї. Полiцейський звiт, який ми отримали, переконує мене, що за цим стояли демонiчнi нащадки, а книга, яку я отримав вчора вiд Ватикану, лише пiдтверджує цю теорiю. Я тепер розумiю, що це можуть бути кiнцевi часи, i час останньої боротьби може бути настане.
 
-			I dreamed of LaCroix last night, of his hideous visage burned to ash in a great inferno. May it be that this is a vision given to me by God, and that I will be the vessel of his holy vengeance. The years have been long. Too long. Perhaps the soul of my father may finally rest in peace.
+7. Я снив про ЛаКруа минулої ночi, про його вiдвiтне обличчя, згорiле великим полум'ям. Нехай це буде вiзiєю, даною менi Богом, i я буду посудиною Його святої помсти. Роки були довгими. Занадто довгими. Можливо, душа мого батька нарештi зможе спочити в мирi.
 
-			Brother Kriegler reported a disturbance at the vampire coven we have been observing at the mansion in Hollywood. It seems there was a party, and that something interrupted their fleshly rituals. He could say no more of the matter, but I smell LaCroix's meddling hand in this. All the better. May the demons feed on themselves until the world is rid of their evil.
+8. Брат Крiглер повiдомив про заворушення в вампiрському загонi, який ми спостерiгали в особняку в Голлiвудi. Здається, там була вечiрка, i щось перервало їхнi плотськi обряди. Вiн не мiг сказати бiльше про цю справу, але я вiдчуваю руку ЛаКруа в цьому. Тiльки краще. Нехай демони жерть один одного, поки свiт не позбавиться вiд їхнього зла.
 
-			I had dreams of fires in Griffith Park last evening. I know not their origin, but I fear the worst. I received a letter from His Holiness, warning me that he is fearful that the Apocalypse is upon us, and that my mission has become more important than ever. I hold his words close to my heart, and will fight for righteousness until I am no longer able.
+9. Я мав сни про пожежi в парку Грiффiт вчора ввечерi. Я не знаю їхнього походження, але я боюся найгiршого. Я отримав лист вiд Його Святостi, який попереджає, що вiн боїться, що Апокалiпсис настає, i що моя мiсiя стала важливiшою, нiж будь-коли. Я тримаю його слова близько до серця i буду боротися за праведнiсть, поки зможу.
 
-			I took Johansen from his hotel room last evening and brought him back here to the monastery. I am convinced that LaCroix will try to find him, as he is the only one with the knowledge about how the artifact can be opened. The Brethren have been warned to expect an assault on the monastery, and they are ready to die for His Glory, as am I. May the Holy Father bless us in these last dark days, and may the children of Satan burn forever in the hellfires of damnation. Amen."	// changed by wesp
+10. Я забрав Йогансена з його готельного номера вчора ввечерi i привiв його сюди, до монастиря. Я впевнений, що ЛаКруа спробує знайти його, оскiльки вiн єдиний, хто знає, як можна вiдкрити артефакт. Братство було попереджено про очiкувану атаку на монастир, i вони готовi помер"	// changed by wesp
 
 
 	"bucket"		"1"

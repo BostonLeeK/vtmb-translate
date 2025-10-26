@@ -11,9 +11,9 @@ WeaponData
 	"anim_prefix"          ""
 
 	"printname"			"Невiдомо"	// added by wesp
-	"description"		"Maybe if you were a bit more goth you would have a clue what this thingie is.
+	"description"		"Можливо, якби ти був трохи бiльше готом, ти би знав, що це за штука.
 
-You need a Research skill of at least 4 to use this item."	// added by wesp
+Тобi потрiбно мати навичку Дослiдження не менше нiж на рiвнi 4, щоб використовувати цей предмет."	// added by wesp
 
 	"impact_snd_group"	"fist"
 

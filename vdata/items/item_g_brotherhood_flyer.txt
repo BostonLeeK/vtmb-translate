@@ -10,7 +10,7 @@ WeaponData
 	"anim_prefix"	" "
 
 	"printname"	"Братство Лiтак"
-	"description"	"The writing on this flyer reads \"I am Enlightened\"."
+	"description"	"Напис на цьому листi вказує: "Я Просвiчений"."
 
 
 	"bucket"		"1"

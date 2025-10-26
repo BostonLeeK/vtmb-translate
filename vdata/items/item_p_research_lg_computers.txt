@@ -10,7 +10,7 @@ WeaponData
 	"anim_prefix"		" "
 
 	"printname"			"Комп'ютери для Бабусi"
-	"description"		"\"To begin, put the 'foot pedal' on the desk and push the power button on the metal box. This is the 'house' for your friend computer 'Chip', the enchanted, electronic pixie that can do 4.8 billion calculations per second (WOW, that's fast, Chip!). Do you see an image on the 'magical computer window'...?\" Reading this will boost your Computer knowledge."
+	"description"		"\"Для початку поставте 'педаль ноги' на стiл та натиснiть кнопку живлення на металевiй коробцi. Це 'будинок' для вашого друга комп'ютера 'Чiп', зачарованого, електронного пiксi, який може виконувати 4,8 мiльярда обчислень за секунду (ВАУ, Чiпе, це швидко!). Чи бачите ви зображення на 'магiчному вiкнi комп'ютера'...?\" Читання цього пiдвищить вашi знання про комп'ютер."
 
 	"camera_class"		"noswitch"
 	"is_wieldable"		"0"

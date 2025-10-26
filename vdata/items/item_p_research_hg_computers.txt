@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"		" "
 
 	"printname"			"Посiбник ковбоя по кiберпростору вiд Кейса"
-	"description"		"Cowboys and Cyberspace don't mix. Now that we've got that outta the way.... Raises your Computer knowledge."
+	"description"		"Ковбої та кiберпростiр не поєднуються. Тепер, коли ми це вирiшили.... Пiдвищує ваше знання комп'ютерiв."
 
 	"weight"			"3"
 	"item_flags"		"1"

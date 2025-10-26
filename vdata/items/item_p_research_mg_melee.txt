@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"		" "
 
 	"printname"		" ендо дл€ досвiдчених учнiв"
-	"description"		"If you have gained the insight, willpower, and form from your first two years of Kendo, you are now ready for the secrets of the Kendo masters. Here is the one ancient rule every warrior must remember - only one can land the killing strike. Hit the kill zone or hit nothing. If you cannot control your attack, you are dead. This book raises your Melee skill."
+	"description"		"якщо ви здобули iнсайт, вольову силу та форму прот€гом перших двох рокiв  ендо, ви готовi дл€ таЇмниць майстрiв  ендо. ќсь одне давнЇ правило, €ке кожен воњн повинен пам'€тати - тiльки один може нанести смертельний удар. ѕопадiть у зону вбивства або не попадiть взагалi. якщо ви не можете контролювати свiй удар, ви мертвi. ÷€ книга пiдвищуЇ ваш навик Ѕлижнього бою."
 
 	"weight"			"3"
 	"item_flags"		"1"

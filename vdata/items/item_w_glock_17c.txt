@@ -3,7 +3,7 @@
 WeaponData
 {
 	"printname"		"•лок 19"	// changed by wesp
-	"description"		"A 9 mm standard pistol with a polymer grip and guide rod (instead of metal) that makes it lighter than other pistols. It can be found in use by most law enforcement agencies."	// changed by wesp
+	"description"		"9-мм стандартний пiстолет з полiмерним руко€ткою та направл€ючим важелем (замiсть металевого), що робить його легшим, нiж iншi пiстолети. …ого можна знайти у використаннi бiльшiстю правоохоронних органiв."	// changed by wesp
 
 	"viewmodel"		"models/weapons/pistol_glock/view/v_pistol_glock.mdl"
 	"playermodel"		"models/weapons/pistol_glock/ground/g_pistol_glock.mdl"

@@ -3,7 +3,7 @@
 WeaponData
 {
 	"printname"		"Пiро-арбалет" // changed by Wesp
-	"description"		"An advanced version of the ancient Chinese weapon. It silently fires one bolt at a time and ignites the tip to deal aggravated damage." // changed by Wesp
+	"description"		"Розширена версiя давньої китайської зброї. Вона тихо випускає по одному болту за раз та запалює кiнчик для завдання ускладненого пошкодження." // changed by Wesp
 
 	"viewmodel"			"models/weapons/crossbow/view/v_crossbow.mdl"
 	"playermodel"		"models/weapons/crossbow/ground/g_crossbow.mdl"

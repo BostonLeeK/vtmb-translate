@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"	" "
 
 	"printname"	"Жахлива стрiчка"	// changed by wesp
-	"description"	"A battered video cassette. The labeling is cheap and worn; you can barely make out \"Devilspawn Fleshfeast 1\" and the logo, which looks somewhat like \"DMP\". It appears this tape has changed hands more than a few times."	// changed by wesp
+	"description"	"Пошкоджена вiдеокасета. Маркування дешеве i зношене; ви майже не можете розрiзнити "Devilspawn Fleshfeast 1" та логотип, який схожий на "DMP". Здається, що ця касета змiнила власникiв не один раз."	// changed by wesp
 
 	"bucket"		"1"
 	"bucket_position"	"2"

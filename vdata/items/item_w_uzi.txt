@@ -3,7 +3,7 @@
 WeaponData
 {
 	"printname"		"IMI Uzi"	// changed by wesp
-	"description"		"The Uzi, aka 'Lassiter Killmatic', was developed to be a reliable and compact gun, robust enough to take a lot of punishment, and accurate enough to dish it out in a hurry. The ergonomic design of the Uzi was one of the first to incorporate wrap-around bolt and blowback action and to contain the magazine housing inside the pistol grip for quick and easy reloads. Limited recoil and climb make one-handed firing feasible."	// changed by wesp
+	"description"		"Узi, вiдомий як "Лассiтер Кiлматiк", був розроблений як надiйна та компактна зброя, досить мiцна, щоб витримати багато ударiв, та достатньо точна, щоб швидко вiдповiдати на них. Ергономiчний дизайн Узi був одним з перших, що включав обгортковий болт та дiю вiддачi, а також мiстив корпус магазину всерединi рукоятки для швидкого та легкого перезаряджання. Обмежений вiддача та пiдйом роблять можливим стрiльбу однiєю рукою."	// changed by wesp
 	"viewmodel"		"models/weapons/submachine_uzi/view/v_submachine_uzi.mdl"
 	"playermodel"		"models/weapons/submachine_uzi/ground/g_uzi.mdl"
 	"wieldmodel_f"		"models/weapons/submachine_uzi/wield/w_f_submachine_uzi.mdl"

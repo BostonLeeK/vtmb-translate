@@ -11,7 +11,7 @@ WeaponData
 	"anim_prefix"		" "
 
 	"printname"			"Огидний Келих"
-	"description"		"The perverse creation of a Tzimisce fleshcrafter, this abomination is forced to live a tortured eternity in servitude to the Damned. As you kill enemies, the Chalice will fill with blood. Use the Chalice to feed from it and gain its stored vitae."
+	"description"		"Пiдступна творiння флешкрафтера Тзiмiсцi, ця погань змушена жити в муках вiчного рабства перед Проклятими. Пiд час вбивства ворогiв, Келих наповнюється кров'ю. Використовуйте Келих, щоб посмакувати з нього та отримати збережену вiтальну речовину."
 
 	"weight"			"3"
 	"item_flags"		"1"

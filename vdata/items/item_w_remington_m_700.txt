@@ -3,7 +3,7 @@
 WeaponData
 {
 	"printname"		"Ремiнгтон М700" // changed by Wesp
-	"description"		"The 'Jaime Sue' is a standard rifle for sport hunting. It has to be reloaded after each shot." // changed by wesp
+	"description"		"'Jaime Sue' - це стандартна гвинтiвка для спортивного полювання. Її потрiбно перезаряджати пiсля кожного пострiлу." // changed by wesp
 	"viewmodel"		"models/weapons/rifle_rem700/view/v_rifle_rem700.mdl"
 	"playermodel"		"models/weapons/rifle_rem700/ground/g_rifle_rem700.mdl"
 	"wieldmodel_f"		"models/weapons/rifle_rem700/wield/w_f_rifle_rem700.mdl"
